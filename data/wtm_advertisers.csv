@@ -3,153 +3,156 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 96bb0156-b327-483a-b943-ee9c7ffa45bf,Eidsvoll Høyre,2023-03-08T14:44:41.022Z,10693b52-dc46-4247-a25c-6fbee94fd2b8,H,Norway,no,183450288333331,Eidsvoll Høyre,Facebook
 1eec0b9e-d38c-4d90-b705-80e0fa83b432,Eidsvoll SV,2023-03-08T10:54:12.677Z,368b157b-9c77-4db5-8332-b1d069e5551d,SV,Norway,no,105939459530874,Eidsvoll SV,Facebook
 4f033fe2-4c85-4c75-8693-fee10628013a,Meløy Venstre,2023-03-08T14:44:41.019Z,292a7a80-a245-4cd9-931b-35dd01bb12e5,V,Norway,no,572167033209411,Meløy Venstre,Facebook
-1f9cd700-5c5e-4b4b-bada-6ce8d8e7b705,Stjørdal Arbeiderparti,2023-03-08T14:44:41.005Z,8f4e3917-f4a7-4a68-916c-869b39c50c5d,Ap,Norway,no,139523776116756,Stjørdal Arbeiderparti,Facebook
 bf0033c3-c29f-405c-9f51-6b39f5b581d0,Venstre,2023-03-08T14:44:40.990Z,1e1a4c79-0583-407f-936e-6dec2482a02b,V,Norway,no,10254410675,Venstre,Facebook
 abd4388a-2867-401e-8659-79d6038eb469,Evje og Hornnes SV,2023-03-08T10:54:12.658Z,4b83dcc6-51b7-492b-bf4c-b3f06ec21ed2,SV,Norway,no,183670992404454,Evje og Hornnes SV,Facebook
-4e6a5862-df74-4858-97c0-19229aff47eb,Rogaland Venstre,2023-03-08T14:54:32.856Z,97885640-593c-41ed-8b82-d4d4a5c3261f,V,Norway,no,52417950870,Rogaland Venstre,Facebook
+1f9cd700-5c5e-4b4b-bada-6ce8d8e7b705,Stjørdal Arbeiderparti,2023-03-08T14:44:41.005Z,8f4e3917-f4a7-4a68-916c-869b39c50c5d,Ap,Norway,no,139523776116756,Stjørdal Arbeiderparti,Facebook
 109db5c7-6ab7-43d2-aa7d-604ec967b49f,Trondheim Høyre,2023-03-08T10:54:12.645Z,f38b219d-536f-4c68-b85f-75c7de9dff5e,H,Norway,no,329215143807272,Trondheim Høyre,Facebook
-17fac3f2-0164-41fb-8d94-1ade26a48685,Trondheim SV,2023-03-08T10:54:12.663Z,e1096cfd-e5c8-4335-a491-d98204a5d38f,SV,Norway,no,109481755758840,Trondheim SV,Facebook
-af58b2d1-3efe-46c8-b8a4-fea7633338ff,Våler SV (Hedmark),2023-03-08T10:54:12.625Z,4b3d9abe-f83e-4ea9-8555-acc77d992b25,SV,Norway,no,219119001471138,Våler SV (Hedmark),Facebook
 4e55bfd7-1882-4b73-864f-620287e1c063,Bjerke Sosialistisk Venstreparti - SV,2023-03-08T15:33:38.388Z,0177ced7-3988-434a-a265-fac76e3323cc,SV,Norway,no,222714067787800,Bjerke Sosialistisk Venstreparti - SV,Facebook
-a9311f71-da04-4fad-83c0-6662e65dd0bd,Kongsvinger SV,2023-03-08T14:44:41.001Z,e92d9c28-7e12-4f0f-8313-15e211622e18,SV,Norway,no,2195177054093601,Kongsvinger SV,Facebook
 7f9e9fbf-67a1-42f1-a3c0-a8094df9e368,Lørenskog SV,2023-03-08T10:54:12.625Z,4f67b753-4e80-4c0d-ac01-7099ab10b86f,SV,Norway,no,189429677833005,Lørenskog SV,Facebook
-e821c546-c453-4775-ad51-3170bbcd849b,Finnmark SV,2023-03-08T10:54:12.663Z,f4661839-bb65-4a26-b2af-3a613cd99617,SV,Norway,no,54603926197,Finnmark SV,Facebook
 0dfc744a-9484-403e-88f1-9a090bf119df,Haugesund Venstre,2023-03-08T15:24:01.482Z,dbbb395b-3cb2-4eb5-891e-32faf5a8518f,V,Norway,no,34448777123,Haugesund Venstre,Facebook
-e81051f7-3be6-4b4e-b5fb-333ed9653714,Bamble Senterparti,2023-03-08T15:24:01.487Z,5356d11c-b2b9-4fb9-bc14-a1c7f74d09cb,Sp,Norway,no,1628882677340794,Bamble Senterparti,Facebook
-7013b9c1-c677-48b0-bc19-e79db0fc6149,Rogaland FrP,2023-03-08T18:52:01.350Z,6a4b1835-fc49-417f-b44c-5f537c38fcf6,Frp,Norway,no,104925066225779,Rogaland FrP,Facebook
 6b277a2c-6bfa-4d23-a4a8-879cba886e6d,Lørenskog Venstre,2023-03-08T10:54:12.683Z,eddece76-b489-4cc3-b043-3521e0f50bc1,V,Norway,no,224058237610836,Lørenskog Venstre,Facebook
 e62d37a0-3ed0-4f02-91f6-7965b78b057c,Risør SV,2023-03-08T10:54:12.706Z,1704dbdf-36ab-4cad-9a8a-c4a3cc1e0ed0,SV,Norway,no,717469565296513,Risør SV,Facebook
 4c648d13-cd10-48b6-a4e1-9b2018e705cd,Troms SV,2023-03-08T10:54:12.605Z,9f2f5dd5-0e1b-43c3-a2c7-bdb22c2d570f,SV,Norway,no,107028478959490,Troms SV,Facebook
+4e6a5862-df74-4858-97c0-19229aff47eb,Rogaland Venstre,2023-03-08T14:54:32.856Z,97885640-593c-41ed-8b82-d4d4a5c3261f,V,Norway,no,52417950870,Rogaland Venstre,Facebook
+17fac3f2-0164-41fb-8d94-1ade26a48685,Trondheim SV,2023-03-08T10:54:12.663Z,e1096cfd-e5c8-4335-a491-d98204a5d38f,SV,Norway,no,109481755758840,Trondheim SV,Facebook
+af58b2d1-3efe-46c8-b8a4-fea7633338ff,Våler SV (Hedmark),2023-03-08T10:54:12.625Z,4b3d9abe-f83e-4ea9-8555-acc77d992b25,SV,Norway,no,219119001471138,Våler SV (Hedmark),Facebook
+a9311f71-da04-4fad-83c0-6662e65dd0bd,Kongsvinger SV,2023-03-08T14:44:41.001Z,e92d9c28-7e12-4f0f-8313-15e211622e18,SV,Norway,no,2195177054093601,Kongsvinger SV,Facebook
+e821c546-c453-4775-ad51-3170bbcd849b,Finnmark SV,2023-03-08T10:54:12.663Z,f4661839-bb65-4a26-b2af-3a613cd99617,SV,Norway,no,54603926197,Finnmark SV,Facebook
+e81051f7-3be6-4b4e-b5fb-333ed9653714,Bamble Senterparti,2023-03-08T15:24:01.487Z,5356d11c-b2b9-4fb9-bc14-a1c7f74d09cb,Sp,Norway,no,1628882677340794,Bamble Senterparti,Facebook
+7013b9c1-c677-48b0-bc19-e79db0fc6149,Rogaland FrP,2023-03-08T18:52:01.350Z,6a4b1835-fc49-417f-b44c-5f537c38fcf6,Frp,Norway,no,104925066225779,Rogaland FrP,Facebook
 e15b81ef-c5b0-4534-b25c-390edafc8834,Siv Brua FrP-politiker,2023-03-08T17:58:19.355Z,9b1237c0-708a-4677-ba16-48394643bd84,Frp,Norway,no,104683939169391,Siv Brua FrP-politiker,Facebook
 d9730454-e0d6-412c-9735-b28c908892b1,Lars Petter Solås - FrP,2023-03-08T16:03:33.890Z,e3320385-21f5-4058-83c7-dc435f428d4a,Frp,Norway,no,857285947695294,Lars Petter Solås - FrP,Facebook
 12212ee5-2e7c-428a-8eed-7d410e83863b,Nordre Aker FrP,2023-03-08T10:54:12.664Z,b69559fd-10f9-409d-a4a7-e3472b214c65,Frp,Norway,no,105616118716008,Nordre Aker FrP,Facebook
 6b3acb02-0e6f-4aec-8bae-1a325e95147c,Sandnes FrP,2023-03-08T18:41:28.827Z,76c69110-f2ea-4ec7-895d-f0db6f2513b8,Frp,Norway,no,121427227925706,Sandnes FrP,Facebook
-446b6b50-ed49-4a4a-948d-51a4cd685ec2,Moss FrP,2023-03-08T15:24:01.467Z,7f0ac81f-efc3-4f2e-81b2-7325b0a967cd,Frp,Norway,no,117756891616696,Moss FrP,Facebook
 25b87e75-f241-4d6f-b1ef-d25960e25e99,Alver FrP,2023-03-08T18:09:16.309Z,c62becaf-b119-43c7-8971-ad8481194d32,Frp,Norway,no,214007925427238,Alver FrP,Facebook
 65a38980-ec24-46a7-849e-e63282dcfed1,Tonje Lavik - FrP,2023-03-08T16:44:34.422Z,983031ff-1aa4-4d04-8bbb-033f981c44d0,Frp,Norway,no,2869351156469363,Tonje Lavik - FrP,Facebook
+24fd021f-bb93-4ccb-abe9-2ac099567057,Fylkesordførerkandidat Niklas Eriksen - FrP,2023-03-08T10:54:12.625Z,e0ac05f6-60cb-49d9-9d05-1b2b3935ed13,Frp,Norway,no,100231879042950,Fylkesordførerkandidat Niklas Eriksen - FrP,Facebook
+446b6b50-ed49-4a4a-948d-51a4cd685ec2,Moss FrP,2023-03-08T15:24:01.467Z,7f0ac81f-efc3-4f2e-81b2-7325b0a967cd,Frp,Norway,no,117756891616696,Moss FrP,Facebook
 3addb8f5-a18c-4f0f-b72b-a9f1e35dc47e,Vestfold og Telemark FrP,2023-03-08T10:54:12.534Z,fef287d3-49f3-4dec-aa9d-1cdae9ae9871,Frp,Norway,no,198148715581,Vestfold og Telemark FrP,Facebook
 8af25e3b-5c21-4c48-8f66-c19702ceef5b,SV - Sosialistisk Venstreparti,2023-03-08T16:34:21.933Z,ffbd3918-7542-4f40-91cb-8e22b415e95e,SV,Norway,no,33483001033,SV - Sosialistisk Venstreparti,Facebook
-24fd021f-bb93-4ccb-abe9-2ac099567057,Fylkesordførerkandidat Niklas Eriksen - FrP,2023-03-08T10:54:12.625Z,e0ac05f6-60cb-49d9-9d05-1b2b3935ed13,Frp,Norway,no,100231879042950,Fylkesordførerkandidat Niklas Eriksen - FrP,Facebook
 f84cf3df-7974-402c-92bf-5f1586df2aea,Oslo Arbeiderparti,2023-03-08T20:17:21.432Z,7ce79c52-4f8b-461e-868f-ed51c0adfa6c,Ap,Norway,no,171619972854769,Oslo Arbeiderparti,Facebook
 1eb9915a-f913-4e1e-a74d-87c76a3e491b,Tromsø Arbeiderparti,2023-03-08T19:56:04.806Z,9da29d7f-d6c5-4d4f-85e4-b13993a81536,Ap,Norway,no,129829403731255,Tromsø Arbeiderparti,Facebook
 30d4bf04-a057-4e62-a1e2-74c9be3e4013,Gjøvik Arbeiderparti,2023-03-08T19:13:22.539Z,55e1a3e6-01fd-4fb1-aa65-e0e1ce1743b6,Ap,Norway,no,588928924452449,Gjøvik Arbeiderparti,Facebook
-26c371ba-9cf0-4004-9b66-d68dc65a107b,FrPs sametingsgruppe,2023-03-08T15:04:30.650Z,70bfd7b6-94dc-4980-b09e-96eeb9ac54ed,Frp,Norway,no,1663819643914700,FrPs sametingsgruppe,Facebook
 2ae7b268-61b5-40d3-b0e6-817f5cc1b5f2,Innlandet Arbeiderparti,2023-03-08T18:52:01.266Z,c6ba7799-f94a-443f-b5b8-4a80279debec,Ap,Norway,no,157978627560195,Innlandet Arbeiderparti,Facebook
 a95b82e8-0aed-43fb-8e50-fa1a6c3ec34c,Grimstad Arbeiderparti,2023-03-08T17:58:19.364Z,de6066cf-57db-4122-91f9-3db73bc961eb,Ap,Norway,no,290139477801587,Grimstad Arbeiderparti,Facebook
-287fea01-4dfc-4039-8a98-9beb60a05a31,Lørenskog FrP,2023-03-08T10:54:12.691Z,c202fc5f-a9b7-4129-8c4b-bfdae20256f2,Frp,Norway,no,157932564240522,Lørenskog FrP,Facebook
-147c7faa-2c2e-47f0-a78d-725c0b09ac37,Vefsn FrP,2023-03-08T10:54:12.583Z,5bc1b977-9cda-4b13-b43a-1db0650ffae6,Frp,Norway,no,201894056540131,Vefsn FrP,Facebook
 7ad22feb-879b-4514-a98f-01997ed51d5b,Edvin Søvik - Ordførerkandidat for Ås Arbeiderparti,2023-03-08T16:55:10.730Z,8f46b156-cd6a-44f4-8647-54b3daeabebb,Ap,Norway,no,109103902009501,Edvin Søvik - Ordførerkandidat for Ås Arbeiderparti,Facebook
 8d82fc6f-9abf-4acc-b2fa-dd7095471520,Lørenskog Høyre,2023-03-08T16:24:10.655Z,b13ee336-d0d9-4874-a853-2323c57afb79,H,Norway,no,155399071173729,Lørenskog Høyre,Facebook
+26c371ba-9cf0-4004-9b66-d68dc65a107b,FrPs sametingsgruppe,2023-03-08T15:04:30.650Z,70bfd7b6-94dc-4980-b09e-96eeb9ac54ed,Frp,Norway,no,1663819643914700,FrPs sametingsgruppe,Facebook
+287fea01-4dfc-4039-8a98-9beb60a05a31,Lørenskog FrP,2023-03-08T10:54:12.691Z,c202fc5f-a9b7-4129-8c4b-bfdae20256f2,Frp,Norway,no,157932564240522,Lørenskog FrP,Facebook
+147c7faa-2c2e-47f0-a78d-725c0b09ac37,Vefsn FrP,2023-03-08T10:54:12.583Z,5bc1b977-9cda-4b13-b43a-1db0650ffae6,Frp,Norway,no,201894056540131,Vefsn FrP,Facebook
 03afe147-e34c-4227-b203-180b0e949893,Lillestrøm FrP,2023-03-08T10:54:12.564Z,317b1f6b-645e-4a6d-a973-c05ac6601461,Frp,Norway,no,536745556722065,Lillestrøm FrP,Facebook
-3539d1d3-2afa-437a-8eb9-76e1379efa5a,Gaute Stokka FrP politiker,2023-03-08T15:04:30.729Z,6386242d-d37d-4c4a-9e1e-f874142e74df,Frp,Norway,no,862716097110481,Gaute Stokka FrP politiker,Facebook
 744836c0-be45-4f4d-8634-6084b4ab57d5,Stange FrP,2023-03-08T10:54:12.697Z,4effa6ae-f5c2-401c-8ef3-760e7151bc3a,Frp,Norway,no,1430303507191895,Stange FrP,Facebook
-011fcb7a-f802-42ba-9d44-7afcd150c2b3,Stavanger Arbeiderparti,2023-03-08T17:58:19.336Z,d33c8202-7f8b-4a87-b126-c47da0180f7e,Ap,Norway,no,156545564365962,Stavanger Arbeiderparti,Facebook
-57724ae2-b0a6-4e23-a893-418cbb6e1137,Porsgrunn Arbeiderparti,2023-03-08T17:47:36.875Z,5362ab8d-bc6a-4b65-9d95-55d9d27b15a0,Ap,Norway,no,764891286856218,Porsgrunn Arbeiderparti,Facebook
+3539d1d3-2afa-437a-8eb9-76e1379efa5a,Gaute Stokka FrP politiker,2023-03-08T15:04:30.729Z,6386242d-d37d-4c4a-9e1e-f874142e74df,Frp,Norway,no,862716097110481,Gaute Stokka FrP politiker,Facebook
 38ca6d1e-aee8-406f-8afb-1a57b311142b,Ørsta FrP,2023-03-08T10:54:12.684Z,84289ff5-7b31-421c-b677-8616f20f865a,Frp,Norway,no,857817357610536,Ørsta FrP,Facebook
-78ce9edd-afed-4682-ab5b-917acedd2fbf,Tromsø Høyre,2023-03-08T16:13:48.219Z,9390626a-81f7-4ca5-a7b1-544d5ce1b88e,H,Norway,no,193254017369133,Tromsø Høyre,Facebook
-137aa243-3912-4b1a-b83d-f2cf3bbce0e0,Fredrikstad Arbeiderparti,2023-03-08T16:44:34.459Z,4986e874-495d-4fa3-8edd-e367ce1b9f11,Ap,Norway,no,299518093440216,Fredrikstad Arbeiderparti,Facebook
 c80013c7-6e6d-491f-8a8a-7c20c77b3014,Andøy SV,2023-03-08T18:52:01.359Z,85c63b46-e878-4902-9bb1-c4a603be4458,SV,Norway,no,2356695867682506,Andøy SV,Facebook
-491186b1-1111-4a03-b506-479a940c1906,Rælingen Høyre,2023-03-08T16:24:10.712Z,cc1e82cb-34d5-43a7-afd2-ef320dabd2d1,H,Norway,no,289683304433819,Rælingen Høyre,Facebook
-f4f6183b-eaf1-475a-b9de-7e65e3a4dfd2,Vadsø Arbeiderparti,2023-03-08T16:13:48.198Z,a81902b3-0ba7-414a-88a0-a9c77e737221,Ap,Norway,no,493921097310357,Vadsø Arbeiderparti,Facebook
 037b305d-01de-4cd0-b5fd-becb9ae07404,Tønsberg Arbeiderparti,2023-03-08T20:38:28.159Z,4dc33675-49c0-4fc5-93e5-59e94d1aa255,Ap,Norway,no,367798489898591,Tønsberg Arbeiderparti,Facebook
-0be60d80-d156-40b6-bd6e-41336b1883d1,Sarpsborg Høyre,2023-03-08T18:41:28.808Z,e44f00d8-6f03-40a7-878f-63860fb4c14b,H,Norway,no,1496585820630164,Sarpsborg Høyre,Facebook
 e22866a0-39c1-4ba8-aa73-37c0f3269125,Aurskog-Høland Arbeiderparti,2023-03-08T19:56:04.864Z,4806f07c-a302-4e54-93c5-0ede79ee7427,Ap,Norway,no,91007335905,Aurskog-Høland Arbeiderparti,Facebook
-227b6a5e-d78d-4f22-b63b-8f35ba184698,Oslo Arbeidersamfunn,2023-03-08T14:44:40.978Z,5017cdfd-eeca-47e8-a0d1-5e6cfcc1c5cb,Ap,Norway,no,772203719475318,Oslo Arbeidersamfunn,Facebook
 dfb015f3-1da6-4cb9-9abf-ad1d889e726c,Rogaland Arbeiderparti,2023-03-08T19:24:03.374Z,90becf05-915c-47bc-a6d1-9ff1465da375,Ap,Norway,no,160643640614804,Rogaland Arbeiderparti,Facebook
-ee1f6460-2786-4bc6-a28f-467846574f61,Nord-Odal Høyre,2023-03-08T19:45:23.520Z,c6482333-5a6f-46de-b4e3-02b6501e026b,H,Norway,no,459939394148243,Nord-Odal Høyre,Facebook
-72f30382-f84c-434a-95be-70d408127d65,Bærum Arbeiderparti,2023-03-08T15:43:28.873Z,3c890c39-ef0a-4ab0-9cb4-41c9091afd09,Ap,Norway,no,217610311592724,Bærum Arbeiderparti,Facebook
 8d836ce5-2526-41c3-80d3-74207d3bd4c4,Time Arbeiderparti,2023-03-08T19:13:22.539Z,dd8e0256-7a7d-4701-bb88-af879116f88a,Ap,Norway,no,148719675190424,Time Arbeiderparti,Facebook
-1fecca40-10c9-47bf-a0ad-8b6a471534e5,Skaun Høyre,2023-03-09T10:54:18.080Z,04631336-4348-4031-9f49-49f955bc17bd,H,Norway,no,764241357036366,Skaun Høyre,Facebook
-312bf635-4e58-4eaf-931a-b0e833250c84,Ordførerkandidat Yngve Magnus T. Fosse - Høyre,2023-03-08T19:24:03.448Z,cef118b9-6ab6-4866-96da-504a8226d63a,H,Norway,no,106939485471151,Ordførerkandidat Yngve Magnus T. Fosse - Høyre,Facebook
 2f0ac910-fc41-4950-a410-96230d928676,Vestnes Arbeiderparti,2023-03-08T16:24:10.655Z,a1b8187d-c8c8-4cd8-b6c0-7c4266a04115,Ap,Norway,no,620408144801035,Vestnes Arbeiderparti,Facebook
 d6cb7681-5cef-43f6-bfa9-6ec6169fdbe3,Ordførerkandidat Magnus Arnesen - Høyre,2023-03-08T18:41:28.804Z,41ed073e-921a-4dd1-8eea-984c022a25e4,H,Norway,no,113314938037285,Ordførerkandidat Magnus Arnesen - Høyre,Facebook
+011fcb7a-f802-42ba-9d44-7afcd150c2b3,Stavanger Arbeiderparti,2023-03-08T17:58:19.336Z,d33c8202-7f8b-4a87-b126-c47da0180f7e,Ap,Norway,no,156545564365962,Stavanger Arbeiderparti,Facebook
+e956ccb8-8362-4f5f-998d-4df9525b8a02,Alta Senterparti,2023-08-01T05:08:16.302Z,428f2103-2277-44cf-a7c7-8e9614a878e5,Sp,Norway,no,578043708953655,Alta Senterparti,Facebook
+57724ae2-b0a6-4e23-a893-418cbb6e1137,Porsgrunn Arbeiderparti,2023-03-08T17:47:36.875Z,5362ab8d-bc6a-4b65-9d95-55d9d27b15a0,Ap,Norway,no,764891286856218,Porsgrunn Arbeiderparti,Facebook
+78ce9edd-afed-4682-ab5b-917acedd2fbf,Tromsø Høyre,2023-03-08T16:13:48.219Z,9390626a-81f7-4ca5-a7b1-544d5ce1b88e,H,Norway,no,193254017369133,Tromsø Høyre,Facebook
+137aa243-3912-4b1a-b83d-f2cf3bbce0e0,Fredrikstad Arbeiderparti,2023-03-08T16:44:34.459Z,4986e874-495d-4fa3-8edd-e367ce1b9f11,Ap,Norway,no,299518093440216,Fredrikstad Arbeiderparti,Facebook
+491186b1-1111-4a03-b506-479a940c1906,Rælingen Høyre,2023-03-08T16:24:10.712Z,cc1e82cb-34d5-43a7-afd2-ef320dabd2d1,H,Norway,no,289683304433819,Rælingen Høyre,Facebook
+f4f6183b-eaf1-475a-b9de-7e65e3a4dfd2,Vadsø Arbeiderparti,2023-03-08T16:13:48.198Z,a81902b3-0ba7-414a-88a0-a9c77e737221,Ap,Norway,no,493921097310357,Vadsø Arbeiderparti,Facebook
+0be60d80-d156-40b6-bd6e-41336b1883d1,Sarpsborg Høyre,2023-03-08T18:41:28.808Z,e44f00d8-6f03-40a7-878f-63860fb4c14b,H,Norway,no,1496585820630164,Sarpsborg Høyre,Facebook
+227b6a5e-d78d-4f22-b63b-8f35ba184698,Oslo Arbeidersamfunn,2023-03-08T14:44:40.978Z,5017cdfd-eeca-47e8-a0d1-5e6cfcc1c5cb,Ap,Norway,no,772203719475318,Oslo Arbeidersamfunn,Facebook
+ee1f6460-2786-4bc6-a28f-467846574f61,Nord-Odal Høyre,2023-03-08T19:45:23.520Z,c6482333-5a6f-46de-b4e3-02b6501e026b,H,Norway,no,459939394148243,Nord-Odal Høyre,Facebook
+72f30382-f84c-434a-95be-70d408127d65,Bærum Arbeiderparti,2023-03-08T15:43:28.873Z,3c890c39-ef0a-4ab0-9cb4-41c9091afd09,Ap,Norway,no,217610311592724,Bærum Arbeiderparti,Facebook
+1fecca40-10c9-47bf-a0ad-8b6a471534e5,Skaun Høyre,2023-03-09T10:54:18.080Z,04631336-4348-4031-9f49-49f955bc17bd,H,Norway,no,764241357036366,Skaun Høyre,Facebook
+312bf635-4e58-4eaf-931a-b0e833250c84,Ordførerkandidat Yngve Magnus T. Fosse - Høyre,2023-03-08T19:24:03.448Z,cef118b9-6ab6-4866-96da-504a8226d63a,H,Norway,no,106939485471151,Ordførerkandidat Yngve Magnus T. Fosse - Høyre,Facebook
 145538c7-35b3-42f5-81ff-8d0eaea89423,Bærum MDG,2023-03-08T20:17:21.472Z,38eb6f5d-2288-4cef-911c-eb2241eb38a3,MdG,Norway,no,609322219124074,Bærum MDG,Facebook
 1a66fd53-49f9-486e-8730-36f851a2ba1f,Trøndelag MDG,2023-03-08T16:24:10.673Z,692ddb3c-d660-4534-b872-ae126de49b05,MdG,Norway,no,126842761364857,Trøndelag MDG,Facebook
-c0247093-d442-499a-a1de-ddf201a79219,Miljøpartiet De Grønne - MDG,2023-03-08T10:54:12.583Z,571b1763-202f-4818-86b8-1defcc169d56,MdG,Norway,no,46818767155,Miljøpartiet De Grønne - MDG,Facebook
 27ebab92-7554-4ac9-a020-d50bd40be24b,Sissel Knutsen Hegdal - ordførerkandidat Høyre,2023-03-08T19:34:39.499Z,e465c865-93d9-40a1-8e6a-69b44b66b487,H,Norway,no,1281475135310961,Sissel Knutsen Hegdal - ordførerkandidat Høyre,Facebook
 976bf654-6aaf-4b51-aa2a-6ddd7780f4ce,Rødt Odal,2023-03-09T10:54:18.082Z,338bee46-e163-4ee7-9ce4-bd1d2db2e912,R,Norway,no,108731807574685,Rødt Odal,Facebook
-2400fc01-5355-4847-b377-c8bf8551a540,Midt-Telemark MDG,2023-03-08T18:52:01.296Z,5fd299c6-a996-466b-8c77-9e476b84791c,MdG,Norway,no,276498275894579,Midt-Telemark MDG,Facebook
-abb5b827-a4ba-47d4-aef8-251d928e0cca,Sarpsborg MDG,2023-03-08T18:09:16.318Z,ea604186-6886-4eab-a246-4d0998e0a860,MdG,Norway,no,488714917821975,Sarpsborg MDG,Facebook
 40f848b4-739c-4728-88eb-55c3d2405779,Møre og Romsdal MDG,2023-03-08T18:52:01.359Z,48723b51-7d45-466d-961b-947207fc541f,MdG,Norway,no,367725053379647,Møre og Romsdal MDG,Facebook
-37338038-1bf1-4258-8e9f-921d48d4f558,Voss Arbeidarparti,2023-04-30T06:53:35.173Z,35198738-389a-483f-a100-b8a7af184aed,Ap,Norway,no,197257483646326,Voss Arbeidarparti,Facebook
 cfe3760e-20e6-4349-a6b1-d9d77ad4808d,Hamar MDG,2023-03-08T18:41:28.786Z,f07cecb6-e19f-4e6f-89d8-7243aa5a6275,MdG,Norway,no,188682174485551,Hamar MDG,Facebook
 db9a36ff-b0c2-421f-8bf1-08d7de845274,Miljøpartiet De Grønne Narvik,2023-03-08T14:44:41.007Z,fdd26a67-3158-4906-87e1-9343b7ec1951,MdG,Norway,no,108999168504071,Miljøpartiet De Grønne Narvik,Facebook
 d85f47c8-d3c8-40eb-a0c7-9667cb0424e2,Evren Ünal - By og Fylkesvalget Kristiansand Agder MDG 2023,2023-03-08T10:54:12.683Z,bc6245ee-e6f3-4f76-9caf-d0df12fa23fe,MdG,Norway,no,112012974739174,Evren Ünal - By og Fylkesvalget Kristiansand Agder MDG 2023,Facebook
-c06549c2-32cb-4242-8d7d-ca7f8f2422d5,Alver Arbeidarparti,2023-09-09T05:07:32.405Z,654b9435-16fe-4705-bcf3-dd71d9c0a167,Ap,Norway,no,161786354542517,Alver Arbeidarparti,Facebook
+c0247093-d442-499a-a1de-ddf201a79219,Miljøpartiet De Grønne - MDG,2023-03-08T10:54:12.583Z,571b1763-202f-4818-86b8-1defcc169d56,MdG,Norway,no,46818767155,Miljøpartiet De Grønne - MDG,Facebook
+2400fc01-5355-4847-b377-c8bf8551a540,Midt-Telemark MDG,2023-03-08T18:52:01.296Z,5fd299c6-a996-466b-8c77-9e476b84791c,MdG,Norway,no,276498275894579,Midt-Telemark MDG,Facebook
+abb5b827-a4ba-47d4-aef8-251d928e0cca,Sarpsborg MDG,2023-03-08T18:09:16.318Z,ea604186-6886-4eab-a246-4d0998e0a860,MdG,Norway,no,488714917821975,Sarpsborg MDG,Facebook
+37338038-1bf1-4258-8e9f-921d48d4f558,Voss Arbeidarparti,2023-04-30T06:53:35.173Z,35198738-389a-483f-a100-b8a7af184aed,Ap,Norway,no,197257483646326,Voss Arbeidarparti,Facebook
 518eab7d-242a-4293-94cb-326620fd28f4,Volda Arbeidarparti,2023-09-11T05:07:39.440Z,6d3e0c36-eae0-4c49-9ad9-8ca09c3af8c1,Ap,Norway,no,444888865601536,Volda Arbeidarparti,Facebook
 2a30d845-77b1-4d1e-b71d-22e520ac6bc5,Stian Davies - fylkesordførerkandidat for Vestland Arbeidarparti,2023-07-17T06:32:37.544Z,c39228c1-b863-4fb6-8cfd-64910ae3d0ce,Ap,Norway,no,109076072177574,Stian Davies - fylkesordførerkandidat for Vestland Arbeidarparti,Facebook
-01adfeec-97d0-40da-9d25-cbfc72b4fc1c,Arendal MDG,2023-07-20T06:07:51.411Z,754105bf-4310-497f-bd47-73bcf70d6ce9,MdG,Norway,no,447594115301973,Arendal MDG,Facebook
 23c84102-ff49-4ef5-9277-7e7137945c39,Haram Arbeidarparti,2023-08-31T06:14:32.659Z,f78a892a-54fb-49ed-9bad-adcd2a7d1593,Ap,Norway,no,122097375224017697,Haram Arbeidarparti,Facebook
-9903b7c3-7623-43de-baae-161b4832cac7,Vang MDG,2023-09-01T05:07:23.930Z,d7775bcc-3878-4311-928b-10e98273e2bb,MdG,Norway,no,109536884977389,Vang MDG,Facebook
-e166c786-af75-4bf1-aeed-66e9a89961d7,Hå KrF,2023-03-08T19:02:45.800Z,37c6e755-e8ae-4aa5-b529-d3fd09829e4b,KrF,Norway,no,1461371280751779,Hå KrF,Facebook
 e78af69c-f521-4541-87ea-a7641152949f,Vestland Arbeidarparti,2023-06-26T05:08:51.408Z,d4f95757-3851-41e5-a3a9-43ecbf2cd35c,Ap,Norway,no,292545047480514,Vestland Arbeidarparti,Facebook
 4929721e-8e9a-4fa7-9c2b-8923ba14f4a9,Nord-Odal Arbeiderparti,2023-09-14T05:07:23.847Z,7de3df4b-5456-463b-873d-2f32cb77f09e,Ap,Norway,no,193610867343696,Nord-Odal Arbeiderparti,Facebook
-43cc863b-3175-4b6e-a145-574363b6d070,Øygarden MDG,2023-08-19T05:08:17.080Z,89448999-1afe-49eb-bc1c-375f206a0483,MdG,Norway,no,519512854783951,Øygarden MDG,Facebook
 e1d20970-1a5e-4708-8909-f7d1d878f81b,Søndre Land Arbeiderparti,2023-09-14T05:07:24.142Z,3a73d088-3411-46b6-ad9c-338ff262c8fb,Ap,Norway,no,259959540813063,Søndre Land Arbeiderparti,Facebook
-9457d68c-202f-4a5d-b676-e5ce1ea91ef4,SENJA KRF,2023-08-18T05:07:52.683Z,fca513a6-701f-4609-91f9-9f972b6aa71b,KrF,Norway,no,2064673150473341,SENJA KRF,Facebook
 d4614fdc-812f-45ea-a0d4-ccfe492cd666,Sauda Venstre,2023-09-14T05:07:24.082Z,1f0c321c-f115-4054-aa46-b2aa2ec29d5b,V,Norway,no,312169835526717,Sauda Venstre,Facebook
 1feb1053-feec-4dcf-bfea-f5b519950128,Stig Abrahamsen - Fremskrittspartiet,2023-09-14T05:07:23.523Z,7df4235c-d2e2-46ca-bff5-38337759b836,Frp,Norway,no,145431195962645,Stig Abrahamsen - Fremskrittspartiet,Facebook
+c06549c2-32cb-4242-8d7d-ca7f8f2422d5,Alver Arbeidarparti,2023-09-09T05:07:32.405Z,654b9435-16fe-4705-bcf3-dd71d9c0a167,Ap,Norway,no,161786354542517,Alver Arbeidarparti,Facebook
+01adfeec-97d0-40da-9d25-cbfc72b4fc1c,Arendal MDG,2023-07-20T06:07:51.411Z,754105bf-4310-497f-bd47-73bcf70d6ce9,MdG,Norway,no,447594115301973,Arendal MDG,Facebook
+9903b7c3-7623-43de-baae-161b4832cac7,Vang MDG,2023-09-01T05:07:23.930Z,d7775bcc-3878-4311-928b-10e98273e2bb,MdG,Norway,no,109536884977389,Vang MDG,Facebook
+e166c786-af75-4bf1-aeed-66e9a89961d7,Hå KrF,2023-03-08T19:02:45.800Z,37c6e755-e8ae-4aa5-b529-d3fd09829e4b,KrF,Norway,no,1461371280751779,Hå KrF,Facebook
+43cc863b-3175-4b6e-a145-574363b6d070,Øygarden MDG,2023-08-19T05:08:17.080Z,89448999-1afe-49eb-bc1c-375f206a0483,MdG,Norway,no,519512854783951,Øygarden MDG,Facebook
+9457d68c-202f-4a5d-b676-e5ce1ea91ef4,SENJA KRF,2023-08-18T05:07:52.683Z,fca513a6-701f-4609-91f9-9f972b6aa71b,KrF,Norway,no,2064673150473341,SENJA KRF,Facebook
 15d2e893-c73f-4e33-9396-b78d3937861d,Kristiansand MDG,2023-07-07T13:16:55.717Z,f5853e44-f39a-45e7-b2c7-d318e9548ddc,MdG,Norway,no,338491586344479,Kristiansand MDG,Facebook
-251c82fb-3706-422d-aee7-eec70c17f44d,Farsund MDG,2023-08-27T05:07:24.724Z,fcd5c458-ec5c-443d-9319-3dedc677dece,MdG,Norway,no,107869985578708,Farsund MDG,Facebook
-196c9324-2b8a-4214-a833-be861bc888f0,Kristiansand KrF,2023-08-25T05:07:12.946Z,cbcf2d3d-4c87-4c69-8c18-1a930c488352,KrF,Norway,no,207071939324369,Kristiansand KrF,Facebook
 7a51aff8-2c4f-4d74-93de-3862ad2a6595,Rælingen MDG,2023-09-04T05:07:25.577Z,77e0afb0-d311-4aed-ada2-2ff6c0c1fed8,MdG,Norway,no,1548893955347801,Rælingen MDG,Facebook
-08a1e204-9f55-4b1c-844a-c2b05a6178c3,Troms og Finnmark MDG,2023-08-29T05:07:17.870Z,22c91f96-4028-492f-ac7e-69282d59167c,MdG,Norway,no,328687443909969,Troms og Finnmark MDG,Facebook
 e48cd7e1-3561-436b-98a5-7a09c755af97,Horten SV,2023-08-19T05:08:17.064Z,ea9fdc65-1b69-4f10-9380-d4a519714c5e,SV,Norway,no,175087942535706,Horten SV,Facebook
-f394c3e4-13e2-4c36-8df5-7f57098f7341,KrF Kristelig Folkeparti,2023-08-31T06:14:32.525Z,1dbb02d2-4a06-4d30-bac8-ded954f86a87,KrF,Norway,no,10118416372,KrF Kristelig Folkeparti,Facebook
 55f2ef56-d980-45b1-9b3d-8eef64e1c3f4,Vestby SV,2023-08-21T05:08:13.913Z,f62c4776-8792-4bf0-a974-f36405c65321,SV,Norway,no,211328725544192,Vestby SV,Facebook
-f29374d7-a52b-4625-a147-0e1b70bc4a0b,Stjørdal MDG,2023-09-07T05:07:09.808Z,ffb2b48f-e47e-48c4-9903-317cdf206aca,MdG,Norway,no,220905581263129,Stjørdal MDG,Facebook
 4d67c2d3-887d-4a61-b1a8-af2d6d1c33ad,Innlandet SV,2023-08-25T05:07:12.603Z,3c7eed3f-8adf-46e9-a0a1-91c6b98a2733,SV,Norway,no,310474041955,Innlandet SV,Facebook
 036a965c-5f9e-4b73-8d9d-bbbaa25db5d2,Alver SV,2023-08-26T05:07:21.627Z,b7969354-335e-4096-a7f0-8cbadd46a1a4,SV,Norway,no,1911806245536305,Alver SV,Facebook
-aa55705c-60ff-4df7-b6d5-d620da8084b2,Henning Holsvik -Krf,2023-03-08T16:24:10.691Z,253019ff-bd81-4a04-8d35-5fcd911cdf0d,KrF,Norway,no,101905329192165,Henning Holsvik -Krf,Facebook
 e5643b98-145d-4fb0-a16f-75f560a23fd5,Bjørnafjorden SV,2023-08-31T06:14:32.446Z,62706029-aee0-4fb6-b4ba-74aa516e2ad4,SV,Norway,no,499351823492511,Bjørnafjorden SV,Facebook
-da684691-5bfd-4941-ba82-d67a728efc0b,Bergen SV,2023-04-17T08:06:06.493Z,da6b2e9c-7374-4513-8529-56cfc6817833,SV,Norway,no,224521330900884,Bergen SV,Facebook
 43d38795-6548-4de3-b812-3eaa8aafe815,Høyanger SV,2023-09-10T05:07:28.233Z,2f7c37a9-b698-47fa-97c1-5affe693dff5,SV,Norway,no,149790438440155,Høyanger SV,Facebook
-c3902d9c-51a3-4d4e-bdd0-c80ffc3b92d9,Nittedal FrP,2023-03-23T10:54:10.834Z,6549e013-be0e-405f-9b25-2c319df58d5f,Frp,Norway,no,117840771633607,Nittedal FrP,Facebook
 578c58cc-a733-43ef-90c1-0a2f1a1d302f,Telemark og Vestfold KrF,2023-09-08T05:07:41.062Z,24ab6326-62a3-4c5a-b061-1ffeefbedcc5,KrF,Norway,no,336011496489694,Telemark og Vestfold KrF,Facebook
+251c82fb-3706-422d-aee7-eec70c17f44d,Farsund MDG,2023-08-27T05:07:24.724Z,fcd5c458-ec5c-443d-9319-3dedc677dece,MdG,Norway,no,107869985578708,Farsund MDG,Facebook
+196c9324-2b8a-4214-a833-be861bc888f0,Kristiansand KrF,2023-08-25T05:07:12.946Z,cbcf2d3d-4c87-4c69-8c18-1a930c488352,KrF,Norway,no,207071939324369,Kristiansand KrF,Facebook
+08a1e204-9f55-4b1c-844a-c2b05a6178c3,Troms og Finnmark MDG,2023-08-29T05:07:17.870Z,22c91f96-4028-492f-ac7e-69282d59167c,MdG,Norway,no,328687443909969,Troms og Finnmark MDG,Facebook
+f394c3e4-13e2-4c36-8df5-7f57098f7341,KrF Kristelig Folkeparti,2023-08-31T06:14:32.525Z,1dbb02d2-4a06-4d30-bac8-ded954f86a87,KrF,Norway,no,10118416372,KrF Kristelig Folkeparti,Facebook
+f29374d7-a52b-4625-a147-0e1b70bc4a0b,Stjørdal MDG,2023-09-07T05:07:09.808Z,ffb2b48f-e47e-48c4-9903-317cdf206aca,MdG,Norway,no,220905581263129,Stjørdal MDG,Facebook
+aa55705c-60ff-4df7-b6d5-d620da8084b2,Henning Holsvik -Krf,2023-03-08T16:24:10.691Z,253019ff-bd81-4a04-8d35-5fcd911cdf0d,KrF,Norway,no,101905329192165,Henning Holsvik -Krf,Facebook
+da684691-5bfd-4941-ba82-d67a728efc0b,Bergen SV,2023-04-17T08:06:06.493Z,da6b2e9c-7374-4513-8529-56cfc6817833,SV,Norway,no,224521330900884,Bergen SV,Facebook
+c3902d9c-51a3-4d4e-bdd0-c80ffc3b92d9,Nittedal FrP,2023-03-23T10:54:10.834Z,6549e013-be0e-405f-9b25-2c319df58d5f,Frp,Norway,no,117840771633607,Nittedal FrP,Facebook
 f677fa28-f6b6-4d66-987d-f2d35494f8ee,Kvinnherad Senterparti,2023-08-15T05:07:49.511Z,bea55ab7-13d0-4ad5-ac86-a2e18953e68a,Sp,Norway,no,266062043405543,Kvinnherad Senterparti,Facebook
 efc29ade-2506-4826-86bb-0b0a1d5e4c0a,Steigen Senterparti,2023-08-21T05:08:13.953Z,514a6a71-3def-4d78-b612-92bca626cfad,Sp,Norway,no,834358043262546,Steigen Senterparti,Facebook
-bbf5c763-ea66-4dd7-8af3-666a624356e7,Fremskrittspartiet,2023-07-17T06:32:37.390Z,e146eaf7-99c7-4801-a900-7cc7e461db87,Frp,Norway,no,14095969045,Fremskrittspartiet,Facebook
 8b1d6d3b-0ba8-43bc-b730-4f83e3eca509,Kåfjord SV,2023-04-29T06:53:57.349Z,cca811f3-646b-40d4-bdd7-19eb29c8c3ff,SV,Norway,no,110744794943961,Kåfjord SV,Facebook
+bbf5c763-ea66-4dd7-8af3-666a624356e7,Fremskrittspartiet,2023-07-17T06:32:37.390Z,e146eaf7-99c7-4801-a900-7cc7e461db87,Frp,Norway,no,14095969045,Fremskrittspartiet,Facebook
 1774d053-5b3a-49ad-b1a7-43b34cac5cd4,Trøndelag Senterparti,2023-08-19T05:08:17.064Z,67097f3d-1b97-4a28-a024-322d2a577664,Sp,Norway,no,2241108695915025,Trøndelag Senterparti,Facebook
 4be6ef02-27a1-407c-8f17-f885f50683b7,Trondheim Senterparti,2023-08-25T05:07:13.200Z,4442f665-2e3f-4714-a710-a05d8eb3773a,Sp,Norway,no,190602137653809,Trondheim Senterparti,Facebook
-48f129b5-356d-4708-8b47-d345d8e4198c,Vaksdal FrP,2023-08-12T05:08:12.211Z,9b82b749-b890-4923-b204-d8e8eb4ea215,Frp,Norway,no,2017009951899632,Vaksdal FrP,Facebook
 cfc0394b-ce28-402d-94cd-595978a7914c,Skien SV,2023-05-30T06:54:05.751Z,b2b801a0-c7d2-4719-a6ab-eb11a1fb9c9f,SV,Norway,no,361622540537204,Skien SV,Facebook
-7c274b8f-c6bc-4ae6-9975-df9d10101ada,Os Senterparti Hedmark,2023-08-21T05:08:13.877Z,0c75d4fe-3e5b-4771-bb93-8d1d6b4dcfc2,Sp,Norway,no,1588008431464999,Os Senterparti Hedmark,Facebook
 425c203b-4fd8-4d1e-8ec6-a8ac84299fb9,Meløy SV,2023-06-10T06:53:25.148Z,56b38ad8-7134-4efa-a974-f11359d2b094,SV,Norway,no,1645087842413022,Meløy SV,Facebook
+48f129b5-356d-4708-8b47-d345d8e4198c,Vaksdal FrP,2023-08-12T05:08:12.211Z,9b82b749-b890-4923-b204-d8e8eb4ea215,Frp,Norway,no,2017009951899632,Vaksdal FrP,Facebook
+7c274b8f-c6bc-4ae6-9975-df9d10101ada,Os Senterparti Hedmark,2023-08-21T05:08:13.877Z,0c75d4fe-3e5b-4771-bb93-8d1d6b4dcfc2,Sp,Norway,no,1588008431464999,Os Senterparti Hedmark,Facebook
 a6d37f2d-5a2e-44c6-96ac-9480e902e330,Ullensaker Senterparti,2023-08-25T05:07:13.404Z,624212f0-9520-490f-b02a-74087d564408,Sp,Norway,no,177661748947395,Ullensaker Senterparti,Facebook
 1d8de7e9-de43-4b40-925b-6054d9da70ee,Snåsa SV,2023-05-21T06:53:49.168Z,48d54e28-fa1d-4cf1-96a3-5a152a204147,SV,Norway,no,1552232395049690,Snåsa SV,Facebook
-2bcddfae-f2ec-4043-9f35-6f5373612139,Bjørnafjorden FrP,2023-08-12T05:08:12.215Z,246e66d5-48ee-4d78-b86b-488b813edb4a,Frp,Norway,no,381021605311835,Bjørnafjorden FrP,Facebook
 434360c0-fb15-4424-bc05-b31182521442,Ålesund SV,2023-06-23T05:17:18.582Z,a406f84f-fec7-46df-8d3b-bee714054395,SV,Norway,no,158517320882189,Ålesund SV,Facebook
 b6d02140-eb1a-43bf-ab0c-8a246065262d,Melhus FrP,2023-08-10T05:08:14.251Z,993d514c-7956-4105-a9dc-fcd93ca94e01,Frp,Norway,no,361288304771,Melhus FrP,Facebook
-78a812d6-7ccd-4539-be3c-15e15e819403,Modum Senterparti,2023-08-15T05:07:49.586Z,e8195f4f-c76f-4871-ba63-6cb4174bcfe9,Sp,Norway,no,247865195254009,Modum Senterparti,Facebook
 71a58bc3-0dcb-48c1-bdc3-ee7f6d99d1e4,Kristiansand FrP,2023-08-13T05:08:24.386Z,6b52fd0b-bd9b-4089-aa25-9c2a8d76d2bc,Frp,Norway,no,111475245584385,Kristiansand FrP,Facebook
 6da0480a-0665-45ef-b358-b9f5c525b2b4,Marlen Johannessen - FrP,2023-08-13T05:08:24.462Z,9abb9751-39fc-477a-a50c-31191ee7cd6b,Frp,Norway,no,106576579188905,Marlen Johannessen - FrP,Facebook
-c2abc66b-7de3-498d-a125-3c2f5b208ca9,Grimstad Senterparti,2023-08-25T05:07:13.344Z,f8d737d4-e5bf-4dfb-be8a-8755421211e8,Sp,Norway,no,1381187255456725,Grimstad Senterparti,Facebook
 30e879f5-881f-45e8-8be9-24868f5afaf6,Rauma FrP,2023-08-14T05:07:37.369Z,8cf31741-e770-449e-81ea-ef58eb467838,Frp,Norway,no,100193408579636,Rauma FrP,Facebook
-419ee955-e25d-47c6-bae1-acb0eda609d9,Halden Senterparti,2023-08-27T05:07:24.782Z,5a0ede8e-c426-4f65-a3c4-cb990dce8a7f,Sp,Norway,no,214319318606182,Halden Senterparti,Facebook
 af48e973-0051-47a5-b119-1327711cfb1d,Austevoll FrP,2023-08-26T05:07:21.683Z,9ee6d13b-c39c-4bcd-b888-16186bccb79c,Frp,Norway,no,125251545394,Austevoll FrP,Facebook
 06d54495-c16b-4efd-9313-5caeac4d418f,Grünerløkka FrP,2023-09-03T05:07:18.828Z,3ecd2ab2-eebf-494d-a8ee-696d1f09bf99,Frp,Norway,no,435708296858593,Grünerløkka FrP,Facebook
+2bcddfae-f2ec-4043-9f35-6f5373612139,Bjørnafjorden FrP,2023-08-12T05:08:12.215Z,246e66d5-48ee-4d78-b86b-488b813edb4a,Frp,Norway,no,381021605311835,Bjørnafjorden FrP,Facebook
+78a812d6-7ccd-4539-be3c-15e15e819403,Modum Senterparti,2023-08-15T05:07:49.586Z,e8195f4f-c76f-4871-ba63-6cb4174bcfe9,Sp,Norway,no,247865195254009,Modum Senterparti,Facebook
+c2abc66b-7de3-498d-a125-3c2f5b208ca9,Grimstad Senterparti,2023-08-25T05:07:13.344Z,f8d737d4-e5bf-4dfb-be8a-8755421211e8,Sp,Norway,no,1381187255456725,Grimstad Senterparti,Facebook
+419ee955-e25d-47c6-bae1-acb0eda609d9,Halden Senterparti,2023-08-27T05:07:24.782Z,5a0ede8e-c426-4f65-a3c4-cb990dce8a7f,Sp,Norway,no,214319318606182,Halden Senterparti,Facebook
 ff8e9dfe-ab6f-483f-a27a-cacb9ec1210b,Agder Høyre,2023-08-05T05:08:17.724Z,4200a66c-bfc2-4412-ad5a-9df82e9e579d,H,Norway,no,1499576763595145,Agder Høyre,Facebook
-6a66785a-3d85-4ed5-9b22-9a425a510539,Sylvi Listhaug,2023-08-11T05:09:40.818Z,9d3ec138-5d41-4fda-a98a-d4e42867f66f,Frp,Norway,no,209735895864644,Sylvi Listhaug,Facebook
 86e2b74f-7733-4479-8193-a0afb8cee032,Anne Marie Sveipe - Ordførerkandidat Øyer Høyre,2023-08-13T05:08:24.443Z,a726c142-dc32-4cfe-88e6-d1f00ef6f5a8,H,Norway,no,127496280660793,Anne Marie Sveipe - Ordførerkandidat Øyer Høyre,Facebook
-89e8c5ed-c681-4e7e-9d77-1454fb33c88d,Kristiansand senterparti,2023-08-18T05:07:52.630Z,374b2462-8f24-4ba6-b547-b67fa61efd93,Sp,Norway,no,194310467266731,Kristiansand senterparti,Facebook
-83ce4bc1-ba53-42fa-ae30-7c6cc57cfc92,Senterpartiet i Stjørdal,2023-08-25T05:07:13.344Z,864ebdb3-e1e8-435e-960b-c763854cfdd4,Sp,Norway,no,121192081296160,Senterpartiet i Stjørdal,Facebook
 9feb7353-7549-4342-8bbf-e7a2b4147d34,Nordre Follo SV,2023-04-04T10:54:14.139Z,d0e99bc8-5cc3-4279-af70-7bedda30981a,SV,Norway,no,463509943692556,Nordre Follo SV,Facebook
-87af94bc-dc04-4e33-b67d-83b498f4cb85,Senja SV,2023-04-29T06:53:57.333Z,c4b192ea-311a-4c4b-b6f8-f60aef2e3852,SV,Norway,no,363833947418094,Senja SV,Facebook
-a8434987-f66e-4b8a-9001-65c363508a20,Øyer Senterparti,2023-08-29T05:07:17.148Z,e43f242a-4c38-4603-bd78-6df79dcf21e6,Sp,Norway,no,1664071303813312,Øyer Senterparti,Facebook
 339e7665-8e0b-4bf4-885d-b2dccdf9989f,Mette Eggen Krag - Hemsedal SV,2023-06-13T06:53:49.680Z,28133e7c-1f9b-4235-9158-f0896d89a43d,SV,Norway,no,107527948922080,Mette Eggen Krag - Hemsedal SV,Facebook
-146aba59-fb63-44b5-ab04-131a5b4db560,Jane Bråthen - Senterpartiet,2023-09-01T05:07:23.565Z,9398ca8f-700f-4985-9138-c47f2ee07b36,Sp,Norway,no,102686105982015,Jane Bråthen - Senterpartiet,Facebook
 28f1e9d5-7183-4a02-bfba-0ef2e8a60785,Bjørn-Kristian Svendsrud - FrP,2023-08-11T05:09:41.259Z,8034a4e8-97d9-42dd-ab80-299ac3246c77,Frp,Norway,no,151095632486580,Bjørn-Kristian Svendsrud - FrP,Facebook
-0ff9530e-c30b-43fb-8e6c-c722f246a1e9,Søndre Land Senterparti,2023-09-02T05:07:23.454Z,9b8d3bbe-dd99-4cbd-b481-47a6fde0cb84,Sp,Norway,no,353435038192009,Søndre Land Senterparti,Facebook
 5f5d71e7-b3ae-4117-a8f4-77d4d5a52a26,Vestland FrP,2023-08-12T05:08:12.211Z,8df0beb4-29c7-4312-adaa-24d64639f01a,Frp,Norway,no,59749969562,Vestland FrP,Facebook
-9154986c-1a28-46d2-a86c-8564f9a13c05,Osterøy Senterparti,2023-09-06T05:07:24.068Z,7467062e-f0d4-4315-8699-790b45c89cf1,Sp,Norway,no,433475090417867,Osterøy Senterparti,Facebook
-4c1bf7c7-2707-42a1-af4b-aef1edaa279a,Tønsberg SV og Færder SV,2023-06-05T06:53:53.253Z,603df263-ae7f-49c2-bb51-f48c01471207,SV,Norway,no,114049805344909,Tønsberg SV og Færder SV,Facebook
 2228d42c-e911-43dc-9181-d4e9ace7fb15,Sarpsborg FrP,2023-08-14T05:07:37.327Z,6df03b53-eec8-4953-9990-dd47822d7841,Frp,Norway,no,157406734380824,Sarpsborg FrP,Facebook
-74dca4a0-8e6d-4f95-a2bb-ce0933030497,Gjesdal Senterparti,2023-08-30T05:07:24.639Z,2110539a-1ed4-4064-8683-d487df953e88,Sp,Norway,no,432220093494183,Gjesdal Senterparti,Facebook
 56c79984-6456-43bd-904a-b662e544cc18,Mats Henriksen - FrP,2023-08-14T05:07:37.464Z,a990fb37-16bb-4590-b181-53213e7a2417,Frp,Norway,no,601754356902622,Mats Henriksen - FrP,Facebook
 1c98a397-7213-41ed-b9c7-72f7a53dffa0,Sveio FrP,2023-08-29T05:07:17.830Z,94dc7792-8bcd-4666-aadb-08330213b37b,Frp,Norway,no,1635912896667531,Sveio FrP,Facebook
+6a66785a-3d85-4ed5-9b22-9a425a510539,Sylvi Listhaug,2023-08-11T05:09:40.818Z,9d3ec138-5d41-4fda-a98a-d4e42867f66f,Frp,Norway,no,209735895864644,Sylvi Listhaug,Facebook
+89e8c5ed-c681-4e7e-9d77-1454fb33c88d,Kristiansand senterparti,2023-08-18T05:07:52.630Z,374b2462-8f24-4ba6-b547-b67fa61efd93,Sp,Norway,no,194310467266731,Kristiansand senterparti,Facebook
+83ce4bc1-ba53-42fa-ae30-7c6cc57cfc92,Senterpartiet i Stjørdal,2023-08-25T05:07:13.344Z,864ebdb3-e1e8-435e-960b-c763854cfdd4,Sp,Norway,no,121192081296160,Senterpartiet i Stjørdal,Facebook
+87af94bc-dc04-4e33-b67d-83b498f4cb85,Senja SV,2023-04-29T06:53:57.333Z,c4b192ea-311a-4c4b-b6f8-f60aef2e3852,SV,Norway,no,363833947418094,Senja SV,Facebook
+a8434987-f66e-4b8a-9001-65c363508a20,Øyer Senterparti,2023-08-29T05:07:17.148Z,e43f242a-4c38-4603-bd78-6df79dcf21e6,Sp,Norway,no,1664071303813312,Øyer Senterparti,Facebook
+146aba59-fb63-44b5-ab04-131a5b4db560,Jane Bråthen - Senterpartiet,2023-09-01T05:07:23.565Z,9398ca8f-700f-4985-9138-c47f2ee07b36,Sp,Norway,no,102686105982015,Jane Bråthen - Senterpartiet,Facebook
+0ff9530e-c30b-43fb-8e6c-c722f246a1e9,Søndre Land Senterparti,2023-09-02T05:07:23.454Z,9b8d3bbe-dd99-4cbd-b481-47a6fde0cb84,Sp,Norway,no,353435038192009,Søndre Land Senterparti,Facebook
+9154986c-1a28-46d2-a86c-8564f9a13c05,Osterøy Senterparti,2023-09-06T05:07:24.068Z,7467062e-f0d4-4315-8699-790b45c89cf1,Sp,Norway,no,433475090417867,Osterøy Senterparti,Facebook
+4c1bf7c7-2707-42a1-af4b-aef1edaa279a,Tønsberg SV og Færder SV,2023-06-05T06:53:53.253Z,603df263-ae7f-49c2-bb51-f48c01471207,SV,Norway,no,114049805344909,Tønsberg SV og Færder SV,Facebook
+74dca4a0-8e6d-4f95-a2bb-ce0933030497,Gjesdal Senterparti,2023-08-30T05:07:24.639Z,2110539a-1ed4-4064-8683-d487df953e88,Sp,Norway,no,432220093494183,Gjesdal Senterparti,Facebook
 85a6a281-54a3-4c8a-a130-9fa0046b1370,Salangen Senterparti,2023-09-01T05:07:23.905Z,2cbeda11-028a-4c5c-bba1-eef8ff1fd13e,Sp,Norway,no,374432309432731,Salangen Senterparti,Facebook
 a90a2c2d-5a49-4f40-9ae5-4327d666f641,Rakkestad Senterparti,2023-09-06T05:07:24.155Z,02a402b2-293b-4ad7-b329-900bd9bb49e5,Sp,Norway,no,202002456511067,Rakkestad Senterparti,Facebook
+8185bd59-996c-4703-bd80-7eb5a014efb4,Malvik Senterparti,2023-09-09T05:07:32.795Z,0db21d6b-1772-41df-9611-a060bc5b59f1,Sp,Norway,no,942715915760362,Malvik Senterparti,Facebook
+51900880-9f82-4d5e-a55e-685c83520d89,Akershus SV,2023-05-30T06:54:05.787Z,69939d29-1c6e-47a2-aa91-9936ca402206,SV,Norway,no,162992587109244,Akershus SV,Facebook
 a28c98f8-c54f-4609-a691-23f10d5e0655,Verdal Senterparti,2023-09-03T05:07:18.825Z,1d5f5dfb-5bd6-4cdc-b8bb-87c889409dba,Sp,Norway,no,266357120152345,Verdal Senterparti,Facebook
 aa9e92d7-8a79-4d04-a34f-70c1fb50007b,Stavanger SV,2023-08-28T05:07:12.833Z,a7182684-41a0-4ebc-a78d-2d8a77b143ed,SV,Norway,no,122027734518157,Stavanger SV,Facebook
 9949ee1e-cb25-42ae-8eed-3519a1c43202,Senterpartiet i Hå,2023-09-07T05:07:09.774Z,cb5fcc95-0e1a-46ba-a08f-d4cf2012f99f,Sp,Norway,no,117236341467673,Senterpartiet i Hå,Facebook
@@ -279,8 +282,11 @@ df02e37a-a505-4b8c-8c8a-d2409f3af673,Håvard Skattum - 3.kandidat Voss SV,2023-0
 acbb3948-8d80-49ec-8a1a-64d503249143,Holtålen Arbeiderparti,2023-04-29T06:53:57.320Z,0493cf73-6b31-451f-a13f-6adc45ccc993,Ap,Norway,no,100194083395723,Holtålen Arbeiderparti,Facebook
 b61f2c26-771c-4e1a-9457-43992ea17921,Lillehammer Arbeiderparti,2023-05-04T06:53:28.312Z,2bd9d7aa-e91a-4344-9dd6-8e08f496d38e,Ap,Norway,no,171498006247526,Lillehammer Arbeiderparti,Facebook
 2ba60c10-c6b7-4292-9204-22ff881c27a3,Enebakk Arbeiderparti,2023-06-06T06:53:31.484Z,1e877b15-ecdc-4e15-a113-ac5dc9b91e3f,Ap,Norway,no,216398705057225,Enebakk Arbeiderparti,Facebook
-8185bd59-996c-4703-bd80-7eb5a014efb4,Malvik Senterparti,2023-09-09T05:07:32.795Z,0db21d6b-1772-41df-9611-a060bc5b59f1,Sp,Norway,no,942715915760362,Malvik Senterparti,Facebook
-51900880-9f82-4d5e-a55e-685c83520d89,Akershus SV,2023-05-30T06:54:05.787Z,69939d29-1c6e-47a2-aa91-9936ca402206,SV,Norway,no,162992587109244,Akershus SV,Facebook
+459a407f-d5ab-404a-bfc8-ba915c66a82e,Korsvoll Arbeiderpartilag,2023-08-25T05:07:12.689Z,ba0e8775-cd16-42ec-8ea3-3476440930a0,Ap,Norway,no,362145297738325,Korsvoll Arbeiderpartilag,Facebook
+353ed280-768f-446c-9185-8ade1aaabfe8,Gildeskål Arbeiderparti,2023-08-25T05:07:13.286Z,eb13b02c-f057-40af-86b9-4ad689cb5d3f,Ap,Norway,no,422193064794065,Gildeskål Arbeiderparti,Facebook
+fe988ce7-6af9-411a-a7e3-48140cbc0fef,Fredrikstad Venstre,2023-08-11T05:09:40.810Z,3acff032-f53d-4d5b-b010-01e509e69483,V,Norway,no,259806498252,Fredrikstad Venstre,Facebook
+77a80dda-4ac9-4fe0-9baf-1af530b22d35,Bærum Venstre,2023-08-16T05:08:01.456Z,62183a3a-b6e5-47f0-9b3b-d2c2e37d1f62,V,Norway,no,529241943796135,Bærum Venstre,Facebook
+deb0c780-7dc9-4911-8c15-14d0a8fbab0b,Truls Olufsen-Mehus - verdipolitiker,2023-03-17T10:54:21.406Z,894bc1cf-1472-4509-a48f-f3c01f935506,KrF,Norway,no,486019701792887,Truls Olufsen-Mehus - verdipolitiker,Facebook
 945c7432-dedc-4ffa-afea-2f62e8a2dd5d,Buskerud Senterparti,2023-03-28T10:54:02.463Z,ab03d121-a784-41e5-97c0-afd902a13695,Sp,Norway,no,136901969692355,Buskerud Senterparti,Facebook
 d0c381a8-1fa6-4823-bbcb-7e3e47d6c8d5,Fjaler Senterparti,2023-06-24T06:48:04.042Z,90d838e0-1111-4c7e-b7f3-ef57c412ac34,Sp,Norway,no,252869761410286,Fjaler Senterparti,Facebook
 9c65f0e2-ab50-4bc3-b75d-753a81c6bb9b,Hå SV,2023-08-14T05:07:37.409Z,e2e682fb-9e9a-4d54-9213-d341438af059,SV,Norway,no,575288659231051,Hå SV,Facebook
@@ -389,381 +395,370 @@ cbfcd974-0af7-48ce-8d42-6bb6caa1f16a,Øygarden FrP,2023-04-16T15:06:15.647Z,4b84
 74873ba5-8ea1-4d77-8e2b-5dbd026b945b,Modum KrF,2023-08-25T05:07:12.946Z,5cfc2f13-68c1-4d12-9818-addba4004e20,KrF,Norway,no,863383943692872,Modum KrF,Facebook
 34435dee-5139-44a6-a8f6-d764a9753f16,Møre og Romsdal KrF,2023-08-30T05:07:24.673Z,1fa033b4-fb53-4e2c-9940-e19ef4e8a969,KrF,Norway,no,191501381011090,Møre og Romsdal KrF,Facebook
 ade38d89-1993-4849-bb0f-c0d084c0b082,Østfold KrF,2023-08-20T05:08:04.263Z,57173a8f-ccc1-4385-9e19-23b110844db3,KrF,Norway,no,101282062824128,Østfold KrF,Facebook
-459a407f-d5ab-404a-bfc8-ba915c66a82e,Korsvoll Arbeiderpartilag,2023-08-25T05:07:12.689Z,ba0e8775-cd16-42ec-8ea3-3476440930a0,Ap,Norway,no,362145297738325,Korsvoll Arbeiderpartilag,Facebook
 c16e15f6-9a0c-4ea2-a6cf-61905f1b73be,Sandefjord KrF,2023-08-07T05:08:26.439Z,a8ca489d-bf79-467e-b83b-46ddc7b8d2f8,KrF,Norway,no,1054207774594945,Sandefjord KrF,Facebook
-e956ccb8-8362-4f5f-998d-4df9525b8a02,Alta Senterparti,2023-08-01T05:08:16.302Z,428f2103-2277-44cf-a7c7-8e9614a878e5,Sp,Norway,no,578043708953655,Alta Senterparti,Facebook
-353ed280-768f-446c-9185-8ade1aaabfe8,Gildeskål Arbeiderparti,2023-08-25T05:07:13.286Z,eb13b02c-f057-40af-86b9-4ad689cb5d3f,Ap,Norway,no,422193064794065,Gildeskål Arbeiderparti,Facebook
-743e0d10-5d03-4ddc-9955-91e1f4100439,Saltdal FrP,2023-08-28T05:07:13.486Z,bcfcbf81-ef6d-47bd-bace-464cb16f2463,Frp,Norway,no,201389903792332,Saltdal FrP,Facebook
-fe988ce7-6af9-411a-a7e3-48140cbc0fef,Fredrikstad Venstre,2023-08-11T05:09:40.810Z,3acff032-f53d-4d5b-b010-01e509e69483,V,Norway,no,259806498252,Fredrikstad Venstre,Facebook
 58457b16-f77c-4503-ac6b-f14467e89bec,Randaberg Senterparti,2023-07-25T05:08:17.083Z,037d8beb-da81-4a32-8281-e2418df4aa6d,Sp,Norway,no,163265603825172,Randaberg Senterparti,Facebook
-77a80dda-4ac9-4fe0-9baf-1af530b22d35,Bærum Venstre,2023-08-16T05:08:01.456Z,62183a3a-b6e5-47f0-9b3b-d2c2e37d1f62,V,Norway,no,529241943796135,Bærum Venstre,Facebook
 fd689b3b-c8a2-4f34-97b5-74ce9c594c99,Rælingen FrP,2023-08-25T05:07:13.407Z,cec331a1-94ed-4431-bef6-ce3ef2400648,Frp,Norway,no,137809926263479,Rælingen FrP,Facebook
-deb0c780-7dc9-4911-8c15-14d0a8fbab0b,Truls Olufsen-Mehus - verdipolitiker,2023-03-17T10:54:21.406Z,894bc1cf-1472-4509-a48f-f3c01f935506,KrF,Norway,no,486019701792887,Truls Olufsen-Mehus - verdipolitiker,Facebook
 9a1e84c1-1d15-410e-a657-fab0d8acc584,Raymond Johansen,2023-06-13T06:53:49.572Z,3c6eec5b-69d6-490e-ab9d-ee802c48caf0,Ap,Norway,no,75381641215,Raymond Johansen,Facebook
 691b662a-3e33-4239-ae0c-7e3c4de44ab2,Surnadal Arbeiderparti,2023-06-19T18:25:30.820Z,520c97e9-03b3-4205-99ba-72c371ee0704,Ap,Norway,no,175184862536404,Surnadal Arbeiderparti,Facebook
-f77be059-fdb8-4df2-9103-5fa7497ff1ed,Sigdal og Eggedal Senterparti,2023-08-05T05:08:18.324Z,02a8b50d-59fa-48e0-a502-f8a7b3ef33ca,Sp,Norway,no,484815580455,Sigdal og Eggedal Senterparti,Facebook
 71e147ad-7a3f-403e-9744-70b48ed84300,Haugesund Arbeiderparti,2023-06-29T05:43:09.137Z,136aea73-267e-43c9-80da-ffec29594f61,Ap,Norway,no,111708802237988,Haugesund Arbeiderparti,Facebook
 2f709d80-2438-449e-a2a7-a4a079f8df28,Jonas Gahr Støre,2023-07-07T13:16:55.393Z,dc0b88b0-7347-4d16-ac1b-c9e5f8b18234,Ap,Norway,no,282256964237,Jonas Gahr Støre,Facebook
-d075b4b0-fb1c-4647-bb18-a2e4d4ff9d47,Rødt Leirfjord,2023-09-02T05:07:23.473Z,f0120a5d-054e-46a3-b6e3-769a56cece2c,R,Norway,no,1546308918967111,Rødt Leirfjord,Facebook
-eec85a28-d852-4f23-9c79-9ada4d376fdf,Rødt Finnmark,2023-09-07T05:07:09.043Z,5b79b12e-91db-40bf-b6bf-05968d929586,R,Norway,no,486949354707478,Rødt Finnmark,Facebook
 f8f79cee-fcd7-489e-a668-ccd89d0c43bb,Nissedal Arbeiderparti,2023-09-08T05:07:41.509Z,44a7a0e0-0f33-450b-9be8-092f00c6ac45,Ap,Norway,no,210320829013025,Nissedal Arbeiderparti,Facebook
-e8c79864-f9d3-428e-aa65-87b99b42c15f,Rødt Trysil,2023-09-10T05:07:28.114Z,0237691c-ab74-4a33-9ca9-f276ed065d27,R,Norway,no,116638121353611,Rødt Trysil,Facebook
 06228294-e578-4d42-b652-33bf0799076a,Ullern Arbeiderparti,2023-09-11T05:07:39.534Z,8d609a69-a249-4089-a69a-9c4a9e605b7a,Ap,Norway,no,436485136496210,Ullern Arbeiderparti,Facebook
 3f3d0c68-b942-4b76-a84b-5cc90a87f4b8,Oslo Venstre,2023-03-08T20:27:56.218Z,64bd1917-66b6-4b2a-a6a0-c55111aa9524,V,Norway,no,267093316643456,Oslo Venstre,Facebook
-5e7e538c-c672-4d1e-994d-6589b4ce0309,Fredrikstad Høyre,2023-03-14T10:53:53.280Z,ddcfcb28-3cff-47a1-91da-f572156cf008,H,Norway,no,239677012734267,Fredrikstad Høyre,Facebook
 fff518f4-1fea-4ee0-8954-2d9c8635df43,Ørsta Venstre,2023-06-06T06:53:31.445Z,7b0495dd-3047-4eaf-ae89-6dd82ad0ec2d,V,Norway,no,107344512198180,Ørsta Venstre,Facebook
+f77be059-fdb8-4df2-9103-5fa7497ff1ed,Sigdal og Eggedal Senterparti,2023-08-05T05:08:18.324Z,02a8b50d-59fa-48e0-a502-f8a7b3ef33ca,Sp,Norway,no,484815580455,Sigdal og Eggedal Senterparti,Facebook
+d075b4b0-fb1c-4647-bb18-a2e4d4ff9d47,Rødt Leirfjord,2023-09-02T05:07:23.473Z,f0120a5d-054e-46a3-b6e3-769a56cece2c,R,Norway,no,1546308918967111,Rødt Leirfjord,Facebook
+eec85a28-d852-4f23-9c79-9ada4d376fdf,Rødt Finnmark,2023-09-07T05:07:09.043Z,5b79b12e-91db-40bf-b6bf-05968d929586,R,Norway,no,486949354707478,Rødt Finnmark,Facebook
+e8c79864-f9d3-428e-aa65-87b99b42c15f,Rødt Trysil,2023-09-10T05:07:28.114Z,0237691c-ab74-4a33-9ca9-f276ed065d27,R,Norway,no,116638121353611,Rødt Trysil,Facebook
+5e7e538c-c672-4d1e-994d-6589b4ce0309,Fredrikstad Høyre,2023-03-14T10:53:53.280Z,ddcfcb28-3cff-47a1-91da-f572156cf008,H,Norway,no,239677012734267,Fredrikstad Høyre,Facebook
 29b05639-a0d5-45e5-ad64-405dab41abe4,Øvre Eiker Høyre,2023-04-30T06:53:35.194Z,70656e1c-d477-46ec-9425-1e4ab191c572,H,Norway,no,170516676313773,Øvre Eiker Høyre,Facebook
 f2cb1023-db02-4d35-bccb-af6d53cfa1be,Janusz Szpila - FrP,2023-08-27T05:07:24.493Z,6deedb31-6e32-4db8-b1cf-8df64c0153a4,Frp,Norway,no,103005299480283,Janusz Szpila - FrP,Facebook
-d69e78aa-73ed-482d-9d44-889852ade821,Vindafjord Senterparti,2023-08-12T05:08:12.129Z,b88860ac-a75d-4efb-a2f2-aa20e48dec2d,Sp,Norway,no,653395424706031,Vindafjord Senterparti,Facebook
 7cb97466-e90f-4d4b-aafe-ac663a12967a,Birkenes Senterparti,2023-08-08T05:07:35.558Z,7e48ade2-46e7-443b-aefc-87a96934b6ee,Sp,Norway,no,969225266468800,Birkenes Senterparti,Facebook
 2978069c-f096-40ef-bcee-53bbdfd6d963,Nes FrP,2023-04-19T06:53:57.209Z,5c4ae719-3f0e-4477-bb1a-d47929e50480,Frp,Norway,no,154352147943400,Nes FrP,Facebook
 d8a4e850-7b68-4e4e-aa10-b05a438cca94,Alta Arbeiderparti,2023-08-08T05:07:35.674Z,8aea281a-7a15-46ab-96ff-2c698a13ba10,Ap,Norway,no,124204290975235,Alta Arbeiderparti,Facebook
-977ea1f2-e9e1-436a-a428-292e59722f37,Rikke Sjølander - FrP,2023-08-29T05:07:17.990Z,5b845c75-0881-4e0c-a345-eff908a4f438,Frp,Norway,no,110937121997157,Rikke Sjølander - FrP,Facebook
 b3bdd225-81e4-4004-a584-0c60c87bca13,Sarpsborg Arbeiderparti,2023-08-15T05:07:49.464Z,87667dd7-2689-4185-b2c8-d36ee1972433,Ap,Norway,no,1393180290906942,Sarpsborg Arbeiderparti,Facebook
-43d511a2-51c5-4da6-b7d8-c8bb01c631c8,Sandnes Arbeiderparti,2023-06-13T06:53:49.693Z,9dbe3bb4-98dc-4666-86d1-f7335b02b56b,Ap,Norway,no,117918141561451,Sandnes Arbeiderparti,Facebook
 03888695-bb59-42a2-b64d-279bd7357ce6,Lund Venstre,2023-08-16T05:08:01.727Z,b889a485-f45c-491c-997a-2c6725d17282,V,Norway,no,114295268604268,Lund Venstre,Facebook
+d4ad56d4-3e03-4d7b-ad06-6e38259b1307,Alstahaug Venstre,2023-08-29T05:07:18.020Z,eb9a3d17-05be-4729-8c78-02789907cf34,V,Norway,no,112519754264258,Alstahaug Venstre,Facebook
+d69e78aa-73ed-482d-9d44-889852ade821,Vindafjord Senterparti,2023-08-12T05:08:12.129Z,b88860ac-a75d-4efb-a2f2-aa20e48dec2d,Sp,Norway,no,653395424706031,Vindafjord Senterparti,Facebook
+977ea1f2-e9e1-436a-a428-292e59722f37,Rikke Sjølander - FrP,2023-08-29T05:07:17.990Z,5b845c75-0881-4e0c-a345-eff908a4f438,Frp,Norway,no,110937121997157,Rikke Sjølander - FrP,Facebook
+43d511a2-51c5-4da6-b7d8-c8bb01c631c8,Sandnes Arbeiderparti,2023-06-13T06:53:49.693Z,9dbe3bb4-98dc-4666-86d1-f7335b02b56b,Ap,Norway,no,117918141561451,Sandnes Arbeiderparti,Facebook
 fabcf148-2c40-4b5a-8067-f0791973a9e6,Målselv Arbeiderparti,2023-06-15T06:53:41.529Z,144c40b1-6d76-429f-b4d1-5d6372af4c54,Ap,Norway,no,182722095112422,Målselv Arbeiderparti,Facebook
 5191aeaa-d06c-4f2f-bb0f-fc52c8977866,Alvdal Arbeiderparti,2023-06-24T06:48:04.026Z,0c798e60-fbb9-4ef5-a1a2-c460d592e877,Ap,Norway,no,662145113832447,Alvdal Arbeiderparti,Facebook
-d4ad56d4-3e03-4d7b-ad06-6e38259b1307,Alstahaug Venstre,2023-08-29T05:07:18.020Z,eb9a3d17-05be-4729-8c78-02789907cf34,V,Norway,no,112519754264258,Alstahaug Venstre,Facebook
 45d73626-7b02-42ad-b028-faa7f789a7e2,Steinkjer Arbeiderparti,2023-07-03T06:16:26.760Z,ed162327-9e9a-476d-b39d-b4842c1e0099,Ap,Norway,no,319293844829162,Steinkjer Arbeiderparti,Facebook
 27b47d1d-d019-41cd-b5ae-5557fec0fbb8,"Ståle Grøtte, ordfører i Rælingen - Ap",2023-07-11T06:08:03.787Z,6f070fc4-2b6b-4ced-8fdb-02b13411173d,Ap,Norway,no,417831705357475,"Ståle Grøtte, ordfører i Rælingen - Ap",Facebook
-b66073f9-259a-433d-bdb3-9cb9e552e137,Rødt Hamar,2023-09-09T05:07:32.731Z,2fc99d97-77e6-4ddd-99fe-0fc4320d3c7c,R,Norway,no,283907778754239,Rødt Hamar,Facebook
 f23d0387-d7e2-46a3-9938-63c1495e0b31,Indre Østfold Arbeiderparti,2023-09-08T05:07:41.441Z,ee1a73bc-2e00-48e5-8c27-e8547dcb9cb5,Ap,Norway,no,158084784847871,Indre Østfold Arbeiderparti,Facebook
 1d3e986f-b0e2-48ad-9a81-761a78e53db2,Kragerø Arbeiderparti,2023-09-13T05:07:21.397Z,678d715b-79f7-4853-92e4-2e21f61217e4,Ap,Norway,no,1590451584546764,Kragerø Arbeiderparti,Facebook
-14239154-eccd-4ae2-b6c8-f2a57fdde2f1,Sigdal og Eggedal Høyre,2023-03-13T10:53:58.737Z,a4e763d1-fd7a-42e9-8b45-d2acb61ddb4b,H,Norway,no,107469865985708,Sigdal og Eggedal Høyre,Facebook
 9ab7955a-f529-42e8-9acd-d0ad32627223,Drammen Venstre,2023-03-08T18:09:16.318Z,bb6c6a4d-f1f0-49d0-a288-2487f70933f1,V,Norway,no,198748346812235,Drammen Venstre,Facebook
-13814880-4c91-4526-b13f-cab89abf6e14,Østfold Høyre,2023-04-26T06:54:11.368Z,8640464c-6ccb-49d6-b344-ef490dfb8783,H,Norway,no,103044219380073,Østfold Høyre,Facebook
 bd002e4e-933f-402c-8f96-17e69c090b62,Kristiansand Venstre,2023-05-24T06:53:57.613Z,c4640b29-2eb4-435d-9353-f67965a99340,V,Norway,no,148389115200561,Kristiansand Venstre,Facebook
-a9a43ac8-248f-46b2-a202-65182c1be389,Rødt IØ,2023-09-11T05:07:39.502Z,0cc33804-54b0-4e10-bac0-4872507a803f,R,Norway,no,113487850933104,Rødt IØ,Facebook
+b66073f9-259a-433d-bdb3-9cb9e552e137,Rødt Hamar,2023-09-09T05:07:32.731Z,2fc99d97-77e6-4ddd-99fe-0fc4320d3c7c,R,Norway,no,283907778754239,Rødt Hamar,Facebook
+14239154-eccd-4ae2-b6c8-f2a57fdde2f1,Sigdal og Eggedal Høyre,2023-03-13T10:53:58.737Z,a4e763d1-fd7a-42e9-8b45-d2acb61ddb4b,H,Norway,no,107469865985708,Sigdal og Eggedal Høyre,Facebook
+13814880-4c91-4526-b13f-cab89abf6e14,Østfold Høyre,2023-04-26T06:54:11.368Z,8640464c-6ccb-49d6-b344-ef490dfb8783,H,Norway,no,103044219380073,Østfold Høyre,Facebook
 b43d44db-5c5e-4807-b1df-b227db25a028,Rana FrP,2023-08-31T06:14:32.502Z,4d704a63-ade0-4989-96c5-5f41720cb739,Frp,Norway,no,199167970094763,Rana FrP,Facebook
+a9a43ac8-248f-46b2-a202-65182c1be389,Rødt IØ,2023-09-11T05:07:39.502Z,0cc33804-54b0-4e10-bac0-4872507a803f,R,Norway,no,113487850933104,Rødt IØ,Facebook
 27826b63-faab-4d4c-84df-01b7dace2f1d,Sola Høyre,2023-03-29T10:54:05.528Z,2db957cb-2f92-4c2b-94a2-879b8a125c6f,H,Norway,no,139808122732007,Sola Høyre,Facebook
-f11136ac-5006-4c8d-916d-38aa38d69cee,Rødt Stavanger,2023-05-29T06:53:28.703Z,ebfd300e-607e-4283-9ffa-339c9af87eb5,R,Norway,no,150923871639160,Rødt Stavanger,Facebook
 22def638-6361-4029-9296-8c6cf26d683c,Bodø Høyre,2023-05-01T06:53:45.426Z,6d8873a4-fbb5-4609-a98a-6a5a46dac8d2,H,Norway,no,143787579017708,Bodø Høyre,Facebook
-8fb9ca2f-8a10-464a-bff1-2587334ad462,Rødt Arendal,2023-08-25T05:07:13.123Z,ec09a7c5-b309-4640-b802-e93d8a50ee7d,R,Norway,no,220366324801104,Rødt Arendal,Facebook
 66d2ae7d-8875-4a27-91dd-4007f5d1e8d9,Steinar Bergstøl Andersen - FrP,2023-04-13T10:54:01.361Z,f147821b-8761-4988-abdb-b401f45fb004,Frp,Norway,no,200660329949582,Steinar Bergstøl Andersen - FrP,Facebook
+0ecbb8bc-5240-4604-89b9-8dfaa609ffba,Kvinesdal Arbeiderparti,2023-08-04T05:08:09.407Z,3bb4219e-6464-425e-b298-3f030ab4b10c,Ap,Norway,no,339999602743257,Kvinesdal Arbeiderparti,Facebook
+25bd6696-0d32-408d-97f2-2efd94f93045,Levanger Arbeiderparti,2023-08-15T05:07:49.120Z,857b99de-9843-4dec-8140-f665ed60c538,Ap,Norway,no,119301361583664,Levanger Arbeiderparti,Facebook
+f9e303fb-1847-43cb-b8bc-1fd9d215faed,Gjesdal Venstre,2023-08-21T05:08:13.856Z,cfdfd4cb-81b5-4ce2-8696-0cd0f55374eb,V,Norway,no,1671606459737526,Gjesdal Venstre,Facebook
+7812d02c-52e2-4d3e-a368-54ac1dc3f78c,Strand Venstre,2023-09-04T05:07:25.698Z,4b418eb1-4fd4-42de-9bd2-845777541530,V,Norway,no,106661459421628,Strand Venstre,Facebook
+f11136ac-5006-4c8d-916d-38aa38d69cee,Rødt Stavanger,2023-05-29T06:53:28.703Z,ebfd300e-607e-4283-9ffa-339c9af87eb5,R,Norway,no,150923871639160,Rødt Stavanger,Facebook
+8fb9ca2f-8a10-464a-bff1-2587334ad462,Rødt Arendal,2023-08-25T05:07:13.123Z,ec09a7c5-b309-4640-b802-e93d8a50ee7d,R,Norway,no,220366324801104,Rødt Arendal,Facebook
 a6abd8da-b9b0-45fe-8170-bdc4094f1cc4,Færder Høyre,2023-05-31T06:53:54.598Z,aaa1b334-3c01-4318-89de-5890229446be,H,Norway,no,168850569832136,Færder Høyre,Facebook
 3e80ec9b-0f0c-4583-b1af-b90fe7f288ea,Melhus Høyre,2023-07-08T06:08:04.521Z,e7952764-e807-4e67-a611-86862b3377ea,H,Norway,no,198570446828478,Melhus Høyre,Facebook
+743e0d10-5d03-4ddc-9955-91e1f4100439,Saltdal FrP,2023-08-28T05:07:13.486Z,bcfcbf81-ef6d-47bd-bace-464cb16f2463,Frp,Norway,no,201389903792332,Saltdal FrP,Facebook
 59dd09b0-0572-4b6d-9460-6ae29fd66aad,Etne FrP,2023-09-03T05:07:18.557Z,b6cab037-2716-46dd-8612-4715784131f3,Frp,Norway,no,152440354820580,Etne FrP,Facebook
 b4a6e02a-49da-4d1c-ac68-82cd61285b1d,Rødt Bergen,2023-08-07T05:08:26.238Z,6c7b8659-ee20-4b90-a1e8-4f9917df8e63,R,Norway,no,225409510831370,Rødt Bergen,Facebook
+56bbabb2-f197-4965-99b0-2d33a0e70925,Kristian Mateo Norheim - Rødt Karmøy,2023-08-13T05:08:24.413Z,c728516a-6feb-4825-8202-66e993185cf1,R,Norway,no,103619995612308,Kristian Mateo Norheim - Rødt Karmøy,Facebook
 d8018d15-96d3-4f58-a804-927c4664a5f1,Kent Ranum - Ordførerkandidat Høyre,2023-05-20T06:53:58.419Z,d69ab7f2-2e39-411c-8d69-d1b05ed587b3,H,Norway,no,100970626156019,Kent Ranum - Ordførerkandidat Høyre,Facebook
 3cbec985-8b16-4675-85d8-9fa056363163,Rogaland Høyre,2023-08-05T05:08:17.654Z,e7473ad8-d988-4d7c-b82a-419f470a77f0,H,Norway,no,126895400704503,Rogaland Høyre,Facebook
-0ecbb8bc-5240-4604-89b9-8dfaa609ffba,Kvinesdal Arbeiderparti,2023-08-04T05:08:09.407Z,3bb4219e-6464-425e-b298-3f030ab4b10c,Ap,Norway,no,339999602743257,Kvinesdal Arbeiderparti,Facebook
 0e9e6fdd-bcf2-444d-a9f2-7a9ac6cda680,Senja FrP,2023-07-25T05:08:16.719Z,d9671fb5-2158-4abe-a6bd-91ea2e6cb325,Frp,Norway,no,140763989922811,Senja FrP,Facebook
-25bd6696-0d32-408d-97f2-2efd94f93045,Levanger Arbeiderparti,2023-08-15T05:07:49.120Z,857b99de-9843-4dec-8140-f665ed60c538,Ap,Norway,no,119301361583664,Levanger Arbeiderparti,Facebook
-ff8fa4da-fa92-4038-9648-a1303b1a25a9,Trøndelag Arbeiderparti,2023-03-21T10:53:52.975Z,0ce38132-43a6-4b98-aad6-915c95df82e8,Ap,Norway,no,144754334087,Trøndelag Arbeiderparti,Facebook
-82d29bdb-8799-4011-9731-47092b4b94a9,Akershus Arbeiderparti,2023-04-17T08:06:06.430Z,a9463230-a49a-49cb-b897-e04905ec60c3,Ap,Norway,no,173437119340296,Akershus Arbeiderparti,Facebook
-f9e303fb-1847-43cb-b8bc-1fd9d215faed,Gjesdal Venstre,2023-08-21T05:08:13.856Z,cfdfd4cb-81b5-4ce2-8696-0cd0f55374eb,V,Norway,no,1671606459737526,Gjesdal Venstre,Facebook
-daba9a51-5e3f-43df-ba41-d632799c4e53,Fauske Arbeiderparti,2023-08-27T05:07:24.635Z,de5b1220-7a50-4199-ad81-64727598905d,Ap,Norway,no,726925724090860,Fauske Arbeiderparti,Facebook
-7812d02c-52e2-4d3e-a368-54ac1dc3f78c,Strand Venstre,2023-09-04T05:07:25.698Z,4b418eb1-4fd4-42de-9bd2-845777541530,V,Norway,no,106661459421628,Strand Venstre,Facebook
-08957a93-ebbf-4246-b134-9bc32c19b5a3,Rendalen Arbeiderparti,2023-09-05T05:07:31.275Z,8e462d5e-4569-4923-a932-d8eff8d9d482,Ap,Norway,no,132065453531586,Rendalen Arbeiderparti,Facebook
-56bbabb2-f197-4965-99b0-2d33a0e70925,Kristian Mateo Norheim - Rødt Karmøy,2023-08-13T05:08:24.413Z,c728516a-6feb-4825-8202-66e993185cf1,R,Norway,no,103619995612308,Kristian Mateo Norheim - Rødt Karmøy,Facebook
-52aabe0b-04ad-4934-9c99-ae05b685f63b,Moss Venstre,2023-09-13T05:07:20.628Z,469ff508-5fa1-473d-86a2-ea042fce5fe0,V,Norway,no,174624345955647,Moss Venstre,Facebook
 75394d88-b508-463e-9009-823160161f0c,Lillestrøm Høyre,2023-05-24T06:53:57.678Z,5388415d-5f70-427c-a1d3-d395d4e0b7b5,H,Norway,no,560222237756647,Lillestrøm Høyre,Facebook
+ff8fa4da-fa92-4038-9648-a1303b1a25a9,Trøndelag Arbeiderparti,2023-03-21T10:53:52.975Z,0ce38132-43a6-4b98-aad6-915c95df82e8,Ap,Norway,no,144754334087,Trøndelag Arbeiderparti,Facebook
 f0c35416-18e0-47d4-b2f7-537b9910511f,Lurøy Høyre,2023-07-06T06:08:04.324Z,2ce964ec-4537-43c6-b856-4c069981374e,H,Norway,no,109524131941256,Lurøy Høyre,Facebook
-2dd04a6b-9fef-47da-8bf8-0914f6e9efc9,Rødt Rogaland,2023-08-10T05:08:14.210Z,5f1bf54b-cf61-4f58-ad02-f2f6eceaab92,R,Norway,no,481214851962157,Rødt Rogaland,Facebook
+82d29bdb-8799-4011-9731-47092b4b94a9,Akershus Arbeiderparti,2023-04-17T08:06:06.430Z,a9463230-a49a-49cb-b897-e04905ec60c3,Ap,Norway,no,173437119340296,Akershus Arbeiderparti,Facebook
 5cbc780a-b6cc-4e2b-9954-766715244ccd,Holmestrand FrP,2023-07-21T05:08:29.802Z,6e4c44a0-e220-4d2b-8179-2915d26862af,Frp,Norway,no,559680264045132,Holmestrand FrP,Facebook
-a8c28242-49e0-4ef0-8b05-b777ec606a0a,Sandnes Høyre,2023-05-24T06:53:57.678Z,8e339cc7-1ada-4b53-8d85-763e99652eef,H,Norway,no,101988883195978,Sandnes Høyre,Facebook
+daba9a51-5e3f-43df-ba41-d632799c4e53,Fauske Arbeiderparti,2023-08-27T05:07:24.635Z,de5b1220-7a50-4199-ad81-64727598905d,Ap,Norway,no,726925724090860,Fauske Arbeiderparti,Facebook
 65812bfc-d312-4393-9931-f5285e0a0d50,Erik A. Sørensen - Frp Larvik,2023-09-13T05:07:20.621Z,f58b5a89-264c-4dd7-86fa-783d2a182965,Frp,Norway,no,406077819540684,Erik A. Sørensen - Frp Larvik,Facebook
-45eb24f6-4fe5-43a9-a0f8-055cbf50bd27,Porsgrunn Høyre,2023-06-29T05:43:09.224Z,32146695-90f0-4980-a1fd-f55e4f97cf4b,H,Norway,no,267499229934089,Porsgrunn Høyre,Facebook
 49a25f97-451e-4501-a381-3b676bf8627d,Vestfold Arbeiderparti,2023-03-17T10:54:21.372Z,26ee7b1c-5b24-4658-b1de-eb97cbd486d8,Ap,Norway,no,106562262329690,Vestfold Arbeiderparti,Facebook
-565bd2ab-6584-4a11-953e-eef9aa675ba3,Gloppen SV,2023-09-13T05:07:21.428Z,79d9482e-64cf-4c93-886b-2066c2df88c7,SV,Norway,no,1533259790288361,Gloppen SV,Facebook
+08957a93-ebbf-4246-b134-9bc32c19b5a3,Rendalen Arbeiderparti,2023-09-05T05:07:31.275Z,8e462d5e-4569-4923-a932-d8eff8d9d482,Ap,Norway,no,132065453531586,Rendalen Arbeiderparti,Facebook
 3366bbf9-0bbb-46ae-a55e-4be0f4e43270,Sindre Martinsen-Evje,2023-04-16T15:06:15.654Z,001dced8-9b30-4692-b799-9e69ce07934b,Ap,Norway,no,190006477676674,Sindre Martinsen-Evje,Facebook
+52aabe0b-04ad-4934-9c99-ae05b685f63b,Moss Venstre,2023-09-13T05:07:20.628Z,469ff508-5fa1-473d-86a2-ea042fce5fe0,V,Norway,no,174624345955647,Moss Venstre,Facebook
 996879fb-092d-4881-997e-8081654aa6b3,Rollag og Veggli Arbeiderparti,2023-08-31T06:14:32.657Z,629c77e0-e382-4033-a719-cf6d065670c9,Ap,Norway,no,274004259293285,Rollag og Veggli Arbeiderparti,Facebook
-8feb2113-b02e-4de4-869f-9135edea095c,Kvinnherad SV,2023-09-13T05:07:21.460Z,11d99815-a420-4bb7-8cf9-0164a1811e33,SV,Norway,no,264330714456330,Kvinnherad SV,Facebook
 b54575de-0adc-413d-85ae-20669dea3bfc,Hamar Arbeiderparti,2023-09-03T05:07:18.791Z,340d76d4-8ad7-495c-9f5f-2dfba8c4b061,Ap,Norway,no,124075407642706,Hamar Arbeiderparti,Facebook
-4a5653f9-3aa0-4bae-ae00-655510c12d66,Larvik FrP,2023-07-27T05:08:02.540Z,45e362c1-134f-40aa-aaf6-61f8a7ef79ae,Frp,Norway,no,1509543435991201,Larvik FrP,Facebook
+2dd04a6b-9fef-47da-8bf8-0914f6e9efc9,Rødt Rogaland,2023-08-10T05:08:14.210Z,5f1bf54b-cf61-4f58-ad02-f2f6eceaab92,R,Norway,no,481214851962157,Rødt Rogaland,Facebook
 9db965c9-9708-4377-8e16-6a5ec78bb781,Vennesla Venstre,2023-09-10T05:07:28.212Z,61141e68-4027-47ef-a3f7-7d8bd1abbf2d,V,Norway,no,219790741372177,Vennesla Venstre,Facebook
-1a54a5e5-8ddf-46c4-b719-cab0643b3ae8,Agder FrP,2023-09-09T05:07:32.780Z,126acf39-dd1b-42b3-8035-3c69e4695fdc,Frp,Norway,no,136615146513839,Agder FrP,Facebook
 69598d7a-d480-487e-81ed-a3e50d5dd41c,Rødt Oslo,2023-08-17T05:07:07.073Z,58d6ba04-fc8f-4088-b12a-807683525bc7,R,Norway,no,286121910622,Rødt Oslo,Facebook
-7d021e69-2de6-497e-b0c6-0ed93e54ff56,Østfold Arbeiderparti,2023-03-11T10:54:17.700Z,5660e246-00bf-4888-82d0-a0438c23f1e8,Ap,Norway,no,165191886867221,Østfold Arbeiderparti,Facebook
+a8c28242-49e0-4ef0-8b05-b777ec606a0a,Sandnes Høyre,2023-05-24T06:53:57.678Z,8e339cc7-1ada-4b53-8d85-763e99652eef,H,Norway,no,101988883195978,Sandnes Høyre,Facebook
+45eb24f6-4fe5-43a9-a0f8-055cbf50bd27,Porsgrunn Høyre,2023-06-29T05:43:09.224Z,32146695-90f0-4980-a1fd-f55e4f97cf4b,H,Norway,no,267499229934089,Porsgrunn Høyre,Facebook
 33b98f2f-62a9-4509-b2d2-13637d7686eb,Sørreisa Høyre,2023-06-15T06:53:41.529Z,0202e9bb-6693-41f6-9b0f-1b3075a307a4,H,Norway,no,101769562801217,Sørreisa Høyre,Facebook
-b95ee89d-8f09-445d-a7ef-fdd2eedc5073,Gunnar Thorsen - Ordførerkandidat Steinkjer Arbeiderparti,2023-04-04T10:54:14.187Z,7ebb9d24-3c4d-4b94-9b40-bc8405db51a2,Ap,Norway,no,100213513000462,Gunnar Thorsen - Ordførerkandidat Steinkjer Arbeiderparti,Facebook
+565bd2ab-6584-4a11-953e-eef9aa675ba3,Gloppen SV,2023-09-13T05:07:21.428Z,79d9482e-64cf-4c93-886b-2066c2df88c7,SV,Norway,no,1533259790288361,Gloppen SV,Facebook
 014f74c0-9166-49c1-aae9-3836e3ebcda9,Møre og Romsdal Høyre,2023-07-25T05:08:16.903Z,62fd7460-9204-4295-ae3b-022271fccff3,H,Norway,no,206510029407716,Møre og Romsdal Høyre,Facebook
-38bbf307-335c-4bf3-9f07-2f9d284255c0,Troms Arbeiderparti,2023-08-29T05:07:18.149Z,0b165d73-273a-4791-84be-b591afd7e3c0,Ap,Norway,no,137481912973372,Troms Arbeiderparti,Facebook
+8feb2113-b02e-4de4-869f-9135edea095c,Kvinnherad SV,2023-09-13T05:07:21.460Z,11d99815-a420-4bb7-8cf9-0164a1811e33,SV,Norway,no,264330714456330,Kvinnherad SV,Facebook
 4769033c-e122-4cc8-89aa-ee6db6902022,Nærøysund FrP,2023-08-05T05:08:18.202Z,2687ce37-2351-4c7d-ae85-c94f7c553256,Frp,Norway,no,150993998253579,Nærøysund FrP,Facebook
-bc3b8f87-18f8-46d8-b6f7-b765f2edd14f,Løten Arbeiderparti,2023-09-04T05:07:25.624Z,aaf9b782-93fe-4c86-9fa2-b9b3934a3590,Ap,Norway,no,119983534743185,Løten Arbeiderparti,Facebook
+4a5653f9-3aa0-4bae-ae00-655510c12d66,Larvik FrP,2023-07-27T05:08:02.540Z,45e362c1-134f-40aa-aaf6-61f8a7ef79ae,Frp,Norway,no,1509543435991201,Larvik FrP,Facebook
 2be411b5-fea7-4c88-a608-d1c3129505f8,Steinkjer FrP,2023-09-08T05:07:41.427Z,1d76187b-51d6-4ae3-99ca-18dd8af41bad,Frp,Norway,no,220912294639426,Steinkjer FrP,Facebook
+1a54a5e5-8ddf-46c4-b719-cab0643b3ae8,Agder FrP,2023-09-09T05:07:32.780Z,126acf39-dd1b-42b3-8035-3c69e4695fdc,Frp,Norway,no,136615146513839,Agder FrP,Facebook
 b5bf62af-8f45-4b4a-a04e-8b9354790eb5,Moss Arbeiderparti,2023-03-18T10:54:02.459Z,4d14acca-1cfb-4a96-a2ab-55fc035a5c6c,Ap,Norway,no,179717228781217,Moss Arbeiderparti,Facebook
 c88deb34-04f6-4c05-a03f-19d48b18660a,Eidsvoll Arbeiderparti,2023-04-16T15:06:15.647Z,f838a400-8aad-4dbd-8c45-46125408112e,Ap,Norway,no,1527451180873336,Eidsvoll Arbeiderparti,Facebook
-b18d535e-a6d3-4121-9ded-142a1164ee43,Rødt Bodø,2023-08-20T05:08:03.781Z,b509a918-69be-4854-b6b9-7fe31f83a1fe,R,Norway,no,490676404357612,Rødt Bodø,Facebook
+7d021e69-2de6-497e-b0c6-0ed93e54ff56,Østfold Arbeiderparti,2023-03-11T10:54:17.700Z,5660e246-00bf-4888-82d0-a0438c23f1e8,Ap,Norway,no,165191886867221,Østfold Arbeiderparti,Facebook
 32aed53a-7d80-4cb7-a98f-66a020fb8e33,Andreas Grumheden - Ordførarkandidat Etne Arbeiderparti,2023-08-29T05:07:17.769Z,55498317-7aa9-49cc-84c4-30f06c037e3b,Ap,Norway,no,123739827367217,Andreas Grumheden - Ordførarkandidat Etne Arbeiderparti,Facebook
-32178ba0-1d36-4fdf-94f2-6c05e691b872,Hvaler Høyre,2023-05-23T06:53:52.616Z,1e7dfcce-7c99-41ec-999e-d1660bf959bb,H,Norway,no,119751611374491,Hvaler Høyre,Facebook
+b95ee89d-8f09-445d-a7ef-fdd2eedc5073,Gunnar Thorsen - Ordførerkandidat Steinkjer Arbeiderparti,2023-04-04T10:54:14.187Z,7ebb9d24-3c4d-4b94-9b40-bc8405db51a2,Ap,Norway,no,100213513000462,Gunnar Thorsen - Ordførerkandidat Steinkjer Arbeiderparti,Facebook
 2b453c49-1955-4645-b9ba-9327c62417ea,Jevnaker Arbeiderparti,2023-09-03T05:07:18.848Z,d6e9d563-3ee3-4231-8eb3-eb22efd4d9c8,Ap,Norway,no,111653158683989,Jevnaker Arbeiderparti,Facebook
-b92bb772-fdf5-4482-8d24-67c8d0b09e24,Vestby Høyre,2023-06-19T18:25:30.771Z,5756295c-d717-4f73-860a-29cf6912df9a,H,Norway,no,229236417110530,Vestby Høyre,Facebook
+38bbf307-335c-4bf3-9f07-2f9d284255c0,Troms Arbeiderparti,2023-08-29T05:07:18.149Z,0b165d73-273a-4791-84be-b591afd7e3c0,Ap,Norway,no,137481912973372,Troms Arbeiderparti,Facebook
+b18d535e-a6d3-4121-9ded-142a1164ee43,Rødt Bodø,2023-08-20T05:08:03.781Z,b509a918-69be-4854-b6b9-7fe31f83a1fe,R,Norway,no,490676404357612,Rødt Bodø,Facebook
+bc3b8f87-18f8-46d8-b6f7-b765f2edd14f,Løten Arbeiderparti,2023-09-04T05:07:25.624Z,aaf9b782-93fe-4c86-9fa2-b9b3934a3590,Ap,Norway,no,119983534743185,Løten Arbeiderparti,Facebook
+32178ba0-1d36-4fdf-94f2-6c05e691b872,Hvaler Høyre,2023-05-23T06:53:52.616Z,1e7dfcce-7c99-41ec-999e-d1660bf959bb,H,Norway,no,119751611374491,Hvaler Høyre,Facebook
 1548cfc8-4dea-462f-94d7-950a1bf73cb7,Rødt Troms,2023-08-21T05:08:13.877Z,39719e16-edb7-4c64-90f7-cc092dd200f9,R,Norway,no,1393801977604324,Rødt Troms,Facebook
-b2e7f076-7d36-4ac8-b5ee-1a735e481a77,"Jens Tore Fremmegård, listekandidat for Indre Østfold FrP",2023-08-05T05:08:17.993Z,2e9c59dc-6694-45b5-8f89-094b9909dbcf,Frp,Norway,no,115717534759325,"Jens Tore Fremmegård, listekandidat for Indre Østfold FrP",Facebook
+b92bb772-fdf5-4482-8d24-67c8d0b09e24,Vestby Høyre,2023-06-19T18:25:30.771Z,5756295c-d717-4f73-860a-29cf6912df9a,H,Norway,no,229236417110530,Vestby Høyre,Facebook
 17f3c425-7e95-4377-a757-aaef4915adb6,Halden Høyre,2023-06-11T06:53:34.383Z,58ae2a3c-f811-4aba-b082-acc653bcff02,H,Norway,no,396516693854620,Halden Høyre,Facebook
-6a97d555-c362-4da1-a1aa-6ce4329a53bd,Sola FrP,2023-09-09T05:07:32.321Z,c789e1f9-3168-482e-b45b-6a2288217366,Frp,Norway,no,1168213576580825,Sola FrP,Facebook
+b2e7f076-7d36-4ac8-b5ee-1a735e481a77,"Jens Tore Fremmegård, listekandidat for Indre Østfold FrP",2023-08-05T05:08:17.993Z,2e9c59dc-6694-45b5-8f89-094b9909dbcf,Frp,Norway,no,115717534759325,"Jens Tore Fremmegård, listekandidat for Indre Østfold FrP",Facebook
 4d433c0b-be9c-408d-88cd-145be362439f,Troms og Finnmark Høyre,2023-06-20T05:14:43.861Z,5c2deda2-d652-4274-8cc7-0ed8f409d741,H,Norway,no,187160647980979,Troms og Finnmark Høyre,Facebook
+6a97d555-c362-4da1-a1aa-6ce4329a53bd,Sola FrP,2023-09-09T05:07:32.321Z,c789e1f9-3168-482e-b45b-6a2288217366,Frp,Norway,no,1168213576580825,Sola FrP,Facebook
 40539b20-84cb-4eca-baba-4f6a9c375296,Stord FrP,2023-08-07T05:08:26.359Z,e65212c0-11b9-4ce0-b050-3291383c6e06,Frp,Norway,no,106736786343446,Stord FrP,Facebook
 85a5a2e6-d40c-43c2-937c-18b3b81ef3a8,Lørenskog Arbeiderparti,2023-03-15T10:54:22.789Z,26d7600f-e318-49f2-ac50-3ef5b6cc896f,Ap,Norway,no,246264862053914,Lørenskog Arbeiderparti,Facebook
 04438786-6991-449a-9d1b-45d0d4752969,Arbeiderpartiet i Bergen,2023-03-27T10:54:13.566Z,947e0b92-652e-4051-9d1b-d9f5f1718d80,Ap,Norway,no,171540532874418,Arbeiderpartiet i Bergen,Facebook
-60061c82-1355-4d91-94d7-f9ba7c65739c,Thilde Marie Børsum - Ordførerkandidat for Bærum Arbeiderparti,2023-04-24T06:54:01.269Z,8595a301-4522-4f81-a477-4d0bb19eb5e7,Ap,Norway,no,102467489421629,Thilde Marie Børsum - Ordførerkandidat for Bærum Arbeiderparti,Facebook
-91b2b35d-b67d-4305-b476-49237e182d82,Vågå Arbeiderparti,2023-08-27T05:07:24.579Z,1ea31d6a-e852-45c7-9045-42198e3b40ce,Ap,Norway,no,135274579954794,Vågå Arbeiderparti,Facebook
 eefce314-1e3d-4539-adc6-d1f651bb4ff0,Midt-Telemark Arbeiderparti,2023-04-04T10:54:14.187Z,9e2a2835-bbfe-44d6-90c1-11b4ee9b7d72,Ap,Norway,no,138037156286388,Midt-Telemark Arbeiderparti,Facebook
-938e6f8d-3b7a-4d0e-9b27-7bd19b2a5ae2,Vestby Arbeiderparti,2023-09-01T05:07:23.940Z,5361d7df-b0a7-43e3-becc-446803ca10c5,Ap,Norway,no,178279705562481,Vestby Arbeiderparti,Facebook
+60061c82-1355-4d91-94d7-f9ba7c65739c,Thilde Marie Børsum - Ordførerkandidat for Bærum Arbeiderparti,2023-04-24T06:54:01.269Z,8595a301-4522-4f81-a477-4d0bb19eb5e7,Ap,Norway,no,102467489421629,Thilde Marie Børsum - Ordførerkandidat for Bærum Arbeiderparti,Facebook
 4070524b-dcec-4c2d-9013-66d3ad23da8a,Sel Arbeiderparti,2023-09-01T05:07:23.879Z,a1d98b15-d50c-45bb-9d00-0e1b7e28269f,Ap,Norway,no,135154743500095,Sel Arbeiderparti,Facebook
-38da0386-782f-4a5e-a023-99ee2675a0a0,Rødt Bjerke,2023-08-30T05:07:24.576Z,6da02f0a-b058-4b72-b7a8-97669134cc8c,R,Norway,no,130933140329504,Rødt Bjerke,Facebook
 dca92502-2c71-40c5-8de2-5c52d599cf2f,VANG AP,2023-09-04T05:07:25.395Z,7ef96975-b9d4-4c6e-9bb1-f3f41c19ade9,Ap,Norway,no,105730909240514,VANG AP,Facebook
-1e8cce7c-f980-43f9-8c16-b59d38845619,Aure Høyre,2023-05-29T06:53:28.774Z,83df6c1b-61f0-4a24-a8c0-0d5c361e3ac8,H,Norway,no,504462853625184,Aure Høyre,Facebook
-6558fc8e-14f4-4e60-afe3-01a02a01c468,Drammen Høyre,2023-07-01T05:08:34.247Z,3e717393-6415-4e19-952a-b336dc2e77dc,H,Norway,no,291638394185556,Drammen Høyre,Facebook
+91b2b35d-b67d-4305-b476-49237e182d82,Vågå Arbeiderparti,2023-08-27T05:07:24.579Z,1ea31d6a-e852-45c7-9045-42198e3b40ce,Ap,Norway,no,135274579954794,Vågå Arbeiderparti,Facebook
 d8da623c-3ffc-4034-86a0-a29c766470cf,Vaksdal Arbeiderparti,2023-09-14T05:07:24.086Z,92ee8409-a694-4ef6-831f-d9bddd4c33b0,Ap,Norway,no,1416263752016042,Vaksdal Arbeiderparti,Facebook
-a6187ebc-c13b-4a89-9ec0-d6c23f8a2bac,Horten FrP,2023-08-08T05:07:35.665Z,5d7247cc-8b55-4622-8308-2f59615f153b,Frp,Norway,no,395995740541609,Horten FrP,Facebook
+938e6f8d-3b7a-4d0e-9b27-7bd19b2a5ae2,Vestby Arbeiderparti,2023-09-01T05:07:23.940Z,5361d7df-b0a7-43e3-becc-446803ca10c5,Ap,Norway,no,178279705562481,Vestby Arbeiderparti,Facebook
 43837568-125d-4ca9-90d1-68d6b2eae804,Fjaler Arbeidarparti,2023-09-01T05:07:23.925Z,38a58cb3-6989-4e08-8ecc-0a86ab826c59,Ap,Norway,no,202988719716011,Fjaler Arbeidarparti,Facebook
-42551bd4-4e4d-4f67-bd5c-2ed13db05880,Overhalla FrP,2023-09-06T05:07:24.174Z,2e33483b-4d8a-49b9-8a8c-1decb53f00db,Frp,Norway,no,213412505482058,Overhalla FrP,Facebook
+38da0386-782f-4a5e-a023-99ee2675a0a0,Rødt Bjerke,2023-08-30T05:07:24.576Z,6da02f0a-b058-4b72-b7a8-97669134cc8c,R,Norway,no,130933140329504,Rødt Bjerke,Facebook
 97d9aa93-a891-4757-beeb-42f0b116b126,Vardø Senterparti,2023-09-14T05:07:24.185Z,d7544221-e553-4749-88d6-369676e3fd51,Sp,Norway,no,107358218155043,Vardø Senterparti,Facebook
-433cc802-cd1b-4b4e-8ba1-1230d2e9c663,Trondheim Arbeiderparti,2023-03-26T10:53:54.043Z,93e29fdd-b746-4061-b8cd-26cceb0fa57f,Ap,Norway,no,298357179829,Trondheim Arbeiderparti,Facebook
-aed175f3-0c82-4448-a054-7066a33b937c,Emil Raaen - Ordførerkandidat Ap,2023-04-26T06:54:11.356Z,e302af72-f844-4cc7-a8c5-45eab4d4f030,Ap,Norway,no,101815422763212,Emil Raaen - Ordførerkandidat Ap,Facebook
 2710daa3-3904-47a6-bd52-36495ffa43a2,Askøy Høyre,2023-03-13T10:53:58.730Z,9ac3ebd5-f19e-4a8c-bfe7-076c2250453e,H,Norway,no,486661108031985,Askøy Høyre,Facebook
-30394ed3-8b58-4fb8-b95b-f48dab0c87bc,Grünerløkka Arbeiderparti,2023-08-26T05:07:21.692Z,1efa964c-658f-4391-af02-2eef75ab7914,Ap,Norway,no,153643841460237,Grünerløkka Arbeiderparti,Facebook
+1e8cce7c-f980-43f9-8c16-b59d38845619,Aure Høyre,2023-05-29T06:53:28.774Z,83df6c1b-61f0-4a24-a8c0-0d5c361e3ac8,H,Norway,no,504462853625184,Aure Høyre,Facebook
 88d5b706-6527-42ec-a922-79094da4a239,Skien Høyre,2023-05-14T06:54:04.233Z,dca39ec4-449c-4896-9ba0-976a7f048a15,H,Norway,no,994019457298682,Skien Høyre,Facebook
-f7b7e0b1-8c03-476a-898d-6dc1e57cb509,Råde Arbeiderparti,2023-09-02T05:07:22.944Z,e836e693-4206-4d05-b6bd-241c6f6eea8b,Ap,Norway,no,588950061124619,Råde Arbeiderparti,Facebook
-cd7bbf56-34cd-48ab-9567-adaef02f88de,Heimdal Arbeiderlag,2023-08-15T05:07:49.595Z,b3a19320-24ee-44c8-8075-90241ccf6719,Ap,Norway,no,1620461634879738,Heimdal Arbeiderlag,Facebook
+6558fc8e-14f4-4e60-afe3-01a02a01c468,Drammen Høyre,2023-07-01T05:08:34.247Z,3e717393-6415-4e19-952a-b336dc2e77dc,H,Norway,no,291638394185556,Drammen Høyre,Facebook
 750f1223-8c82-4c3c-b44f-19d0ea5eda81,Kvam FrP,2023-08-09T05:08:03.534Z,fd6423f5-15c9-4fae-b055-c28460fcec3b,Frp,Norway,no,150587104986201,Kvam FrP,Facebook
+a6187ebc-c13b-4a89-9ec0-d6c23f8a2bac,Horten FrP,2023-08-08T05:07:35.665Z,5d7247cc-8b55-4622-8308-2f59615f153b,Frp,Norway,no,395995740541609,Horten FrP,Facebook
 952964c2-c650-4134-a9fa-c920007ddb24,Vennesla FrP,2023-09-06T05:07:24.188Z,6a19d552-768a-4f8d-bd4b-c49ee5e4ce88,Frp,Norway,no,108917895838519,Vennesla FrP,Facebook
-d29d761a-8c23-4781-afaa-fc7afd4f3fc4,Vi som stemmer Arbeiderpartiet,2023-09-24T05:07:37.781Z,6c5b9b4c-62d6-4718-ac7a-0ab61279d4fb,Ap,Norway,no,545024048904427,Vi som stemmer Arbeiderpartiet,Facebook
-4f6d4595-2424-423f-bed0-9a5d065fe531,Akershus Høyre,2023-03-24T10:54:08.862Z,0cf0d44f-f8cc-4a9f-a190-b8c929b686ff,H,Norway,no,102264419459588,Akershus Høyre,Facebook
+42551bd4-4e4d-4f67-bd5c-2ed13db05880,Overhalla FrP,2023-09-06T05:07:24.174Z,2e33483b-4d8a-49b9-8a8c-1decb53f00db,Frp,Norway,no,213412505482058,Overhalla FrP,Facebook
 74e318f2-53ec-4c48-8e85-ee9691fe174e,Skien Arbeiderparti,2023-03-25T10:53:47.538Z,4638b043-73e4-4536-b980-48d4cc7c4bd7,Ap,Norway,no,227287787462229,Skien Arbeiderparti,Facebook
-f3d485af-8ec4-4a90-9c86-bef2e115062b,Lier Høyre,2023-04-29T06:53:57.291Z,65968ece-3798-4f39-a8f4-cca0a8857dde,H,Norway,no,117538108322155,Lier Høyre,Facebook
+433cc802-cd1b-4b4e-8ba1-1230d2e9c663,Trondheim Arbeiderparti,2023-03-26T10:53:54.043Z,93e29fdd-b746-4061-b8cd-26cceb0fa57f,Ap,Norway,no,298357179829,Trondheim Arbeiderparti,Facebook
 53bb892c-ab9f-478b-b2d7-d05c0eb09705,Orkland Arbeiderparti,2023-04-02T10:54:10.165Z,b770e15a-ca7e-44b4-b7b6-2179eed4d712,Ap,Norway,no,170149836763179,Orkland Arbeiderparti,Facebook
-1adf21b4-27c0-4f7c-9f3b-d3cd2b6e0cb5,Færder Arbeiderparti,2023-05-17T06:53:21.976Z,cdff0348-61d7-443a-884c-18e963dc63bc,Ap,Norway,no,108137439269914,Færder Arbeiderparti,Facebook
+aed175f3-0c82-4448-a054-7066a33b937c,Emil Raaen - Ordførerkandidat Ap,2023-04-26T06:54:11.356Z,e302af72-f844-4cc7-a8c5-45eab4d4f030,Ap,Norway,no,101815422763212,Emil Raaen - Ordførerkandidat Ap,Facebook
 1ab4c652-52b8-445c-a291-cfef26b7d223,Stad Arbeiderparti,2023-08-27T05:07:24.694Z,772ef744-0e08-4722-afec-bd1b8ceb0695,Ap,Norway,no,110693041828718,Stad Arbeiderparti,Facebook
-6b074da1-7c1d-424f-8b65-66de5293021d,Drammen Arbeiderparti,2023-08-20T05:08:04.206Z,a7911f7a-9678-4d9b-80c6-e426cfb91c65,Ap,Norway,no,396509713710110,Drammen Arbeiderparti,Facebook
+30394ed3-8b58-4fb8-b95b-f48dab0c87bc,Grünerløkka Arbeiderparti,2023-08-26T05:07:21.692Z,1efa964c-658f-4391-af02-2eef75ab7914,Ap,Norway,no,153643841460237,Grünerløkka Arbeiderparti,Facebook
 7f945d49-a3d4-4619-a882-0bb967640e6f,Alna Arbeiderparti,2023-09-04T05:07:25.615Z,91ecc615-d336-49f4-bf74-347cb6253780,Ap,Norway,no,345896278873176,Alna Arbeiderparti,Facebook
+b740145f-331d-4696-be7e-3c9ab105c515,Lyngen Venstre,2023-09-12T05:07:03.529Z,9f5a0d94-154f-47ce-b00b-aafbd5a1bd9d,V,Norway,no,114284488269954,Lyngen Venstre,Facebook
+f7b7e0b1-8c03-476a-898d-6dc1e57cb509,Råde Arbeiderparti,2023-09-02T05:07:22.944Z,e836e693-4206-4d05-b6bd-241c6f6eea8b,Ap,Norway,no,588950061124619,Råde Arbeiderparti,Facebook
+4f6d4595-2424-423f-bed0-9a5d065fe531,Akershus Høyre,2023-03-24T10:54:08.862Z,0cf0d44f-f8cc-4a9f-a190-b8c929b686ff,H,Norway,no,102264419459588,Akershus Høyre,Facebook
+cd7bbf56-34cd-48ab-9567-adaef02f88de,Heimdal Arbeiderlag,2023-08-15T05:07:49.595Z,b3a19320-24ee-44c8-8075-90241ccf6719,Ap,Norway,no,1620461634879738,Heimdal Arbeiderlag,Facebook
+f3d485af-8ec4-4a90-9c86-bef2e115062b,Lier Høyre,2023-04-29T06:53:57.291Z,65968ece-3798-4f39-a8f4-cca0a8857dde,H,Norway,no,117538108322155,Lier Høyre,Facebook
+d29d761a-8c23-4781-afaa-fc7afd4f3fc4,Vi som stemmer Arbeiderpartiet,2023-09-24T05:07:37.781Z,6c5b9b4c-62d6-4718-ac7a-0ab61279d4fb,Ap,Norway,no,545024048904427,Vi som stemmer Arbeiderpartiet,Facebook
+1adf21b4-27c0-4f7c-9f3b-d3cd2b6e0cb5,Færder Arbeiderparti,2023-05-17T06:53:21.976Z,cdff0348-61d7-443a-884c-18e963dc63bc,Ap,Norway,no,108137439269914,Færder Arbeiderparti,Facebook
+6b074da1-7c1d-424f-8b65-66de5293021d,Drammen Arbeiderparti,2023-08-20T05:08:04.206Z,a7911f7a-9678-4d9b-80c6-e426cfb91c65,Ap,Norway,no,396509713710110,Drammen Arbeiderparti,Facebook
+2ae41960-78dc-4a64-9e08-15721c06ea38,Høyre,2023-03-28T10:54:02.205Z,7d4f57cf-30c5-4dfe-beb4-264a9ef43a3e,H,Norway,no,10953652930,Høyre,Facebook
 321c8348-5261-4f5f-83e0-2424981d162b,Lunner Arbeiderparti,2023-08-25T05:07:13.430Z,6bc31d87-620a-4168-bd16-c04654a23f25,Ap,Norway,no,88454634564,Lunner Arbeiderparti,Facebook
 e6f41642-afa4-4116-9e62-adccddd38492,Karmøy Venstre,2023-08-11T05:09:41.120Z,a2b26c2d-173e-474b-859e-cb004b483d9e,V,Norway,no,102589306742094,Karmøy Venstre,Facebook
-b740145f-331d-4696-be7e-3c9ab105c515,Lyngen Venstre,2023-09-12T05:07:03.529Z,9f5a0d94-154f-47ce-b00b-aafbd5a1bd9d,V,Norway,no,114284488269954,Lyngen Venstre,Facebook
-4f3b59e2-d26a-4764-8d2d-9d8f6cebccbc,Sandefjord Venstre,2023-08-12T05:08:12.251Z,18141e90-1c26-4f0c-a497-7d311cbca638,V,Norway,no,156086853040,Sandefjord Venstre,Facebook
-27724210-7815-4818-b296-555275dd7870,,2023-03-27T10:54:13.385Z,35c1ea5d-e006-43b7-9d43-c4c067f63514,H,Norway,no,191041020931826,,Facebook
-2ae41960-78dc-4a64-9e08-15721c06ea38,Høyre,2023-03-28T10:54:02.205Z,7d4f57cf-30c5-4dfe-beb4-264a9ef43a3e,H,Norway,no,10953652930,Høyre,Facebook
-400d30c2-f487-4cd9-887c-fe96c220d5af,Lillesand Høyre,2023-05-18T06:54:06.937Z,823c248e-43f4-429a-a28d-7053dd8bf4d3,H,Norway,no,298964320208914,Lillesand Høyre,Facebook
-ecabfae2-138e-4e3a-9823-2a0644383fa5,Melhus Arbeiderparti,2023-05-26T06:54:04.263Z,9039131f-53b4-42b5-8068-320fd9e327e9,Ap,Norway,no,121339831236955,Melhus Arbeiderparti,Facebook
 bc1344ae-4e5e-40e4-99fd-25cbcf9c9f64,Rauma Høyre,2023-05-09T06:53:42.211Z,86dfa5f9-2299-443e-a2df-8b4d897b392d,H,Norway,no,132415536850618,Rauma Høyre,Facebook
-db091032-02c4-402c-b948-b8a02cc120e2,Agder Arbeiderparti,2023-06-12T06:53:28.290Z,86d28892-a73c-45a2-aa48-96fc4efc71db,Ap,Norway,no,119258624775294,Agder Arbeiderparti,Facebook
-ff77f5a8-22bf-47f1-afbd-6e1e1550d71e,"Os Arbeiderparti, Hedmark",2023-08-15T05:07:49.480Z,632bf2f3-f7cb-4914-af8e-3f4bb211db58,Ap,Norway,no,112539672424815,"Os Arbeiderparti, Hedmark",Facebook
+4f3b59e2-d26a-4764-8d2d-9d8f6cebccbc,Sandefjord Venstre,2023-08-12T05:08:12.251Z,18141e90-1c26-4f0c-a497-7d311cbca638,V,Norway,no,156086853040,Sandefjord Venstre,Facebook
 30860ac2-5ef6-4be7-9403-4d17eef4d63e,Sandefjord Arbeiderparti,2023-05-21T06:53:49.123Z,1ffb2149-5529-43e6-87be-e323247de4fc,Ap,Norway,no,164105576971498,Sandefjord Arbeiderparti,Facebook
-e9ee5482-e02b-4eb4-8764-9adbc317e135,Vågåpakka - vilje og handlekraft,2023-08-25T05:07:13.257Z,f8f40967-3f38-49e3-9ef3-26b5f6c10c68,Ap,Norway,no,116288228136956,Vågåpakka - vilje og handlekraft,Facebook
-c7d2ef02-7ffc-4e02-b3bc-9b8050d52b7a,Vestre Slidre Arbeiderparti,2023-08-25T05:07:13.310Z,200d6131-f35e-46a1-895a-5fdd2bea3606,Ap,Norway,no,414392738634442,Vestre Slidre Arbeiderparti,Facebook
+27724210-7815-4818-b296-555275dd7870,,2023-03-27T10:54:13.385Z,35c1ea5d-e006-43b7-9d43-c4c067f63514,H,Norway,no,191041020931826,,Facebook
 517a106c-88bc-4b41-aac5-d696dcb1c80d,Rennebu Arbeiderparti,2023-08-20T05:08:04.247Z,5474a573-d926-448d-9a72-bc7a29a6f9c8,Ap,Norway,no,166785973332799,Rennebu Arbeiderparti,Facebook
 6e2ba861-4889-48b3-ad8b-f8651029a196,Namsos Arbeiderparti,2023-08-25T05:07:13.343Z,c4e602c1-efc3-4ae6-a002-4e802f294026,Ap,Norway,no,214768975241669,Namsos Arbeiderparti,Facebook
+400d30c2-f487-4cd9-887c-fe96c220d5af,Lillesand Høyre,2023-05-18T06:54:06.937Z,823c248e-43f4-429a-a28d-7053dd8bf4d3,H,Norway,no,298964320208914,Lillesand Høyre,Facebook
 a3a16e2b-3006-4f14-b4f9-8eec40010299,Halden Venstre,2023-08-04T05:08:09.589Z,0a15cded-a6a5-4de6-99bb-67c93c3bd880,V,Norway,no,200134620014472,Halden Venstre,Facebook
+ecabfae2-138e-4e3a-9823-2a0644383fa5,Melhus Arbeiderparti,2023-05-26T06:54:04.263Z,9039131f-53b4-42b5-8068-320fd9e327e9,Ap,Norway,no,121339831236955,Melhus Arbeiderparti,Facebook
 8777fc67-954f-4738-9f00-1b6164c8bcb1,Indre Østfold Venstre,2023-08-15T05:07:49.341Z,102a54d1-69ba-4228-9ac9-5ebfb025d11c,V,Norway,no,1440081742766803,Indre Østfold Venstre,Facebook
+db091032-02c4-402c-b948-b8a02cc120e2,Agder Arbeiderparti,2023-06-12T06:53:28.290Z,86d28892-a73c-45a2-aa48-96fc4efc71db,Ap,Norway,no,119258624775294,Agder Arbeiderparti,Facebook
 4e02a1ae-196e-4995-bea9-000d239ac4ab,Trondheim KrF,2023-06-23T05:17:18.631Z,8cb5d0a3-15fd-4d0b-b3bd-028a7e12d63d,KrF,Norway,no,265065086958416,Trondheim KrF,Facebook
-dd2d9d4c-d973-4437-ac44-ee61808d68f1,Marit Vea,2023-07-12T15:00:29.186Z,f6d7b9a2-4341-4166-b34c-2d58467ba8a6,V,Norway,no,711789545902081,Marit Vea,Facebook
 5e96847f-a30b-4854-b1d3-6b45abbefaa8,Ullensvang Arbeidarparti,2023-07-22T05:08:16.660Z,189c4e71-82b8-453d-84a6-b37b0a844880,Ap,Norway,no,209363312412150,Ullensvang Arbeidarparti,Facebook
 59bfbe9a-c841-474b-a881-a91f6fa3e0d2,Bjørnafjorden Arbeidarparti,2023-08-05T05:08:18.200Z,c887da04-87a1-4b7f-b3bb-677cf1e6414c,Ap,Norway,no,1566824096935498,Bjørnafjorden Arbeidarparti,Facebook
-925370b5-6d3f-4455-b0ef-355562f03c10,Andøy Venstre,2023-08-16T05:08:01.326Z,85820a91-9c90-4c31-a832-53d830ade08a,V,Norway,no,122096482772007632,Andøy Venstre,Facebook
-9d905395-e84d-4959-9830-ff30968c3e0f,Norsk Nærings- og Nytelsesmiddelarbeiderforbund - NNN,2023-08-15T05:07:49.462Z,404da73e-9699-4039-b72e-6180d1501024,Ap,Norway,no,182442348473121,Norsk Nærings- og Nytelsesmiddelarbeiderforbund - NNN,Facebook
 6f4d542e-3d65-4435-9f68-6a6714653ca9,Stovner Høyre,2023-11-15T05:07:32.500Z,a797979c-d724-4bdd-90c4-41d5c18c8b6a,H,Norway,no,120747108000499,Stovner Høyre,Facebook
 862e63a8-ac1e-4911-82dc-11484c46564f,Flakstad Senterparti,2023-09-15T05:07:21.455Z,0ce20edd-bf7e-47e4-b922-7213bffe06a1,Sp,Norway,no,2165817770109921,Flakstad Senterparti,Facebook
-e40249df-a5fc-4b83-9149-3b61afbe3aae,Eidfjord Arbeidarparti,2023-07-31T11:14:16.069Z,c3b2623c-fa86-455f-990e-2b7c12e8a120,Ap,Norway,no,621281571336557,Eidfjord Arbeidarparti,Facebook
+ff77f5a8-22bf-47f1-afbd-6e1e1550d71e,"Os Arbeiderparti, Hedmark",2023-08-15T05:07:49.480Z,632bf2f3-f7cb-4914-af8e-3f4bb211db58,Ap,Norway,no,112539672424815,"Os Arbeiderparti, Hedmark",Facebook
 ac8f5128-a3cd-44c9-b662-bc35dc8f3b4e,Marit Stubberud Hanssen - Ordførerkandidat i Senja,2023-09-15T05:07:21.013Z,df26dee8-3a82-402c-aea3-714372916ad6,Ap,Norway,no,109467835473732,Marit Stubberud Hanssen - Ordførerkandidat i Senja,Facebook
-8aa0ded3-8e40-430a-bfda-f5674b8b030d,Rødt Østfold,2023-11-21T06:28:06.815Z,1e84716f-69e6-4205-8a32-b1b8a7a4807a,R,Norway,no,173126596382460,Rødt Østfold,Facebook
-82eaeed2-c1b9-43c7-a819-866e0a67ff24,Mathias Bernander,2023-03-30T10:53:57.589Z,52f7d00b-9374-466c-a597-cf6074c2b9e8,H,Norway,no,1016410645059664,Mathias Bernander,Facebook
+e9ee5482-e02b-4eb4-8764-9adbc317e135,Vågåpakka - vilje og handlekraft,2023-08-25T05:07:13.257Z,f8f40967-3f38-49e3-9ef3-26b5f6c10c68,Ap,Norway,no,116288228136956,Vågåpakka - vilje og handlekraft,Facebook
+c7d2ef02-7ffc-4e02-b3bc-9b8050d52b7a,Vestre Slidre Arbeiderparti,2023-08-25T05:07:13.310Z,200d6131-f35e-46a1-895a-5fdd2bea3606,Ap,Norway,no,414392738634442,Vestre Slidre Arbeiderparti,Facebook
 cebf3d1f-5dc4-4f6c-b140-11848d672544,Birkenes Høyre,2023-03-28T10:54:02.468Z,61654f72-ee52-4000-b6f7-d7ad5e1eecdc,H,Norway,no,115337815202380,Birkenes Høyre,Facebook
-a94a466e-6365-48fb-b579-e4a5f28d2014,Andrea Nogva - Høyre,2023-05-10T06:54:12.013Z,67a7abcb-15a7-4c15-9ad5-5e5a0f9d492e,H,Norway,no,109490001865301,Andrea Nogva - Høyre,Facebook
 edd82cf1-0180-4cf8-a9fd-126a5194c457,Stavanger Høyre,2023-04-29T06:53:57.238Z,4528e873-97c8-431f-8385-bbb560133b00,H,Norway,no,109860455724197,Stavanger Høyre,Facebook
 5cab7608-0c8b-4ee9-9839-e528a9aef5af,Stor-Elvdal Arbeiderparti,2023-05-28T06:53:21.855Z,014848c7-da9b-456a-b21d-2c48b5cd7789,Ap,Norway,no,1182354081824854,Stor-Elvdal Arbeiderparti,Facebook
+dd2d9d4c-d973-4437-ac44-ee61808d68f1,Marit Vea,2023-07-12T15:00:29.186Z,f6d7b9a2-4341-4166-b34c-2d58467ba8a6,V,Norway,no,711789545902081,Marit Vea,Facebook
 6b45da13-cff4-4e3d-9fd2-b87c433fd9d4,Larvik Arbeiderparti,2023-08-25T05:07:13.016Z,074cc980-19ce-4525-b3df-0c52e6d3c602,Ap,Norway,no,819156884843168,Larvik Arbeiderparti,Facebook
-fdae40ae-a5f2-4184-a67b-61dfaba1c555,Fyresdal Arbeiderparti,2023-05-21T06:53:49.132Z,03880c23-871d-44bc-bbe8-f3f059440319,Ap,Norway,no,438560139645600,Fyresdal Arbeiderparti,Facebook
+925370b5-6d3f-4455-b0ef-355562f03c10,Andøy Venstre,2023-08-16T05:08:01.326Z,85820a91-9c90-4c31-a832-53d830ade08a,V,Norway,no,122096482772007632,Andøy Venstre,Facebook
 8ae0c772-b792-4550-ba89-0931b1c2fb29,Kristina Torbergsen - politiker,2023-08-25T05:07:13.343Z,d56ba99a-3b11-407b-a2fc-20daa787b622,Ap,Norway,no,106125805558270,Kristina Torbergsen - politiker,Facebook
-e22795a3-e18d-42ff-90b2-656ab768ed36,Nittedal Arbeiderparti,2023-06-07T06:53:23.225Z,54421fcb-ebf3-4841-8a3f-a399ddcc5be5,Ap,Norway,no,864113667002714,Nittedal Arbeiderparti,Facebook
+9d905395-e84d-4959-9830-ff30968c3e0f,Norsk Nærings- og Nytelsesmiddelarbeiderforbund - NNN,2023-08-15T05:07:49.462Z,404da73e-9699-4039-b72e-6180d1501024,Ap,Norway,no,182442348473121,Norsk Nærings- og Nytelsesmiddelarbeiderforbund - NNN,Facebook
 475cec75-18a0-4ccc-b84d-579e89ce41c1,Hallstein Bjercke,2023-07-12T15:00:29.186Z,f4ddf7f0-68e2-4b66-9d8d-94d043b3bcb8,V,Norway,no,351810391628079,Hallstein Bjercke,Facebook
-bd9c4a1d-2db6-4bf2-9493-ddf49a4cf409,Evje og Hornnes arbeiderparti,2023-08-18T05:07:52.670Z,74e643b8-4228-42d5-85da-77338d0af972,Ap,Norway,no,121271510894610,Evje og Hornnes arbeiderparti,Facebook
 9358582f-bc4e-46b2-887e-b7d004cbd85e,Agder Venstre,2023-08-14T05:07:37.334Z,bd59ce2d-a05f-4a51-acff-c2b78926551b,V,Norway,no,154008987986327,Agder Venstre,Facebook
-6515c2bb-11b1-4821-9bed-9862c10724db,Åsnes Arbeiderparti,2023-08-25T05:07:13.367Z,86ac8a21-72fd-4d47-9936-a37c74359146,Ap,Norway,no,230545913756436,Åsnes Arbeiderparti,Facebook
-c2c74466-1edd-494c-a2df-fce2bf40e51e,Sandnes Venstre,2023-07-24T05:07:58.441Z,f65a5314-6502-4241-a016-e0250f3dcb00,V,Norway,no,163473013689569,Sandnes Venstre,Facebook
+e40249df-a5fc-4b83-9149-3b61afbe3aae,Eidfjord Arbeidarparti,2023-07-31T11:14:16.069Z,c3b2623c-fa86-455f-990e-2b7c12e8a120,Ap,Norway,no,621281571336557,Eidfjord Arbeidarparti,Facebook
 4c35dab0-ea4d-41dd-8bd5-9d06a81c1291,Vestland KrF,2023-08-14T05:07:37.166Z,0f348b3b-0176-4018-bb45-75a7e3619980,KrF,Norway,no,106983539337140,Vestland KrF,Facebook
-de0d8cb0-8e27-4244-88ae-a5a0463ce610,Nittedal Venstre,2023-08-12T05:08:12.260Z,8a2ed68b-3a96-4143-9296-3acfbf9a88f2,V,Norway,no,648721018488306,Nittedal Venstre,Facebook
-af0044a0-6fdb-47e7-8d23-9b8c4a58f58b,Nesodden Høyre,2023-08-05T05:08:17.805Z,b93663e1-f647-4e24-86ee-dd0a4bae21ad,H,Norway,no,213228988687583,Nesodden Høyre,Facebook
+8aa0ded3-8e40-430a-bfda-f5674b8b030d,Rødt Østfold,2023-11-21T06:28:06.815Z,1e84716f-69e6-4205-8a32-b1b8a7a4807a,R,Norway,no,173126596382460,Rødt Østfold,Facebook
 d669b552-538d-40f9-a704-97c89f7c214b,Oslo Unge Høyre,2023-08-05T05:08:17.747Z,dd77d6d9-dd04-4786-9e92-de13efd6dfc2,H,Norway,no,159384853140,Oslo Unge Høyre,Facebook
+82eaeed2-c1b9-43c7-a819-866e0a67ff24,Mathias Bernander,2023-03-30T10:53:57.589Z,52f7d00b-9374-466c-a597-cf6074c2b9e8,H,Norway,no,1016410645059664,Mathias Bernander,Facebook
+a94a466e-6365-48fb-b579-e4a5f28d2014,Andrea Nogva - Høyre,2023-05-10T06:54:12.013Z,67a7abcb-15a7-4c15-9ad5-5e5a0f9d492e,H,Norway,no,109490001865301,Andrea Nogva - Høyre,Facebook
 cd3b2527-e56e-4c0f-9857-9dd7bf47571d,Øyer Høyre,2023-08-16T05:08:01.788Z,6eef07e1-ff05-47a0-82af-422416f0d17e,H,Norway,no,185644858151981,Øyer Høyre,Facebook
-fb17eac1-daaa-43ee-ae6e-7229d4a158e1,Flesberg Høyre,2023-08-18T05:07:52.591Z,f2c75c67-07a3-4cab-ade7-51a5132051ef,H,Norway,no,208892699133611,Flesberg Høyre,Facebook
-c8a7d062-fb0a-4959-901a-2e025ceadded,Vestre Toten Arbeiderparti,2023-05-29T06:53:28.748Z,8d87c7b5-3c65-4a73-a307-8dd3e50ecc02,Ap,Norway,no,587089404733523,Vestre Toten Arbeiderparti,Facebook
 b7cd45bb-c78a-4222-8708-ad020642149a,Nesodden Arbeiderparti,2023-06-03T06:53:39.047Z,4254770a-43f7-49a6-a3ce-2bc2bcc95e74,Ap,Norway,no,143538362385067,Nesodden Arbeiderparti,Facebook
-14b3fbce-45fd-4416-9d2e-55062515e89c,Buskerud Arbeiderparti,2023-06-11T06:53:34.382Z,7a3ca9f2-b128-4cce-8ee2-ae09eea4e898,Ap,Norway,no,13071966966,Buskerud Arbeiderparti,Facebook
+fdae40ae-a5f2-4184-a67b-61dfaba1c555,Fyresdal Arbeiderparti,2023-05-21T06:53:49.132Z,03880c23-871d-44bc-bbe8-f3f059440319,Ap,Norway,no,438560139645600,Fyresdal Arbeiderparti,Facebook
 f4be3685-7a03-452b-94eb-cba4ff581c32,Nordstrand Arbeiderparti,2023-06-11T06:53:34.468Z,c975653c-de4c-4769-9dd8-7c5fb266455c,Ap,Norway,no,120698744681765,Nordstrand Arbeiderparti,Facebook
-e55629a4-0f7b-4c0b-8a8d-4b8eadb040ea,Inderøy Arbeiderparti,2023-08-18T05:07:52.591Z,002cb9aa-c77a-4777-92a1-6059dbb9df57,Ap,Norway,no,639333892746588,Inderøy Arbeiderparti,Facebook
+e22795a3-e18d-42ff-90b2-656ab768ed36,Nittedal Arbeiderparti,2023-06-07T06:53:23.225Z,54421fcb-ebf3-4841-8a3f-a399ddcc5be5,Ap,Norway,no,864113667002714,Nittedal Arbeiderparti,Facebook
 c2b0bacf-3ad7-4d68-bc1d-e50860d4171a,Senja Arbeiderparti,2023-08-20T05:08:04.365Z,dd4e3a4b-0e20-4cd6-a58a-25f1223ae275,Ap,Norway,no,1823331884631362,Senja Arbeiderparti,Facebook
-1a8d571b-c43b-4a68-9e89-0e32ee1d042b,Kongsvinger Arbeiderparti,2023-08-25T05:07:13.264Z,7800da0a-e479-42a5-bddb-01b2ed490914,Ap,Norway,no,201853626505342,Kongsvinger Arbeiderparti,Facebook
+bd9c4a1d-2db6-4bf2-9493-ddf49a4cf409,Evje og Hornnes arbeiderparti,2023-08-18T05:07:52.670Z,74e643b8-4228-42d5-85da-77338d0af972,Ap,Norway,no,121271510894610,Evje og Hornnes arbeiderparti,Facebook
+6515c2bb-11b1-4821-9bed-9862c10724db,Åsnes Arbeiderparti,2023-08-25T05:07:13.367Z,86ac8a21-72fd-4d47-9936-a37c74359146,Ap,Norway,no,230545913756436,Åsnes Arbeiderparti,Facebook
 e64ba4af-593c-4be5-80c8-c4668c78f710,Stor-Elvdal Venstre,2023-08-09T05:08:03.494Z,5ada1d84-07be-4014-8d60-585d63f6c48f,V,Norway,no,104913965755717,Stor-Elvdal Venstre,Facebook
+f41500b7-e966-432e-8993-3c98ce1221b2,Even Jacobsen - Ordførerkandidat for Ringerike Venstre,2023-08-15T05:07:49.480Z,fe830860-7d71-4096-9a48-94f55940779f,V,Norway,no,101736202769573,Even Jacobsen - Ordførerkandidat for Ringerike Venstre,Facebook
+c2c74466-1edd-494c-a2df-fce2bf40e51e,Sandnes Venstre,2023-07-24T05:07:58.441Z,f65a5314-6502-4241-a016-e0250f3dcb00,V,Norway,no,163473013689569,Sandnes Venstre,Facebook
+f7f5f332-96ae-459c-8246-71df3f8040c3,Vestfold og Telemark KrF,2023-09-11T05:07:39.560Z,377cf08c-44c3-4ce8-980d-6ba1b6ad541c,KrF,Norway,no,133916526619886,Vestfold og Telemark KrF,Facebook
+de0d8cb0-8e27-4244-88ae-a5a0463ce610,Nittedal Venstre,2023-08-12T05:08:12.260Z,8a2ed68b-3a96-4143-9296-3acfbf9a88f2,V,Norway,no,648721018488306,Nittedal Venstre,Facebook
+c78651f0-1606-426d-8b82-ca3318832694,Larvik Høyre,2023-08-06T05:08:07.038Z,f25f4bf6-9cff-4fc3-b64e-afe949d6d0d6,H,Norway,no,567993443304031,Larvik Høyre,Facebook
+5749696d-d3b1-40e7-aa74-f6ab910b3890,Heim Høyre,2023-08-14T05:07:37.394Z,adbada34-d28a-4c7b-b46a-ce24778465d7,H,Norway,no,839157209537051,Heim Høyre,Facebook
+af0044a0-6fdb-47e7-8d23-9b8c4a58f58b,Nesodden Høyre,2023-08-05T05:08:17.805Z,b93663e1-f647-4e24-86ee-dd0a4bae21ad,H,Norway,no,213228988687583,Nesodden Høyre,Facebook
+e4194bae-6145-4673-9971-24b7acd7322a,Drammen MDG,2023-04-07T10:54:05.553Z,44a850d0-6191-46c7-9423-1c096654971d,MdG,Norway,no,189503977888359,Drammen MDG,Facebook
+fb17eac1-daaa-43ee-ae6e-7229d4a158e1,Flesberg Høyre,2023-08-18T05:07:52.591Z,f2c75c67-07a3-4cab-ade7-51a5132051ef,H,Norway,no,208892699133611,Flesberg Høyre,Facebook
+e292d858-ce2e-4371-9dea-499506bbb9a9,Stavanger MDG,2023-06-24T06:48:03.905Z,08060650-bbae-45ea-a3b3-6c77548deaf7,MdG,Norway,no,106267272794821,Stavanger MDG,Facebook
+bcb85a1a-f220-44a9-b89e-6f6c5e898a76,"Ordførerkandidat Jens Aldo Carrizo-Nilsen , MDG",2023-07-20T06:07:51.351Z,00cb300d-b305-4fee-9880-060a27638821,MdG,Norway,no,385972382223617,"Ordførerkandidat Jens Aldo Carrizo-Nilsen , MDG",Facebook
+c8a7d062-fb0a-4959-901a-2e025ceadded,Vestre Toten Arbeiderparti,2023-05-29T06:53:28.748Z,8d87c7b5-3c65-4a73-a307-8dd3e50ecc02,Ap,Norway,no,587089404733523,Vestre Toten Arbeiderparti,Facebook
+fc471e9d-8626-463a-8492-70771458f622,Viken MDG,2023-08-25T05:07:13.256Z,7458181e-912f-46a1-89fd-e12b6f3b2c53,MdG,Norway,no,2129902180626202,Viken MDG,Facebook
+14b3fbce-45fd-4416-9d2e-55062515e89c,Buskerud Arbeiderparti,2023-06-11T06:53:34.382Z,7a3ca9f2-b128-4cce-8ee2-ae09eea4e898,Ap,Norway,no,13071966966,Buskerud Arbeiderparti,Facebook
+e1c5d880-0b24-4082-b88f-c30c9ebb4c94,Bømlo Arbeiderparti,2023-06-03T06:53:39.019Z,8bf03ba4-e91a-44a7-b750-701f873302b0,Ap,Norway,no,227191093978100,Bømlo Arbeiderparti,Facebook
+e55629a4-0f7b-4c0b-8a8d-4b8eadb040ea,Inderøy Arbeiderparti,2023-08-18T05:07:52.591Z,002cb9aa-c77a-4777-92a1-6059dbb9df57,Ap,Norway,no,639333892746588,Inderøy Arbeiderparti,Facebook
+f5be23e4-0499-44a5-9fab-56db0e2fc0b0,Ullensaker Arbeiderparti,2023-08-19T05:08:17.022Z,98531550-f44a-435a-b231-0a1e1f20b2cc,Ap,Norway,no,118528578228357,Ullensaker Arbeiderparti,Facebook
+1a8d571b-c43b-4a68-9e89-0e32ee1d042b,Kongsvinger Arbeiderparti,2023-08-25T05:07:13.264Z,7800da0a-e479-42a5-bddb-01b2ed490914,Ap,Norway,no,201853626505342,Kongsvinger Arbeiderparti,Facebook
+47d84197-6a75-45b0-8350-66006a282461,Etnedal AP,2023-08-25T05:07:13.370Z,bd94e9c8-89f9-4670-a54e-1dd3370b9f85,Ap,Norway,no,121783860998710,Etnedal AP,Facebook
 b4f9c83a-583c-444b-8c5e-fac18f53c30c,Larvik Venstre,2023-08-11T05:09:41.199Z,c8a1e6cf-879a-48ec-89a7-28aa39b52e6f,V,Norway,no,165908920138579,Larvik Venstre,Facebook
 b715a118-d360-4328-b20c-725f80382175,Bjørnafjorden Venstre,2023-08-15T05:07:49.603Z,df94ac73-2d96-4757-800e-d04acdc05721,V,Norway,no,767948199946543,Bjørnafjorden Venstre,Facebook
-f41500b7-e966-432e-8993-3c98ce1221b2,Even Jacobsen - Ordførerkandidat for Ringerike Venstre,2023-08-15T05:07:49.480Z,fe830860-7d71-4096-9a48-94f55940779f,V,Norway,no,101736202769573,Even Jacobsen - Ordførerkandidat for Ringerike Venstre,Facebook
-c78651f0-1606-426d-8b82-ca3318832694,Larvik Høyre,2023-08-06T05:08:07.038Z,f25f4bf6-9cff-4fc3-b64e-afe949d6d0d6,H,Norway,no,567993443304031,Larvik Høyre,Facebook
-f7f5f332-96ae-459c-8246-71df3f8040c3,Vestfold og Telemark KrF,2023-09-11T05:07:39.560Z,377cf08c-44c3-4ce8-980d-6ba1b6ad541c,KrF,Norway,no,133916526619886,Vestfold og Telemark KrF,Facebook
-5749696d-d3b1-40e7-aa74-f6ab910b3890,Heim Høyre,2023-08-14T05:07:37.394Z,adbada34-d28a-4c7b-b46a-ce24778465d7,H,Norway,no,839157209537051,Heim Høyre,Facebook
-e4194bae-6145-4673-9971-24b7acd7322a,Drammen MDG,2023-04-07T10:54:05.553Z,44a850d0-6191-46c7-9423-1c096654971d,MdG,Norway,no,189503977888359,Drammen MDG,Facebook
-6a831781-1df9-483f-8dbe-5814764c97d9,Gjesdal Høyre,2023-08-07T05:08:26.414Z,55ee5e6f-b601-453e-8af5-03c766d2acd8,H,Norway,no,465656833515801,Gjesdal Høyre,Facebook
-e292d858-ce2e-4371-9dea-499506bbb9a9,Stavanger MDG,2023-06-24T06:48:03.905Z,08060650-bbae-45ea-a3b3-6c77548deaf7,MdG,Norway,no,106267272794821,Stavanger MDG,Facebook
-cb6a9de7-4e72-48db-ae12-183f76859c38,Ås Høyre,2023-08-15T05:07:49.001Z,8af40982-e54b-4dd6-ae1c-e215e971f082,H,Norway,no,139624146184097,Ås Høyre,Facebook
-bcb85a1a-f220-44a9-b89e-6f6c5e898a76,"Ordførerkandidat Jens Aldo Carrizo-Nilsen , MDG",2023-07-20T06:07:51.351Z,00cb300d-b305-4fee-9880-060a27638821,MdG,Norway,no,385972382223617,"Ordførerkandidat Jens Aldo Carrizo-Nilsen , MDG",Facebook
-fc471e9d-8626-463a-8492-70771458f622,Viken MDG,2023-08-25T05:07:13.256Z,7458181e-912f-46a1-89fd-e12b6f3b2c53,MdG,Norway,no,2129902180626202,Viken MDG,Facebook
-dad64d4a-9e32-467c-a9be-feaf9aceb20d,Finnmark Arbeiderparti,2023-06-19T18:25:30.871Z,81da5776-cf31-4571-8dae-aaba1b552e2a,Ap,Norway,no,193061414041750,Finnmark Arbeiderparti,Facebook
-d9f7c289-7e90-4f30-b10d-5a60b111ed3c,Sør-Odal Arbeiderparti,2023-07-17T06:32:37.676Z,73b89c34-2341-421c-8983-7b4707e0bad2,Ap,Norway,no,388849941205134,Sør-Odal Arbeiderparti,Facebook
-e1c5d880-0b24-4082-b88f-c30c9ebb4c94,Bømlo Arbeiderparti,2023-06-03T06:53:39.019Z,8bf03ba4-e91a-44a7-b750-701f873302b0,Ap,Norway,no,227191093978100,Bømlo Arbeiderparti,Facebook
-13eb0ecd-b3f3-4b5e-a28e-13d60bccbc3c,Arendal Arbeiderparti,2023-09-09T05:07:32.265Z,a932e4f8-b403-47c7-87b5-38485c93c74f,Ap,Norway,no,134201899973436,Arendal Arbeiderparti,Facebook
-f5be23e4-0499-44a5-9fab-56db0e2fc0b0,Ullensaker Arbeiderparti,2023-08-19T05:08:17.022Z,98531550-f44a-435a-b231-0a1e1f20b2cc,Ap,Norway,no,118528578228357,Ullensaker Arbeiderparti,Facebook
-47d84197-6a75-45b0-8350-66006a282461,Etnedal AP,2023-08-25T05:07:13.370Z,bd94e9c8-89f9-4670-a54e-1dd3370b9f85,Ap,Norway,no,121783860998710,Etnedal AP,Facebook
-a313e4b5-9330-4974-94e7-795989da0099,Ringsaker Arbeiderparti,2023-09-10T05:07:28.171Z,34a58bc0-8647-4c62-9134-33b1f7f8585d,Ap,Norway,no,156830170995624,Ringsaker Arbeiderparti,Facebook
 b2c791ff-ca19-4637-9388-a6753405da8b,Gjøvik og Toten Venstre,2023-07-31T11:14:16.069Z,b475be10-5ce1-4277-a230-7ca8f80bc23b,V,Norway,no,112632125462357,Gjøvik og Toten Venstre,Facebook
 a7823916-a2ce-465c-b3fe-2b740f7c96a2,Hábmera Gårobelludahka / Hamarøy Venstre,2023-08-14T05:07:37.396Z,e9899200-ddc2-44ae-9ddd-e8f44376dfaf,V,Norway,no,685754571468362,Hábmera Gårobelludahka / Hamarøy Venstre,Facebook
-eac91a5c-de6d-4406-9c6d-42a30a76f69c,Øvre Eiker Venstre,2023-03-08T16:24:10.720Z,1b1c6710-555e-4dad-8d71-21b019250be4,V,Norway,no,156709917836458,Øvre Eiker Venstre,Facebook
-9d9e6cf5-da88-4163-a3fe-c23e800c4556,Sarpsborg Venstre,2023-05-28T06:53:21.780Z,b7573166-af50-45b7-9177-c660504ccf7e,V,Norway,no,159632007420451,Sarpsborg Venstre,Facebook
+6a831781-1df9-483f-8dbe-5814764c97d9,Gjesdal Høyre,2023-08-07T05:08:26.414Z,55ee5e6f-b601-453e-8af5-03c766d2acd8,H,Norway,no,465656833515801,Gjesdal Høyre,Facebook
+cb6a9de7-4e72-48db-ae12-183f76859c38,Ås Høyre,2023-08-15T05:07:49.001Z,8af40982-e54b-4dd6-ae1c-e215e971f082,H,Norway,no,139624146184097,Ås Høyre,Facebook
 fc54aeef-900c-4d3e-8c4f-1855b9215f16,Volda KrF,2023-03-19T10:54:01.371Z,32f9de66-0b0e-4058-96c2-79899e4c8096,KrF,Norway,no,118927351789762,Volda KrF,Facebook
+dad64d4a-9e32-467c-a9be-feaf9aceb20d,Finnmark Arbeiderparti,2023-06-19T18:25:30.871Z,81da5776-cf31-4571-8dae-aaba1b552e2a,Ap,Norway,no,193061414041750,Finnmark Arbeiderparti,Facebook
 4ce966af-236f-47f8-8004-43957bf82ce6,Bærum Høyre,2023-08-20T05:08:03.942Z,cc3c765e-56f0-43a3-9f77-9952c57f8d6d,H,Norway,no,157183170990176,Bærum Høyre,Facebook
-4db0ce0a-2a80-4e37-b172-d41948d9d7bf,Aurland Arbeidarparti,2023-08-05T05:08:18.202Z,b4a7e512-84e3-4fed-87f7-bb3dd55e6a05,Ap,Norway,no,1166058696831431,Aurland Arbeidarparti,Facebook
+d9f7c289-7e90-4f30-b10d-5a60b111ed3c,Sør-Odal Arbeiderparti,2023-07-17T06:32:37.676Z,73b89c34-2341-421c-8983-7b4707e0bad2,Ap,Norway,no,388849941205134,Sør-Odal Arbeiderparti,Facebook
+13eb0ecd-b3f3-4b5e-a28e-13d60bccbc3c,Arendal Arbeiderparti,2023-09-09T05:07:32.265Z,a932e4f8-b403-47c7-87b5-38485c93c74f,Ap,Norway,no,134201899973436,Arendal Arbeiderparti,Facebook
 fad7d9af-fc13-4c44-a7c6-4a213ae6f358,Lunner Høyre,2023-08-30T05:07:24.655Z,ff1d3803-fd71-455f-a46c-1d6ee089788e,H,Norway,no,189937547727582,Lunner Høyre,Facebook
-5bf11cd6-82f3-494b-b630-fb0a19566781,Bremanger Arbeidarparti,2023-05-12T06:53:33.617Z,bcbcdad6-beb0-48d4-bda9-3ae00a10173c,Ap,Norway,no,1374337129548933,Bremanger Arbeidarparti,Facebook
+a313e4b5-9330-4974-94e7-795989da0099,Ringsaker Arbeiderparti,2023-09-10T05:07:28.171Z,34a58bc0-8647-4c62-9134-33b1f7f8585d,Ap,Norway,no,156830170995624,Ringsaker Arbeiderparti,Facebook
 6fb333b2-8184-4863-b140-8311994f910f,Balsfjord Høyre,2023-09-08T05:07:41.286Z,8ee9a288-5624-4453-927e-787f2a5ead78,H,Norway,no,1685523051703993,Balsfjord Høyre,Facebook
 d1911fff-06b2-4151-bdcb-21abe2dd41dd,Miljøpartiet De Grønne Nittedal,2023-03-25T10:53:47.566Z,d2fe274b-7bb9-4a53-b70d-71486665a30a,MdG,Norway,no,656546967805880,Miljøpartiet De Grønne Nittedal,Facebook
-99dd5439-b149-41ac-90fc-493dff944585,Alvdal Høyre,2023-08-12T05:08:12.263Z,b95b21fd-469a-450a-b8a1-fa66b2d4e926,H,Norway,no,1026723277390366,Alvdal Høyre,Facebook
+eac91a5c-de6d-4406-9c6d-42a30a76f69c,Øvre Eiker Venstre,2023-03-08T16:24:10.720Z,1b1c6710-555e-4dad-8d71-21b019250be4,V,Norway,no,156709917836458,Øvre Eiker Venstre,Facebook
 89c8e64e-21f9-4e0d-b5ea-6b0e1cd2d9ce,Kongsvinger MDG,2023-09-11T05:07:39.039Z,4e61b475-c7c3-46bf-adaf-4ea4cfa5ffce,MdG,Norway,no,1545526702381784,Kongsvinger MDG,Facebook
-d8e36e82-3aeb-41d3-b712-fa8656146222,Skiptvet Høyre,2023-08-19T05:08:16.939Z,7272d02a-fab0-43b1-a992-7b243a986596,H,Norway,no,500098650046963,Skiptvet Høyre,Facebook
+9d9e6cf5-da88-4163-a3fe-c23e800c4556,Sarpsborg Venstre,2023-05-28T06:53:21.780Z,b7573166-af50-45b7-9177-c660504ccf7e,V,Norway,no,159632007420451,Sarpsborg Venstre,Facebook
 97c1111e-bedd-4be8-9651-b73e4bda8249,Nord-Aurdal SV,2023-09-10T05:07:27.775Z,95a075e4-ccd1-4b42-875d-034ffbfd313e,SV,Norway,no,1839222663028987,Nord-Aurdal SV,Facebook
-e1c0f10b-5ff7-4b74-b61c-7f2e477865f1,"Homonettverket- lesbiske, homofile, bifile, transpersoner i Arbeiderpartiet",2023-06-23T05:17:18.591Z,00ffdb0a-ac53-4685-b718-d2aa5ac9e8f2,Ap,Norway,no,201766586502981,"Homonettverket- lesbiske, homofile, bifile, transpersoner i Arbeiderpartiet",Facebook
 f6a40c89-d8b2-43e5-a56d-24b42807625d,Løten SV,2023-09-13T05:07:20.740Z,901c0536-9dd7-428e-b671-27554bb98d1c,SV,Norway,no,311415151036,Løten SV,Facebook
-2693e676-2cae-46a3-b028-35febfb84a70,Dovre Arbeiderparti,2023-07-17T06:32:37.655Z,8438e796-d0b7-4c37-90c5-0fd4d3e5573c,Ap,Norway,no,2345269782397274,Dovre Arbeiderparti,Facebook
+4db0ce0a-2a80-4e37-b172-d41948d9d7bf,Aurland Arbeidarparti,2023-08-05T05:08:18.202Z,b4a7e512-84e3-4fed-87f7-bb3dd55e6a05,Ap,Norway,no,1166058696831431,Aurland Arbeidarparti,Facebook
 d8ec4fc6-2e99-4c82-8acb-e3d88caaa6c4,Klepp Arbeiderparti,2023-06-19T18:25:30.936Z,7fd18ec8-10c8-4974-9ff9-683bd5f7b3b1,Ap,Norway,no,156556371070856,Klepp Arbeiderparti,Facebook
+5bf11cd6-82f3-494b-b630-fb0a19566781,Bremanger Arbeidarparti,2023-05-12T06:53:33.617Z,bcbcdad6-beb0-48d4-bda9-3ae00a10173c,Ap,Norway,no,1374337129548933,Bremanger Arbeidarparti,Facebook
 bfdf47b6-3e5a-46a9-b460-cd9e3f5d755c,Frogn Arbeiderparti,2023-07-20T06:07:51.380Z,6a98768d-9962-4926-95e7-de8a98be6017,Ap,Norway,no,210624562284961,Frogn Arbeiderparti,Facebook
-63143b8b-e794-4db0-af82-3ba8fa1745d1,Folldal Arbeiderparti,2023-09-07T05:07:09.644Z,b88c7a76-bc98-4b31-98d1-1ff0cace5ade,Ap,Norway,no,307980059339441,Folldal Arbeiderparti,Facebook
-a881c35d-052b-4966-b20a-c05222b4b2ef,Stange Arbeiderparti,2023-09-12T05:07:03.147Z,91c18a2c-6789-408c-8ee3-01e7d88c6a97,Ap,Norway,no,223457280999714,Stange Arbeiderparti,Facebook
 c4ab1066-294b-4902-bf94-21991a8287ea,Sørreisa Arbeiderparti,2023-09-09T05:07:32.732Z,c7094904-df16-464c-9bea-78231bb0f590,Ap,Norway,no,876300065745362,Sørreisa Arbeiderparti,Facebook
-982f5e19-a572-4e7f-a757-3ce4561a9251,Bergen Unge Venstre,2023-05-01T06:53:45.465Z,21921f87-f2e7-492d-94e2-d56267bc719e,V,Norway,no,271307179658594,Bergen Unge Venstre,Facebook
+99dd5439-b149-41ac-90fc-493dff944585,Alvdal Høyre,2023-08-12T05:08:12.263Z,b95b21fd-469a-450a-b8a1-fa66b2d4e926,H,Norway,no,1026723277390366,Alvdal Høyre,Facebook
+d8e36e82-3aeb-41d3-b712-fa8656146222,Skiptvet Høyre,2023-08-19T05:08:16.939Z,7272d02a-fab0-43b1-a992-7b243a986596,H,Norway,no,500098650046963,Skiptvet Høyre,Facebook
 32a47b4c-25a7-4807-8924-fd3509a5fb8a,Stavanger Venstre,2023-03-20T10:54:01.876Z,3672b931-c585-46ba-a349-4e8349a0b5d3,V,Norway,no,352782288790,Stavanger Venstre,Facebook
+e1c0f10b-5ff7-4b74-b61c-7f2e477865f1,"Homonettverket- lesbiske, homofile, bifile, transpersoner i Arbeiderpartiet",2023-06-23T05:17:18.591Z,00ffdb0a-ac53-4685-b718-d2aa5ac9e8f2,Ap,Norway,no,201766586502981,"Homonettverket- lesbiske, homofile, bifile, transpersoner i Arbeiderpartiet",Facebook
+c961a79f-5bb4-4c25-8812-f16bc62e1145,Asker Venstre,2023-07-04T06:16:57.752Z,8c51299f-832f-4ed0-9dd0-ba0aafb17052,V,Norway,no,110023678604857,Asker Venstre,Facebook
+2693e676-2cae-46a3-b028-35febfb84a70,Dovre Arbeiderparti,2023-07-17T06:32:37.655Z,8438e796-d0b7-4c37-90c5-0fd4d3e5573c,Ap,Norway,no,2345269782397274,Dovre Arbeiderparti,Facebook
+227c510d-34b8-43e3-a961-f9c3ea4c6798,Time Høyre,2023-08-12T05:08:12.259Z,b8e9edd8-fdd0-435a-a526-700dc7e3e39d,H,Norway,no,255403964534363,Time Høyre,Facebook
+63143b8b-e794-4db0-af82-3ba8fa1745d1,Folldal Arbeiderparti,2023-09-07T05:07:09.644Z,b88c7a76-bc98-4b31-98d1-1ff0cace5ade,Ap,Norway,no,307980059339441,Folldal Arbeiderparti,Facebook
+125d5c01-6cdd-4387-97a8-d24f7825798e,Haakon Christopher Sandven - Bærum Høyre,2023-08-15T05:07:49.022Z,d51561b6-6b02-4fcf-bdb9-806407740963,H,Norway,no,106843824007958,Haakon Christopher Sandven - Bærum Høyre,Facebook
+a881c35d-052b-4966-b20a-c05222b4b2ef,Stange Arbeiderparti,2023-09-12T05:07:03.147Z,91c18a2c-6789-408c-8ee3-01e7d88c6a97,Ap,Norway,no,223457280999714,Stange Arbeiderparti,Facebook
+46259772-b3d4-4dc4-b2c2-0bec7b2c6a13,Rauma MDG,2023-03-16T10:54:19.846Z,3396fdf0-9c7d-404b-a7d5-6f133db65523,MdG,Norway,no,541268829539993,Rauma MDG,Facebook
+982f5e19-a572-4e7f-a757-3ce4561a9251,Bergen Unge Venstre,2023-05-01T06:53:45.465Z,21921f87-f2e7-492d-94e2-d56267bc719e,V,Norway,no,271307179658594,Bergen Unge Venstre,Facebook
+2e36e556-8067-40c6-a9e4-5fa72579ef9f,Holmestrand MDG,2023-04-17T08:05:57.384Z,4318f7da-4a23-43c4-94ab-cdc7d1ad48c9,MdG,Norway,no,668356196549585,Holmestrand MDG,Facebook
 fe24957e-5738-4ced-a6ba-d2c858c39268,Margrethe Prahl Reusch - Venstre,2023-05-06T06:53:44.571Z,7db00e0d-9189-47c9-8461-e9577fb476a8,V,Norway,no,272225463439015,Margrethe Prahl Reusch - Venstre,Facebook
 61065ce8-f749-4790-b889-d0c6acceb093,Agder KrF,2023-08-25T05:07:13.391Z,759f59df-b062-4ad4-91aa-d57e0bd76c44,KrF,Norway,no,864035420370978,Agder KrF,Facebook
+e72dffbd-680a-4c99-9b56-f9d1829a0c21,Moss MDG,2023-08-16T05:08:01.750Z,9e8b465b-cb3d-4c00-8e3d-f963abb7f2e9,MdG,Norway,no,133827120022272,Moss MDG,Facebook
 096cb2cd-ea59-45c7-94bc-7bfc6e5eb5be,Arendal KrF,2023-08-11T05:09:41.021Z,a00b4fb4-3842-4717-9897-15271d37c89d,KrF,Norway,no,209912372536559,Arendal KrF,Facebook
 e5d1ba7f-3459-42cd-8549-156d5a0b526d,Bjerkreim KrF,2023-08-21T05:08:13.898Z,89b00749-385a-42c5-ad43-22be66766317,KrF,Norway,no,444514342418307,Bjerkreim KrF,Facebook
-4fdebea9-b06d-44dd-8256-ef4610235595,Enebakk KrF,2023-07-20T06:07:51.205Z,4efe5d67-ab7e-4541-909d-6aa3f984cfe8,KrF,Norway,no,675104515923877,Enebakk KrF,Facebook
-33dae320-cbf1-47d4-8e16-b11a39c0e818,Gildeskål KrF,2023-09-08T05:07:41.652Z,05649583-3f83-4023-9f71-ce755f23878c,KrF,Norway,no,104968389173733,Gildeskål KrF,Facebook
-488f9b43-91ad-4e55-9a6d-fad12e13ea98,Holmestrand KRF,2023-08-15T05:07:49.599Z,8f82944c-1cbf-4024-9bd4-2f3a8e6d0226,KrF,Norway,no,2271315189863725,Holmestrand KRF,Facebook
-0a68b8e4-48f9-4e0b-a0d4-b605776593ac,Kåfjord KRF,2023-09-05T05:07:31.211Z,05525738-5b22-49df-91e7-e2638361a514,KrF,Norway,no,2476473609051215,Kåfjord KRF,Facebook
-227c510d-34b8-43e3-a961-f9c3ea4c6798,Time Høyre,2023-08-12T05:08:12.259Z,b8e9edd8-fdd0-435a-a526-700dc7e3e39d,H,Norway,no,255403964534363,Time Høyre,Facebook
-125d5c01-6cdd-4387-97a8-d24f7825798e,Haakon Christopher Sandven - Bærum Høyre,2023-08-15T05:07:49.022Z,d51561b6-6b02-4fcf-bdb9-806407740963,H,Norway,no,106843824007958,Haakon Christopher Sandven - Bærum Høyre,Facebook
-46259772-b3d4-4dc4-b2c2-0bec7b2c6a13,Rauma MDG,2023-03-16T10:54:19.846Z,3396fdf0-9c7d-404b-a7d5-6f133db65523,MdG,Norway,no,541268829539993,Rauma MDG,Facebook
-2e36e556-8067-40c6-a9e4-5fa72579ef9f,Holmestrand MDG,2023-04-17T08:05:57.384Z,4318f7da-4a23-43c4-94ab-cdc7d1ad48c9,MdG,Norway,no,668356196549585,Holmestrand MDG,Facebook
-e72dffbd-680a-4c99-9b56-f9d1829a0c21,Moss MDG,2023-08-16T05:08:01.750Z,9e8b465b-cb3d-4c00-8e3d-f963abb7f2e9,MdG,Norway,no,133827120022272,Moss MDG,Facebook
 d8f2d692-e73d-4f2d-8d00-1a64a0417e36,Melhus MDG,2023-08-25T05:07:13.190Z,9f1a0457-a239-402b-9be0-5d0f9b13a3d2,MdG,Norway,no,247504972041036,Melhus MDG,Facebook
+4fdebea9-b06d-44dd-8256-ef4610235595,Enebakk KrF,2023-07-20T06:07:51.205Z,4efe5d67-ab7e-4541-909d-6aa3f984cfe8,KrF,Norway,no,675104515923877,Enebakk KrF,Facebook
 50fb7141-9f44-45e7-9489-c947f9110149,Nord-Aurdal MDG,2023-09-03T05:07:18.768Z,8956772e-ee27-4759-ab62-82b297ef08d0,MdG,Norway,no,110963765307700,Nord-Aurdal MDG,Facebook
+33dae320-cbf1-47d4-8e16-b11a39c0e818,Gildeskål KrF,2023-09-08T05:07:41.652Z,05649583-3f83-4023-9f71-ce755f23878c,KrF,Norway,no,104968389173733,Gildeskål KrF,Facebook
 bc3a40cc-1ea8-4321-aec0-863a9341dbf6,Lillestrøm Arbeiderparti,2023-06-23T05:17:18.624Z,9e7e57b9-38d4-43a9-89e6-62247a4f2ad5,Ap,Norway,no,862240613795156,Lillestrøm Arbeiderparti,Facebook
 a769fded-5d70-4557-a9c5-61b972020224,Sør-Fron Arbeiderparti,2023-09-06T05:07:24.156Z,d46a8b9f-91b7-4d8a-9902-96d04ced8ae9,Ap,Norway,no,341979639342130,Sør-Fron Arbeiderparti,Facebook
+488f9b43-91ad-4e55-9a6d-fad12e13ea98,Holmestrand KRF,2023-08-15T05:07:49.599Z,8f82944c-1cbf-4024-9bd4-2f3a8e6d0226,KrF,Norway,no,2271315189863725,Holmestrand KRF,Facebook
 e9f8ee11-d307-4273-a6ae-a229f70a4def,Øvre Eiker Arbeiderparti,2023-09-10T05:07:28.137Z,d1bf97d5-7fb6-419d-8665-3ee8d16f8a84,Ap,Norway,no,356086341179323,Øvre Eiker Arbeiderparti,Facebook
+0a68b8e4-48f9-4e0b-a0d4-b605776593ac,Kåfjord KRF,2023-09-05T05:07:31.211Z,05525738-5b22-49df-91e7-e2638361a514,KrF,Norway,no,2476473609051215,Kåfjord KRF,Facebook
 16482ac7-5fbb-4b1f-9e71-b29586bad19e,Lillestrøm Venstre,2023-05-06T06:53:44.549Z,32e128b2-18c1-4a53-ab6c-ca10ad7e7497,V,Norway,no,112828598803706,Lillestrøm Venstre,Facebook
 eb801597-d1cf-456d-9644-af37df46d18b,Ringerike Venstre,2023-07-11T06:08:03.836Z,c5e89a74-3c51-4af8-a6f6-4fb2a0d87332,V,Norway,no,566317110053716,Ringerike Venstre,Facebook
+c1464a74-f304-4953-828e-ecc41e315fb3,Nordland Høyre,2023-08-14T05:07:37.062Z,17c2061c-f67f-4141-b778-0f71def6372a,H,Norway,no,198379696860105,Nordland Høyre,Facebook
 4a0fb729-a325-4e00-b3f9-115a0f7c4073,Målselv Høyre,2023-08-10T05:08:14.258Z,03165477-4e9b-4ab9-965a-da76a12fd1e1,H,Norway,no,117112034596796,Målselv Høyre,Facebook
 3e05bbdd-a5e1-4f31-9b21-47e589102140,Nome Høyre,2023-08-15T05:07:49.117Z,6ec2cfd5-d802-45f7-b17c-5d5b00882ecc,H,Norway,no,413547172050476,Nome Høyre,Facebook
-be3515dd-bb4e-4d20-a0be-c47cb7b3c7d6,Randaberg Arbeiderparti,2023-06-27T06:57:42.999Z,f74eb570-8a4d-49ed-98b6-d17be72c3101,Ap,Norway,no,118907661526276,Randaberg Arbeiderparti,Facebook
-c6783809-906c-4892-b998-d91c71129c5c,Nord-Aurdal Arbeiderparti,2023-09-08T05:07:41.580Z,2a6b54f7-80ab-4be6-8ed2-f9ea4d8ca952,Ap,Norway,no,260467234027909,Nord-Aurdal Arbeiderparti,Facebook
-1cd36373-be71-4f99-887e-691489858a13,Bjørnar Skjæran,2023-09-11T05:07:39.197Z,dcd8159f-27d6-488a-bb75-5a3316ddd178,Ap,Norway,no,2020314588096067,Bjørnar Skjæran,Facebook
-ff0eaf20-c166-4bb8-92ea-e79cdb414539,Andøy Venstre,2023-03-24T10:54:08.781Z,8fcca06f-bf40-4b22-8683-ea70cfa50ecf,V,Norway,no,159629284090448,Andøy Venstre,Facebook
-e303101d-4cb5-42c1-80eb-9f5550542a02,Skien Venstre,2023-05-20T06:53:58.410Z,9f72758e-43ff-4317-8951-d3e21c37bb9a,V,Norway,no,781470095268908,Skien Venstre,Facebook
-a62b2793-f399-4f80-a4d3-ec6cf24051af,Sunnfjord Arbeidarparti,2023-06-24T06:48:04.051Z,7ee77f64-e16b-4ddb-9f68-80eb913a0412,Ap,Norway,no,199905483359347,Sunnfjord Arbeidarparti,Facebook
-c1464a74-f304-4953-828e-ecc41e315fb3,Nordland Høyre,2023-08-14T05:07:37.062Z,17c2061c-f67f-4141-b778-0f71def6372a,H,Norway,no,198379696860105,Nordland Høyre,Facebook
 7b3fd060-ebf1-4efa-9e3e-5c0d6a1dee05,Telemark Arbeiderparti,2023-07-03T06:16:26.636Z,65dbc101-18c3-47b8-a6b6-99e875d54787,Ap,Norway,no,100107876331492,Telemark Arbeiderparti,Facebook
+be3515dd-bb4e-4d20-a0be-c47cb7b3c7d6,Randaberg Arbeiderparti,2023-06-27T06:57:42.999Z,f74eb570-8a4d-49ed-98b6-d17be72c3101,Ap,Norway,no,118907661526276,Randaberg Arbeiderparti,Facebook
 2ce16a28-1b87-47a5-b1df-5c7ecaabb9ea,Våler Arbeiderparti - Innlandet,2023-09-05T05:07:31.432Z,b2e4d48e-be71-4cd0-8f5d-b898bd81aaeb,Ap,Norway,no,1443112599334149,Våler Arbeiderparti - Innlandet,Facebook
 89efff47-c1dc-4053-9e62-187a1284ede2,Tolga Arbeiderparti,2023-09-10T05:07:27.970Z,24a83257-421a-4c75-8cd2-a0839c94c189,Ap,Norway,no,123419644379746,Tolga Arbeiderparti,Facebook
+c6783809-906c-4892-b998-d91c71129c5c,Nord-Aurdal Arbeiderparti,2023-09-08T05:07:41.580Z,2a6b54f7-80ab-4be6-8ed2-f9ea4d8ca952,Ap,Norway,no,260467234027909,Nord-Aurdal Arbeiderparti,Facebook
 f9ceff2f-3744-4401-b82a-f5c190619a83,Eidskog Arbeiderparti,2023-09-10T05:07:28.096Z,b2aa5e53-9acf-436a-ad97-fac788860658,Ap,Norway,no,176164962445126,Eidskog Arbeiderparti,Facebook
+1cd36373-be71-4f99-887e-691489858a13,Bjørnar Skjæran,2023-09-11T05:07:39.197Z,dcd8159f-27d6-488a-bb75-5a3316ddd178,Ap,Norway,no,2020314588096067,Bjørnar Skjæran,Facebook
 d95f2f9e-3950-422d-99d6-c4c164f7ed24,Kjartan Alexander Lunde,2023-03-12T10:54:12.928Z,14ccb32f-80ab-4b05-86a9-a84ae4d913aa,V,Norway,no,156892357685143,Kjartan Alexander Lunde,Facebook
+ff0eaf20-c166-4bb8-92ea-e79cdb414539,Andøy Venstre,2023-03-24T10:54:08.781Z,8fcca06f-bf40-4b22-8683-ea70cfa50ecf,V,Norway,no,159629284090448,Andøy Venstre,Facebook
 8e63b968-921d-4ca9-a5ac-887708469d26,Hadsel Venstre,2023-05-17T06:53:21.929Z,c9a0c579-0343-4e34-841a-5632d0ee4cd7,V,Norway,no,162026527581558,Hadsel Venstre,Facebook
+e303101d-4cb5-42c1-80eb-9f5550542a02,Skien Venstre,2023-05-20T06:53:58.410Z,9f72758e-43ff-4317-8951-d3e21c37bb9a,V,Norway,no,781470095268908,Skien Venstre,Facebook
 5346439c-93ea-43b1-b68f-49b7725c6921,Stjørdal Arbeiderlag,2023-08-25T05:07:13.052Z,ea895bbc-0454-4eee-8226-876f3966ddf8,Ap,Norway,no,103987064499567,Stjørdal Arbeiderlag,Facebook
 de332315-718b-4978-af23-2f942b3fc2ac,Hammerfest Høyre,2023-08-29T05:07:17.925Z,658d8e4a-e01c-44cb-8d73-26e7267c02c6,H,Norway,no,178713842630313,Hammerfest Høyre,Facebook
+a62b2793-f399-4f80-a4d3-ec6cf24051af,Sunnfjord Arbeidarparti,2023-06-24T06:48:04.051Z,7ee77f64-e16b-4ddb-9f68-80eb913a0412,Ap,Norway,no,199905483359347,Sunnfjord Arbeidarparti,Facebook
+0bdea5bf-92f3-4344-be36-9f4024054989,Randaberg Høyre,2023-08-29T05:07:17.950Z,a03665cc-a943-411f-9787-8579baa02e9c,H,Norway,no,829567093747737,Randaberg Høyre,Facebook
 60459368-173b-4bb4-acdf-319268215497,"Per-Trygve Hoff, bystyrekandidat 29 Høyre",2023-08-30T05:07:24.709Z,e1c3e666-24fb-4518-a7bd-c47726021918,H,Norway,no,1629427047329129,"Per-Trygve Hoff, bystyrekandidat 29 Høyre",Facebook
 c7ac3dec-fb9c-4014-a503-fb500b3c9ead,Malvik Høyre,2023-09-09T05:07:32.682Z,f1850b25-9b31-4a36-915c-fb7beb30d72c,H,Norway,no,108154459279297,Malvik Høyre,Facebook
 9f0d177f-a019-4f21-a1c1-65ad323ca222,Vestland SV - Sosialistisk Venstreparti,2023-08-11T05:09:41.102Z,f967c243-ef39-4f96-94f0-6e1657a40d4f,SV,Norway,no,438113362933413,Vestland SV - Sosialistisk Venstreparti,Facebook
-de56dbe9-e53a-4cfd-b45b-c42ec61d0480,Trysil Arbeiderparti,2023-07-04T06:16:57.659Z,2c21ce15-a205-436e-860d-3d760b23d673,Ap,Norway,no,136958243038256,Trysil Arbeiderparti,Facebook
-ee95fbed-94ac-47cb-9201-a8ee06467dcb,Hustadvika Arbeiderparti,2023-09-08T05:07:41.618Z,98dc66b3-3678-467e-9641-051eb31a6600,Ap,Norway,no,1597237300329779,Hustadvika Arbeiderparti,Facebook
-adf74ab7-d397-48ff-8d9b-9cc6a7ae35df,Salangen Arbeiderparti,2023-09-10T05:07:28.138Z,c2e2f5c6-9b54-4ab4-965d-495eeec99830,Ap,Norway,no,187185471324064,Salangen Arbeiderparti,Facebook
-1bb45fe0-a3b1-4975-9dbe-3b2866ca11f1,,2023-03-26T10:53:54.213Z,39967367-e5cf-46d5-a40c-9c2530ca609c,V,Norway,no,102818562675663,,Facebook
-ceed8184-7068-451c-8b06-905be0196cac,Erling Moe,2023-05-26T06:54:04.286Z,942146e8-2f6e-444d-b42b-dd2a6e22acc6,V,Norway,no,645370232524026,Erling Moe,Facebook
-32119afe-02b5-4e3f-b61c-5d416c7a3999,Ålesund KrF,2023-08-14T05:07:37.431Z,19bcddef-bbdb-4d71-97c1-3b202b6c22bb,KrF,Norway,no,187859191238634,Ålesund KrF,Facebook
-08be1129-8f5d-4a2d-ae2c-c90252c1a5e9,Alver KrF,2023-09-10T05:07:27.258Z,23dc5e03-d5f9-48c5-8f66-19c4bcf529a1,KrF,Norway,no,1648191405267980,Alver KrF,Facebook
-a1804c25-af83-49bd-97a4-16b5301bede7,Ås KrF,2023-03-28T10:54:02.439Z,6784d64e-024d-49da-b0fc-5b7a82403298,KrF,Norway,no,403847019801716,Ås KrF,Facebook
-6ed92982-5160-48e4-bfa0-0c9878fadf1d,Bergen KrF,2023-07-01T05:08:34.239Z,0c0957c0-63ae-48bc-ae27-8eb967fecdca,KrF,Norway,no,742559829145980,Bergen KrF,Facebook
-608e21e3-f6ba-4669-a267-f02e0ee1f042,Bykle KrF,2023-05-09T06:53:42.229Z,ec599fb8-8a4a-464e-969a-b23c0f93f034,KrF,Norway,no,1680888485468328,Bykle KrF,Facebook
-512a1ac1-2a28-4b1f-a902-9602d29a1063,Fredrikstad KrF,2023-08-20T05:08:04.038Z,306d4b7c-7430-4422-9f52-7f3fbc84adc9,KrF,Norway,no,389210407768424,Fredrikstad KrF,Facebook
-0b7c6ac8-e4e7-4984-91d3-8fadca0f845c,Hamar KrF,2023-08-17T05:07:07.779Z,526ca51a-a984-48f5-acb7-7d3e1dbb25a0,KrF,Norway,no,206963636009964,Hamar KrF,Facebook
-e7d54042-320d-441c-8208-ecd0f1ddf415,Kvinesdal KrF,2023-08-05T05:08:18.028Z,c722ef22-2ca3-45e8-83c2-6f3f86ec0936,KrF,Norway,no,903651416368171,Kvinesdal KrF,Facebook
-0bdea5bf-92f3-4344-be36-9f4024054989,Randaberg Høyre,2023-08-29T05:07:17.950Z,a03665cc-a943-411f-9787-8579baa02e9c,H,Norway,no,829567093747737,Randaberg Høyre,Facebook
 decc7853-3090-4434-97ec-a2a193b2ec1c,Vestre Aker Høyre,2023-08-30T05:07:24.722Z,0801a176-ef43-4d67-9157-98a5201fc300,H,Norway,no,1406753436231509,Vestre Aker Høyre,Facebook
 398623f0-7ea2-41c9-9df3-9a09046c6cb8,Tønsberg Høyre,2023-09-10T05:07:27.977Z,7cb9bd93-0d81-46e6-86b5-d4780731ce9c,H,Norway,no,113352898494,Tønsberg Høyre,Facebook
+de56dbe9-e53a-4cfd-b45b-c42ec61d0480,Trysil Arbeiderparti,2023-07-04T06:16:57.659Z,2c21ce15-a205-436e-860d-3d760b23d673,Ap,Norway,no,136958243038256,Trysil Arbeiderparti,Facebook
 37aa71a1-3391-4898-9693-0b2a83f48685,Molde MDG,2023-08-31T06:14:32.458Z,d7c23241-8866-4035-a181-0cb1462f7ec3,MdG,Norway,no,368086223372621,Molde MDG,Facebook
 ae415d40-fc35-4293-868d-b68435891605,Trøndelag Sosialistisk Venstreparti,2023-08-10T05:08:14.231Z,a03c4e7f-2449-4c2a-ba91-442a7b0a3948,SV,Norway,no,329627623789762,Trøndelag Sosialistisk Venstreparti,Facebook
+ee95fbed-94ac-47cb-9201-a8ee06467dcb,Hustadvika Arbeiderparti,2023-09-08T05:07:41.618Z,98dc66b3-3678-467e-9641-051eb31a6600,Ap,Norway,no,1597237300329779,Hustadvika Arbeiderparti,Facebook
 bf57c9c6-222f-4245-9ef5-30aaa4c6e80a,Hadsel SV,2023-03-19T10:54:01.290Z,913cb789-50c9-40df-8797-838ffbd1c8a8,SV,Norway,no,162052563866611,Hadsel SV,Facebook
+adf74ab7-d397-48ff-8d9b-9cc6a7ae35df,Salangen Arbeiderparti,2023-09-10T05:07:28.138Z,c2e2f5c6-9b54-4ab4-965d-495eeec99830,Ap,Norway,no,187185471324064,Salangen Arbeiderparti,Facebook
 0d2c2d52-af63-425b-8c5d-7ab0c2f1d51b,Oslo SV,2023-03-23T10:54:10.720Z,88df3ffc-110f-406a-8e41-fa8e017e2612,SV,Norway,no,180922468616209,Oslo SV,Facebook
+1bb45fe0-a3b1-4975-9dbe-3b2866ca11f1,,2023-03-26T10:53:54.213Z,39967367-e5cf-46d5-a40c-9c2530ca609c,V,Norway,no,102818562675663,,Facebook
 73c25566-2576-415a-9ad4-dd471324e654,SV-politiker Ingolf Dragset,2023-05-09T06:53:42.232Z,efe04b33-02e3-44bf-921a-1bfd1fa6008f,SV,Norway,no,102340312754965,SV-politiker Ingolf Dragset,Facebook
+ceed8184-7068-451c-8b06-905be0196cac,Erling Moe,2023-05-26T06:54:04.286Z,942146e8-2f6e-444d-b42b-dd2a6e22acc6,V,Norway,no,645370232524026,Erling Moe,Facebook
 dedec949-d205-4f18-9216-640360beb650,Moss SV,2023-06-08T06:53:40.733Z,77aaf37d-7e38-41ef-a08a-c5b12782c279,SV,Norway,no,118470544845764,Moss SV,Facebook
+32119afe-02b5-4e3f-b61c-5d416c7a3999,Ålesund KrF,2023-08-14T05:07:37.431Z,19bcddef-bbdb-4d71-97c1-3b202b6c22bb,KrF,Norway,no,187859191238634,Ålesund KrF,Facebook
 81c3eb7f-68ef-450f-bad4-f2ac27ba1109,Vennesla Arbeiderparti,2023-07-03T06:16:26.776Z,67eddf09-956f-44af-be1f-f02b3f048ed0,Ap,Norway,no,771439106237830,Vennesla Arbeiderparti,Facebook
+08be1129-8f5d-4a2d-ae2c-c90252c1a5e9,Alver KrF,2023-09-10T05:07:27.258Z,23dc5e03-d5f9-48c5-8f66-19c4bcf529a1,KrF,Norway,no,1648191405267980,Alver KrF,Facebook
 e5be8632-d57f-4a5c-b661-6b7ea1c0fee1,,2023-09-05T05:07:31.477Z,b348b8e8-233f-48d9-9fcc-819f7ae3386f,Ap,Norway,no,1829963527268477,,Facebook
+a1804c25-af83-49bd-97a4-16b5301bede7,Ås KrF,2023-03-28T10:54:02.439Z,6784d64e-024d-49da-b0fc-5b7a82403298,KrF,Norway,no,403847019801716,Ås KrF,Facebook
 5593012f-4725-4c8d-bf3c-fec7bd3f277e,Fylkestingsrepresentant Bjørn Jarle Røberg-Larsen,2023-09-10T05:07:28.053Z,ecdebc81-fc56-4866-8efb-649f291e9e00,Ap,Norway,no,110130157562809,Fylkestingsrepresentant Bjørn Jarle Røberg-Larsen,Facebook
+6ed92982-5160-48e4-bfa0-0c9878fadf1d,Bergen KrF,2023-07-01T05:08:34.239Z,0c0957c0-63ae-48bc-ae27-8eb967fecdca,KrF,Norway,no,742559829145980,Bergen KrF,Facebook
 6e6c5866-347a-47d4-9036-147e075deafd,Møre og Romsdal Venstre,2023-03-13T10:53:58.716Z,b3c7c768-440f-41cc-ae3e-f4c24a56513b,V,Norway,no,114200448664475,Møre og Romsdal Venstre,Facebook
+608e21e3-f6ba-4669-a267-f02e0ee1f042,Bykle KrF,2023-05-09T06:53:42.229Z,ec599fb8-8a4a-464e-969a-b23c0f93f034,KrF,Norway,no,1680888485468328,Bykle KrF,Facebook
+512a1ac1-2a28-4b1f-a902-9602d29a1063,Fredrikstad KrF,2023-08-20T05:08:04.038Z,306d4b7c-7430-4422-9f52-7f3fbc84adc9,KrF,Norway,no,389210407768424,Fredrikstad KrF,Facebook
 5507ccd7-da85-4743-8b63-c88ddcb3f216,Rana Venstre,2023-07-11T06:08:03.719Z,0da5cd51-1dc8-4c24-b518-a31efc855dd8,V,Norway,no,1475048542722162,Rana Venstre,Facebook
+0b7c6ac8-e4e7-4984-91d3-8fadca0f845c,Hamar KrF,2023-08-17T05:07:07.779Z,526ca51a-a984-48f5-acb7-7d3e1dbb25a0,KrF,Norway,no,206963636009964,Hamar KrF,Facebook
 62d0ba9b-d35d-4a1a-b19c-69096a683cab,Flekkefjord Høyre,2023-08-20T05:08:04.518Z,1e7dc273-52d7-4ad8-96b0-293a07d97fad,H,Norway,no,554607681345106,Flekkefjord Høyre,Facebook
+e7d54042-320d-441c-8208-ecd0f1ddf415,Kvinesdal KrF,2023-08-05T05:08:18.028Z,c722ef22-2ca3-45e8-83c2-6f3f86ec0936,KrF,Norway,no,903651416368171,Kvinesdal KrF,Facebook
 b9d63b61-6ea0-4d2c-be30-164e98911e37,Tysvær Høyre,2023-09-02T05:07:23.378Z,2b7ed175-f18c-4c7a-9c99-9c9f38854bf8,H,Norway,no,183608751689739,Tysvær Høyre,Facebook
+0f16fe9c-6d6e-42eb-a398-4aed529e7b14,Hå Høyre,2023-08-25T05:07:12.965Z,486fc95f-6010-463b-9b8b-79e54f75c0ff,H,Norway,no,100355279833332,Hå Høyre,Facebook
 626509c1-0947-4966-9331-92dc576a847c,Tana Høyre,2023-09-11T05:07:39.334Z,1a5b22a4-8a27-469e-8915-5f1cb74412a0,H,Norway,no,118341138355726,Tana Høyre,Facebook
 dae066b3-40eb-4920-81fe-f165ed6e62d0,Vestby Miljøpartiet De Grønne,2023-08-01T05:08:16.385Z,9aec38bc-ce70-4ba0-a92f-6eb8335af0d0,MdG,Norway,no,514947745299420,Vestby Miljøpartiet De Grønne,Facebook
-b623892d-c308-4d68-80d0-8498b5ba856c,Voss MDG,2023-09-09T05:07:32.739Z,a53b7e57-9d0d-4fcf-b00d-d26d62991705,MdG,Norway,no,1379836818982292,Voss MDG,Facebook
-ffd8b65d-c20f-4122-bdb4-699690a04f21,Agder SV,2023-08-19T05:08:16.987Z,dc02c5bd-26ef-4715-bcdc-e9f7f8bdff5a,SV,Norway,no,204598992924572,Agder SV,Facebook
-c64129ed-1901-4a24-92a0-41d2d0b4730f,Nordland KrF,2023-08-20T05:08:04.301Z,ef2b1052-c862-40f8-8c0a-9462e6cd8e88,KrF,Norway,no,709854462454147,Nordland KrF,Facebook
-4569e689-5f58-49a3-911d-a07fd35c4bac,Øygarden KrF,2023-06-05T06:53:53.350Z,d30c5f25-430e-4b81-944c-82a9991c5c2e,KrF,Norway,no,107318096026681,Øygarden KrF,Facebook
-27f4f4a4-cd88-4520-8a6e-6c0e652f7bbf,Rælingen KrF,2023-03-17T10:54:21.406Z,9244e264-074c-4934-8c75-7c96d83bdd62,KrF,Norway,no,269502380668671,Rælingen KrF,Facebook
-98f83064-bc4a-4b56-bedd-e263990f2b0d,Stavanger KrF,2023-08-04T05:08:09.557Z,9f63c3c9-16e5-4e6b-a407-21f46a17777f,KrF,Norway,no,135779106489065,Stavanger KrF,Facebook
-0f16fe9c-6d6e-42eb-a398-4aed529e7b14,Hå Høyre,2023-08-25T05:07:12.965Z,486fc95f-6010-463b-9b8b-79e54f75c0ff,H,Norway,no,100355279833332,Hå Høyre,Facebook
 1efe7252-c7cb-496e-beda-4080b639cb33,Saltdal Høyre,2023-09-07T05:07:09.742Z,16bef0d8-ef9a-483f-9917-2d41f73e1291,H,Norway,no,120820754661975,Saltdal Høyre,Facebook
 d12c052d-d146-4a7b-87da-ca29a18a7b9e,Løten Høyre,2023-09-12T05:07:04.005Z,b3880c7b-1b1d-46cb-948d-3e94a0c3de0c,H,Norway,no,1450596641929347,Løten Høyre,Facebook
+b623892d-c308-4d68-80d0-8498b5ba856c,Voss MDG,2023-09-09T05:07:32.739Z,a53b7e57-9d0d-4fcf-b00d-d26d62991705,MdG,Norway,no,1379836818982292,Voss MDG,Facebook
 5af0ad29-2872-4645-ad6e-8ca3528c5383,Rogaland SV - Sosialistisk Venstreparti,2023-07-09T06:08:55.258Z,03ca3a19-1936-4ec3-be25-29b3e2f177b1,SV,Norway,no,129973197116087,Rogaland SV - Sosialistisk Venstreparti,Facebook
+ffd8b65d-c20f-4122-bdb4-699690a04f21,Agder SV,2023-08-19T05:08:16.987Z,dc02c5bd-26ef-4715-bcdc-e9f7f8bdff5a,SV,Norway,no,204598992924572,Agder SV,Facebook
 3aaeac30-1fd5-4418-8d9b-94c0518f5381,Rennebu Kristelig Folkeparti - KrF,2023-08-13T05:08:24.452Z,cfbe9315-bae8-4ed4-918d-05f8dfb05f23,KrF,Norway,no,106214332527770,Rennebu Kristelig Folkeparti - KrF,Facebook
+c64129ed-1901-4a24-92a0-41d2d0b4730f,Nordland KrF,2023-08-20T05:08:04.301Z,ef2b1052-c862-40f8-8c0a-9462e6cd8e88,KrF,Norway,no,709854462454147,Nordland KrF,Facebook
 c8c47082-dba2-448d-b322-b32302ebd8a8,Stange KrF,2023-09-02T05:07:22.997Z,4de9357c-b790-4d38-b5e9-a64c59907608,KrF,Norway,no,1336732289719647,Stange KrF,Facebook
+4569e689-5f58-49a3-911d-a07fd35c4bac,Øygarden KrF,2023-06-05T06:53:53.350Z,d30c5f25-430e-4b81-944c-82a9991c5c2e,KrF,Norway,no,107318096026681,Øygarden KrF,Facebook
 b6bd0b81-1ed7-4910-bdf6-cdef088d3a9e,Sør-Varanger Høyre,2023-08-27T05:07:24.540Z,4437ccd9-2b7e-4b86-9539-2e634f047596,H,Norway,no,273570186131422,Sør-Varanger Høyre,Facebook
+27f4f4a4-cd88-4520-8a6e-6c0e652f7bbf,Rælingen KrF,2023-03-17T10:54:21.406Z,9244e264-074c-4934-8c75-7c96d83bdd62,KrF,Norway,no,269502380668671,Rælingen KrF,Facebook
+98f83064-bc4a-4b56-bedd-e263990f2b0d,Stavanger KrF,2023-08-04T05:08:09.557Z,9f63c3c9-16e5-4e6b-a407-21f46a17777f,KrF,Norway,no,135779106489065,Stavanger KrF,Facebook
 48cf93e8-f45a-4048-bc12-7654aeb03ab8,Søndre Land Høyre,2023-09-03T05:07:18.451Z,961be56a-4b8f-4e85-bc9e-e9635220f4b2,H,Norway,no,453194748190662,Søndre Land Høyre,Facebook
+f8d7d5bc-95e8-4c74-8c29-012ab35a67b6,Rendalen Høyre,2023-08-29T05:07:18.093Z,eb62f469-ace5-460e-a6b5-905e9b894a81,H,Norway,no,725448257816441,Rendalen Høyre,Facebook
 20dba666-3f11-4baa-b8e4-1ac3e555c7bd,Lillehammer Høyre,2023-09-08T05:07:40.803Z,35a9f478-ae18-42a9-92c3-5fc06a3a6f68,H,Norway,no,819049491460520,Lillehammer Høyre,Facebook
+36d8ffb3-024a-40a0-b167-fd801f8bba95,Guovdageainnu Olgeš / Kautokeino Høyre,2023-09-07T05:07:09.812Z,8bd1922c-ab8c-46c2-b4f2-8561e18ad1c7,H,Norway,no,971326119595336,Guovdageainnu Olgeš / Kautokeino Høyre,Facebook
 f1bc7cca-33bf-4247-8eab-ce0455db137a,Oslo MDG,2023-04-20T06:53:55.353Z,ce89d5a1-7e09-4189-8dd5-62c4eae490ef,MdG,Norway,no,157929987567626,Oslo MDG,Facebook
+0309f714-456c-41e3-afec-b0b9cd6861f5,Bergen MDG,2023-05-29T06:53:28.716Z,525726ba-1cdd-40e8-8302-a3965baa9954,MdG,Norway,no,170653772985183,Bergen MDG,Facebook
 4e485aa6-75dd-44a5-b55f-ce965517c3dc,Austrheim SV,2023-08-30T05:07:24.591Z,17da5b3d-296e-4056-b018-e1354df40ebb,SV,Norway,no,260590284830555,Austrheim SV,Facebook
+32b55c81-2984-4c93-985a-dc237f5b4a2d,Øygarden SV,2023-08-14T05:07:37.229Z,ce1e9d4e-91ae-4ec9-972c-6513a62b7b0d,SV,Norway,no,453983951447090,Øygarden SV,Facebook
 b2b530e8-b37b-470d-b7ba-80bdf2dcfd9a,Øystre Slidre SV,2023-09-11T05:07:39.584Z,74c88ee3-5d06-4980-a1a6-560afc0f7120,SV,Norway,no,1217779104990014,Øystre Slidre SV,Facebook
+13e1f7c2-d2b1-44d7-a3f3-d5b3a0616225,Froland KrF,2023-07-31T12:53:24.188Z,5f75af8e-2e71-407e-b5d1-43dd628800fd,KrF,Norway,no,275077585842475,Froland KrF,Facebook
 01052e9a-3529-46ee-944c-3dfe623c21ce,Lillestrøm SV,2023-03-19T10:54:01.384Z,bb903a7e-7b4b-416c-920c-1cc9a69cbbfa,SV,Norway,no,295778727799101,Lillestrøm SV,Facebook
 c75d59f0-dea6-498b-a9f8-69b817d46413,Stjørdal SV,2023-03-20T10:54:01.847Z,0f100679-20ff-46e1-88d5-69a98c6c11dc,SV,Norway,no,192900264071992,Stjørdal SV,Facebook
+4c192f12-0624-4a4b-920d-3b3bfc6d3e7e,Grønne Studenter,2023-03-08T14:44:40.978Z,ccdcb801-c906-4d79-b4f7-cdd3a88e12e3,MdG,Norway,no,129061090499874,Grønne Studenter,Facebook
 2eb2389c-4e58-4ad2-9efe-2a069fcd8b53,Kristiansand SV,2023-04-04T10:54:14.015Z,61fb1078-0ef4-460b-a4f7-f2eeb0b1453b,SV,Norway,no,103077389814473,Kristiansand SV,Facebook
 59ae63b0-6d1a-4174-afac-846abaa81e13,Tromsø SV,2023-05-02T06:53:59.879Z,2abc1c7a-4114-443a-bb32-973aab41e845,SV,Norway,no,447470820360,Tromsø SV,Facebook
-19b2b5a2-3f7f-461b-9269-f2b6d16da8a0,Fredrikstad SV,2023-06-09T06:53:29.192Z,8818e2a8-eccc-4505-8cd6-c0210331114d,SV,Norway,no,116849158413174,Fredrikstad SV,Facebook
-abf77c59-2234-4bd9-ab54-e4bf8b568337,Rogaland KrF,2023-08-07T05:08:26.424Z,4e23c7d9-454d-4bfc-9929-aacd3b51419b,KrF,Norway,no,116602181709178,Rogaland KrF,Facebook
-63de5d4d-582e-4b44-be2e-26e80218973b,Øygarden Arbeidarparti,2023-06-11T06:53:34.469Z,5179629d-b34e-4bc1-bb82-cd49a6033470,Ap,Norway,no,1875902792622658,Øygarden Arbeidarparti,Facebook
-f8d7d5bc-95e8-4c74-8c29-012ab35a67b6,Rendalen Høyre,2023-08-29T05:07:18.093Z,eb62f469-ace5-460e-a6b5-905e9b894a81,H,Norway,no,725448257816441,Rendalen Høyre,Facebook
-36d8ffb3-024a-40a0-b167-fd801f8bba95,Guovdageainnu Olgeš / Kautokeino Høyre,2023-09-07T05:07:09.812Z,8bd1922c-ab8c-46c2-b4f2-8561e18ad1c7,H,Norway,no,971326119595336,Guovdageainnu Olgeš / Kautokeino Høyre,Facebook
-0309f714-456c-41e3-afec-b0b9cd6861f5,Bergen MDG,2023-05-29T06:53:28.716Z,525726ba-1cdd-40e8-8302-a3965baa9954,MdG,Norway,no,170653772985183,Bergen MDG,Facebook
-32b55c81-2984-4c93-985a-dc237f5b4a2d,Øygarden SV,2023-08-14T05:07:37.229Z,ce1e9d4e-91ae-4ec9-972c-6513a62b7b0d,SV,Norway,no,453983951447090,Øygarden SV,Facebook
-13e1f7c2-d2b1-44d7-a3f3-d5b3a0616225,Froland KrF,2023-07-31T12:53:24.188Z,5f75af8e-2e71-407e-b5d1-43dd628800fd,KrF,Norway,no,275077585842475,Froland KrF,Facebook
-4c192f12-0624-4a4b-920d-3b3bfc6d3e7e,Grønne Studenter,2023-03-08T14:44:40.978Z,ccdcb801-c906-4d79-b4f7-cdd3a88e12e3,MdG,Norway,no,129061090499874,Grønne Studenter,Facebook
 1af25ba7-1757-426a-a098-e77260fa5caa,Porsanger Høyre,2023-08-29T05:07:18.074Z,fb6d4dd4-906b-44e6-bd93-cca2f682008a,H,Norway,no,211304308881691,Porsanger Høyre,Facebook
+19b2b5a2-3f7f-461b-9269-f2b6d16da8a0,Fredrikstad SV,2023-06-09T06:53:29.192Z,8818e2a8-eccc-4505-8cd6-c0210331114d,SV,Norway,no,116849158413174,Fredrikstad SV,Facebook
 72716ed0-ed58-4b11-a7a3-cd255a60b6f6,Frogner Høyre,2023-09-07T05:07:09.827Z,aec7b063-3732-4c00-9fc9-4bdc7c179146,H,Norway,no,308194748503,Frogner Høyre,Facebook
+abf77c59-2234-4bd9-ab54-e4bf8b568337,Rogaland KrF,2023-08-07T05:08:26.424Z,4e23c7d9-454d-4bfc-9929-aacd3b51419b,KrF,Norway,no,116602181709178,Rogaland KrF,Facebook
 7d8063d0-0d83-40f6-8c78-6a010dba268e,Miljøpartiet De Grønne Kvinesdal,2023-09-02T05:07:22.939Z,6fab83a3-b272-4b57-ade2-522200a2f1b6,MdG,Norway,no,824973400924786,Miljøpartiet De Grønne Kvinesdal,Facebook
+63de5d4d-582e-4b44-be2e-26e80218973b,Øygarden Arbeidarparti,2023-06-11T06:53:34.469Z,5179629d-b34e-4bc1-bb82-cd49a6033470,Ap,Norway,no,1875902792622658,Øygarden Arbeidarparti,Facebook
 fb8b5b6f-f99f-4a52-8572-25dddb1c111e,Ringsaker SV,2023-09-07T05:07:09.213Z,7896ff86-b2f4-4b7f-8fca-71c359d9ff12,SV,Norway,no,319864962026513,Ringsaker SV,Facebook
 e36ad680-bf58-418f-af1a-eaa0dcf3911d,Sogndal KrF,2023-08-17T05:07:07.792Z,fe7df96e-10aa-4eb0-a2e7-cc2bd05098e5,KrF,Norway,no,214094158609301,Sogndal KrF,Facebook
-183f14cc-e530-4194-a950-37a573509abc,Trondheim Grønne Studenter,2023-10-31T05:37:18.937Z,448249dc-0e86-45bd-b7d0-847d9e899b49,MdG,Norway,no,230601403660044,Trondheim Grønne Studenter,Facebook
 4aa78231-b0c8-4167-b182-296da7f84d7b,MDG Fredrikstad,2023-06-30T06:15:19.991Z,dd118bfd-2499-441a-9f5a-03828b0d628e,MdG,Norway,no,1584595948450249,MDG Fredrikstad,Facebook
 a4025a5a-429d-4143-b5e1-8e865ad46f67,Harstad MDG,2023-08-31T06:14:32.595Z,e0bcac96-1aa0-4ba1-9655-3e780203f4f8,MdG,Norway,no,245287768902809,Harstad MDG,Facebook
+183f14cc-e530-4194-a950-37a573509abc,Trondheim Grønne Studenter,2023-10-31T05:37:18.937Z,448249dc-0e86-45bd-b7d0-847d9e899b49,MdG,Norway,no,230601403660044,Trondheim Grønne Studenter,Facebook
 5fbffa71-b837-4480-ad88-5941d0311f03,Porsgrunn KrF,2023-08-13T05:08:24.392Z,6d3e222b-7738-4c90-92b6-8cabe8a7dee9,KrF,Norway,no,194669747353090,Porsgrunn KrF,Facebook
 b437bbd4-4c7f-4e65-a815-9b8f074eb0d3,Asker MDG,2023-08-06T05:08:07.209Z,8558d9f3-5a80-4d06-981f-0f156eb645b3,MdG,Norway,no,1556042317947943,Asker MDG,Facebook
+408c5d10-b3ea-4ba3-a0b2-03014862c464,Partiet Sentrum Innlandet,2023-03-08T10:54:12.693Z,13a4f6b5-26ae-4055-ad23-323c0bac3932,S,Norway,no,105660388150489,Partiet Sentrum Innlandet,Facebook
 8d373d53-7986-4eff-b3e9-82944b42699f,Øksnes SV,2023-08-21T05:08:13.580Z,4cc9215e-b496-4fb5-a8c9-c8ba450c8918,SV,Norway,no,174505082606765,Øksnes SV,Facebook
 70b90fc2-e126-48b6-a31d-7a210b9f0544,Osterøy SV,2023-08-21T05:08:13.975Z,10a337b5-5e56-4567-a9ab-7fa2719a3ca6,SV,Norway,no,1647338522160976,Osterøy SV,Facebook
-df7fd589-2097-4057-a590-f15e741431d8,Martine Smerud - SV,2023-08-25T05:07:13.092Z,e2f0d4e2-f68f-4661-b08d-9a76e539c72a,SV,Norway,no,106978399042965,Martine Smerud - SV,Facebook
-65aec0ad-db59-4736-9c54-acd1bc74c1b2,Molde SV,2023-08-29T05:07:17.290Z,8d0175df-d17a-4bd6-a3c9-80805367d3e2,SV,Norway,no,225041020918644,Molde SV,Facebook
-b02b45a6-cfb5-4919-9a08-e8ab716c6348,Kvam SV,2023-09-11T05:07:39.657Z,3345a0a5-f24f-479f-b26d-bcc64a66b7d0,SV,Norway,no,357186251380479,Kvam SV,Facebook
-f05af5f1-7ee5-49aa-827e-f4bf9221ebef,Skaun KrF,2023-09-01T05:07:23.390Z,2ce3c924-1c87-49c4-87da-8a0c0e973e0a,KrF,Norway,no,1638468023072777,Skaun KrF,Facebook
-c961a79f-5bb4-4c25-8812-f16bc62e1145,Asker Venstre,2023-07-04T06:16:57.752Z,8c51299f-832f-4ed0-9dd0-ba0aafb17052,V,Norway,no,110023678604857,Asker Venstre,Facebook
-408c5d10-b3ea-4ba3-a0b2-03014862c464,Partiet Sentrum Innlandet,2023-03-08T10:54:12.693Z,13a4f6b5-26ae-4055-ad23-323c0bac3932,S,Norway,no,105660388150489,Partiet Sentrum Innlandet,Facebook
 0ac6cc07-cf23-42f3-adf0-a3324d0cc7bd,Partiet Sentrum Lillehammer,2023-03-08T10:54:12.692Z,5b2bf296-1c12-4057-874b-171df02fbf26,S,Norway,no,112514294773741,Partiet Sentrum Lillehammer,Facebook
 1b8b5c08-36cd-4c30-8824-7291718dc7ac,Partiet Sentrum Grimstad,2023-07-23T05:08:27.031Z,9dc3a17e-838e-43eb-9439-b149abf1e3b4,S,Norway,no,107862825603742,Partiet Sentrum Grimstad,Facebook
-96f4877c-5318-43f3-9b23-203be6da96ef,Partiet Sentrum Rogaland,2023-08-25T05:07:13.383Z,a1c18999-6cdf-41b9-96e6-a10917c8924c,S,Norway,no,100471455235125,Partiet Sentrum Rogaland,Facebook
 1abe2b1c-a86a-447c-afed-deb8b31e00c1,Pensjonistpartiet i Sandnes,2023-08-14T05:07:37.464Z,8d935769-d511-4bab-8155-68e5914aefbd,Andre,Norway,no,919681178086941,Pensjonistpartiet i Sandnes,Facebook
 23e43dac-ebc4-46b3-aa7d-7084d02a1f33,Partiet Sentrum Kristiansand,2023-07-31T11:14:16.018Z,3bcb50bc-a3a1-4732-b5b6-b71b47dac1d5,S,Norway,no,102975262623946,Partiet Sentrum Kristiansand,Facebook
+96f4877c-5318-43f3-9b23-203be6da96ef,Partiet Sentrum Rogaland,2023-08-25T05:07:13.383Z,a1c18999-6cdf-41b9-96e6-a10917c8924c,S,Norway,no,100471455235125,Partiet Sentrum Rogaland,Facebook
 73bc2fd9-750a-48c0-81f9-2a3d6d4b3af1,Generasjonspartiet,2023-06-11T06:53:34.440Z,f82d0db1-033b-4ea9-8700-c19aeb08e09b,Andre,Norway,no,101517431718355,Generasjonspartiet,Facebook
-84924536-c68f-4ebc-9cff-4a112613de01,Pensjonistpartiet Drammen,2023-03-14T10:53:53.318Z,cf2b27dd-9a57-48fb-a163-077d0cc1a806,Andre,Norway,no,118068574546313,Pensjonistpartiet Drammen,Facebook
 322b012c-28ae-4fc6-a841-ab7f1fcbc5e3,Partiet Sentrum Ringebu,2023-04-02T10:54:10.164Z,e30bd770-6650-4d42-8b41-442ee04b6f77,S,Norway,no,100906259626264,Partiet Sentrum Ringebu,Facebook
-71e9c79e-4612-4e2a-9131-ceca53f007c3,Generasjonspartiet Bergen,2023-06-11T06:53:34.481Z,96032263-096e-4983-971b-190a50423ba6,Andre,Norway,no,101210435082837,Generasjonspartiet Bergen,Facebook
+84924536-c68f-4ebc-9cff-4a112613de01,Pensjonistpartiet Drammen,2023-03-14T10:53:53.318Z,cf2b27dd-9a57-48fb-a163-077d0cc1a806,Andre,Norway,no,118068574546313,Pensjonistpartiet Drammen,Facebook
 e80b4a9c-fe18-4b09-99a4-09aaa12f9354,Småbypartiet Orkland,2023-08-01T05:08:16.226Z,5cf8e234-def0-4e97-8458-f73e6ff89ae4,Andre,Norway,no,213894665291576,Småbypartiet Orkland,Facebook
-285b7de2-9a6b-49e0-a7c3-b634c2274dd2,Alkoholpartiet,2023-10-07T05:07:36.466Z,0e8d6bc3-53a0-4dbf-9e88-fb8805e475a5,Andre,Norway,no,149806121540684,Alkoholpartiet,Facebook
 e689a073-7b4d-483d-beb3-b8752d09c2e7,Audun Mundal - fylkestingskandidat for Partiet Sentrum Vestland,2023-07-23T05:08:27.067Z,aced5028-8693-4c1c-bb3b-7e5a5e386b42,S,Norway,no,109509312120920,Audun Mundal - fylkestingskandidat for Partiet Sentrum Vestland,Facebook
-fbf080b9-7b83-40ae-a725-d8b2a293b75d,Steinkjer24,2023-04-29T06:53:57.350Z,ce86a385-ca59-4fe5-83e9-bde646239d5d,ZZZ,Norway,no,114476867055966,Steinkjer24,Facebook
+71e9c79e-4612-4e2a-9131-ceca53f007c3,Generasjonspartiet Bergen,2023-06-11T06:53:34.481Z,96032263-096e-4983-971b-190a50423ba6,Andre,Norway,no,101210435082837,Generasjonspartiet Bergen,Facebook
+285b7de2-9a6b-49e0-a7c3-b634c2274dd2,Alkoholpartiet,2023-10-07T05:07:36.466Z,0e8d6bc3-53a0-4dbf-9e88-fb8805e475a5,Andre,Norway,no,149806121540684,Alkoholpartiet,Facebook
 dc25cc48-6cdc-4dde-adef-0a93044a2599,Afghanistankomiteen - NAC,2023-08-05T05:08:18.042Z,39871cd9-9a30-4107-ad0c-44a0684e3cbe,ZZZ,Norway,no,198660866818662,Afghanistankomiteen - NAC,Facebook
 c0075e86-a54a-403d-8356-e00c8102379f,NorSom News,2023-09-02T05:07:22.918Z,bf532b6e-1194-4969-8aff-e6ac08474621,ZZZ,Norway,no,1105788069442691,NorSom News,Facebook
 b94749f6-d42b-41d6-a30a-3cdc106a7051,Naturvernforbundet i Innlandet,2023-08-12T05:08:12.259Z,aa1b0c06-eb2f-4105-b251-e45d0e959d68,ZZZ,Norway,no,147307179248031,Naturvernforbundet i Innlandet,Facebook
@@ -800,6 +795,10 @@ ae497e02-3879-4162-a1e5-791bfb63be1f,Europabevegelsen,2023-03-08T14:44:40.961Z,0
 eaee72b4-3224-4d39-ba9b-e86d006a25a7,Preventio,2023-03-08T10:54:12.562Z,8fee7e97-e4d1-4643-9669-90badbbd5188,ZZZ,Norway,no,102560641840786,Preventio,Facebook
 2e11cdff-df51-4c53-9ed8-efccb05c4788,Minerva,2023-03-08T17:26:31.637Z,bb9d5786-4198-42d4-92e2-aceb78507fb4,ZZZ,Norway,no,156202914404133,Minerva,Facebook
 229788c3-e6fd-4e72-807d-7eda8299a0c4,Nettverk for dyrs frihet,2023-03-08T17:47:36.818Z,a386f5f9-9176-407b-abea-77f61bba24d1,ZZZ,Norway,no,128907043832503,Nettverk for dyrs frihet,Facebook
+df7fd589-2097-4057-a590-f15e741431d8,Martine Smerud - SV,2023-08-25T05:07:13.092Z,e2f0d4e2-f68f-4661-b08d-9a76e539c72a,SV,Norway,no,106978399042965,Martine Smerud - SV,Facebook
+65aec0ad-db59-4736-9c54-acd1bc74c1b2,Molde SV,2023-08-29T05:07:17.290Z,8d0175df-d17a-4bd6-a3c9-80805367d3e2,SV,Norway,no,225041020918644,Molde SV,Facebook
+b02b45a6-cfb5-4919-9a08-e8ab716c6348,Kvam SV,2023-09-11T05:07:39.657Z,3345a0a5-f24f-479f-b26d-bcc64a66b7d0,SV,Norway,no,357186251380479,Kvam SV,Facebook
+f05af5f1-7ee5-49aa-827e-f4bf9221ebef,Skaun KrF,2023-09-01T05:07:23.390Z,2ce3c924-1c87-49c4-87da-8a0c0e973e0a,KrF,Norway,no,1638468023072777,Skaun KrF,Facebook
 fe633234-4857-4c0d-b6ce-96cddebe5e9c,Aftenposten Historie,2023-03-08T18:09:16.283Z,3329eacf-3f28-403a-b222-21cc6e519321,ZZZ,Norway,no,718942011483190,Aftenposten Historie,Facebook
 d3bd2ab2-7d3a-4a15-9ea4-d1315f353d5d,Stian Storbukås,2023-03-08T19:02:45.836Z,af26cc46-9356-4878-a53c-4fa6f4dda129,ZZZ,Norway,no,105341850825925,Stian Storbukås,Facebook
 edeb610f-d3cc-4e4f-96cf-806bb7762a78,Jotun Group,2023-03-08T19:13:22.463Z,f5d5e79e-0db1-4367-9036-8c8d2b2f7849,ZZZ,Norway,no,215934875104100,Jotun Group,Facebook
@@ -873,18 +872,31 @@ f5854484-87aa-4d15-970c-a733fb2669b3,Radio Latin-Amerika,2023-03-08T10:54:12.648
 72e67cb0-c6b6-4296-ab02-becb68870ecd,e2 Helse,2023-03-30T10:53:57.627Z,1224fff1-6232-4128-a462-d90bc53f2d50,ZZZ,Norway,no,159585487409856,e2 Helse,Facebook
 40a55841-cf58-49e4-abe0-8047fde5622f,Prima Assistanse,2023-05-10T06:54:12.034Z,3a4e61f7-8920-482a-a259-4904433b1ff7,ZZZ,Norway,no,783097155075085,Prima Assistanse,Facebook
 2cc9ea2c-f355-41a3-9534-62b7d70122cf,Isdager,2023-10-14T05:07:27.340Z,1e372a7d-ce2f-412e-a8ac-989632520d4a,ZZZ,Norway,no,122698804261194,Isdager,Facebook
+fbf080b9-7b83-40ae-a725-d8b2a293b75d,Steinkjer24,2023-04-29T06:53:57.350Z,ce86a385-ca59-4fe5-83e9-bde646239d5d,ZZZ,Norway,no,114476867055966,Steinkjer24,Facebook
 ad217ba7-e134-43f3-9a83-b08f342861ba,Arbeid & Inkludering,2023-03-08T10:54:12.595Z,d3bcd8a4-3aa3-4b30-9c01-cefe91a3672d,ZZZ,Norway,no,104701569617247,Arbeid & Inkludering,Facebook
+02df976b-f7a5-4955-b790-095de807773c,Kistefos Museum,2023-04-22T06:04:25.275Z,3e27e270-09c7-4556-95e9-62c8c8d4318e,ZZZ,Norway,no,164289149190,Kistefos Museum,Facebook
 99cfaf6a-35f6-4f94-a034-a531b30a4e3b,allmennsykepleieren,2023-10-03T05:07:29.670Z,d4d06847-8cb8-4207-8551-184860e92e1a,ZZZ,Norway,no,100992222937004,allmennsykepleieren,Facebook
 d843e732-a83c-44e8-9112-efca7a9a1b0e,Et Bedre Norge.no,2024-01-10T05:07:07.441Z,ba4e9290-ed9e-4347-a846-97e18886795e,ZZZ,Norway,no,641269032641924,Et Bedre Norge.no,Facebook
+8f649564-4dcb-4e8b-8218-78c5b1798d8b,Actis - Rusfeltets Samarbeidsorgan,2024-01-15T05:07:35.201Z,b7123227-f2a1-484d-aace-9f8a345f3fbf,ZZZ,Norway,no,125087157526451,Actis - Rusfeltets Samarbeidsorgan,Facebook
+d04e7cab-e678-44f4-90e5-39f1a5d4ff7d,Sem & Johnsen,2023-05-21T06:53:49.135Z,69e6352e-7f34-4e79-b51e-19c17e6b0ac8,ZZZ,Norway,no,362805497256161,Sem & Johnsen,Facebook
 41be8922-07c4-48f4-9230-9257290665e9,Discover five,2024-01-14T05:06:59.643Z,bba64077-cac7-424f-849a-159030645ecc,ZZZ,Norway,no,166738349863441,Discover five,Facebook
+d75a2381-0aeb-4884-bfb4-0bf6c9cbb1da,Åpen folkekirke i Hamar bispedømme,2023-08-25T05:07:12.901Z,8ff6e78e-7de7-426a-9fc4-39da697396ac,ZZZ,Norway,no,1521296124828016,Åpen folkekirke i Hamar bispedømme,Facebook
 d5f443a3-e693-4c6e-8f85-2dc2ccde7faf,Senior Norge,2023-06-28T05:08:36.653Z,a8819067-b6e7-49c4-a846-3a0944398471,ZZZ,Norway,no,480872785578991,Senior Norge,Facebook
+a5d4b3bc-77c5-47ed-a87d-820303d3d231,Akari Numedal,2023-09-02T05:07:23.451Z,962721b9-c578-455d-b67a-034a7b4ab084,ZZZ,Norway,no,102544682571216,Akari Numedal,Facebook
 46306356-502a-4786-8862-c6c57c1b04e3,Aktive Gamere ressurs- og kompetansesenter for dataspilling og e-sport,2023-06-01T06:54:04.499Z,7958f2c0-af2b-4f1f-be06-289bdd3e94ff,ZZZ,Norway,no,103149902594131,Aktive Gamere ressurs- og kompetansesenter for dataspilling og e-sport,Facebook
+fa3342cd-931d-4f50-90f8-7653e48c2981,Smarte Hoder AS,2023-03-12T10:54:12.988Z,7a98d363-715f-4207-a1e1-4ee7c08ce69d,ZZZ,Norway,no,108574284891648,Smarte Hoder AS,Facebook
 effd6526-6fd0-41f6-830e-df4a29c08bdc,Sápmi Pride,2023-08-12T05:08:12.261Z,bde4a5e4-216c-4e78-b355-f55b3956758e,ZZZ,Norway,no,355828061231244,Sápmi Pride,Facebook
 b2a34078-552e-48e2-8aa8-4f0161fc72e7,TBA - To Be Announced,2023-03-08T19:56:04.942Z,a2e989c8-9f2e-4614-8426-9314c562a533,ZZZ,Norway,no,104666278227661,TBA - To Be Announced,Facebook
+a9197359-a868-4ac7-bb4e-a22c97ab962f,Gubberock,2023-12-08T06:09:12.782Z,f40e7d2a-56d5-4795-be61-46f70181fd5e,ZZZ,Norway,no,111456931028973,Gubberock,Facebook
 f406b410-d4a6-43f4-9d82-193ffe5c188c,GEO EXPLORATION LTD,2023-04-02T10:54:10.186Z,a03855be-1997-4dc0-92b6-a08057c23ea4,ZZZ,Norway,no,105961368836093,GEO EXPLORATION LTD,Facebook
+cab50c3a-2a9a-4a28-b639-145b45d70487,Backstage,2023-03-25T10:53:47.567Z,92105b36-e753-45b3-a73e-c5b052cdde09,ZZZ,Norway,no,182355701779528,Backstage,Facebook
 3d3025a2-977e-4697-bd75-d1b7724e6690,Livestock,2023-07-08T06:08:04.478Z,ec0d5571-a2bb-4031-80e8-d799fcff0027,ZZZ,Norway,no,293848737309009,Livestock,Facebook
+42d3c6a2-7b26-4f29-b234-8eec24718642,Eva Weel Skram,2023-11-18T05:07:31.343Z,20073498-28de-4e56-bf78-b79833da9a1f,ZZZ,Norway,no,46364297805,Eva Weel Skram,Facebook
+def868d0-0f8f-4417-b2d6-a4b386e9fece,Vaksdal INP,2023-09-02T05:07:23.422Z,0ca942f4-07ba-4d70-92f8-a8853731a822,INP,Norway,no,109582628765042,Vaksdal INP,Facebook
 04303461-e817-42fe-8505-99841328803c,Human,2023-11-18T05:07:31.406Z,6ba2b02b-c7aa-458a-ab09-1fbc69600669,ZZZ,Norway,no,182798168745,Human,Facebook
 545c731f-e0e1-4c66-b17e-af4591d6ada2,Corporate Communications,2023-08-07T05:08:26.407Z,e98b5933-ba3a-443c-be2f-1cee25693af9,ZZZ,Norway,no,129515713837852,Corporate Communications,Facebook
+0637fc24-f829-4a29-8425-3d6e261e78ef,Ålesund INP,2023-08-03T05:08:00.821Z,45c7a97e-8a0e-4e43-829a-86aa80cd58a7,INP,Norway,no,115781087007118,Ålesund INP,Facebook
+fa9848ba-c585-4dac-b9d1-2122c2bf7169,Jobbnorge,2023-03-26T10:53:54.187Z,9f712357-2086-4e87-9d69-9877205d59f4,ZZZ,Norway,no,119404284750436,Jobbnorge,Facebook
 0667ea08-7a75-4a73-a180-b3ddaa366bfe,Sortland INP,2023-08-30T05:07:24.674Z,0b7c48cd-626e-4397-b9d5-c5e5497c35f3,INP,Norway,no,102232482671135,Sortland INP,Facebook
 536da0fd-d698-44ee-998a-9222fcc34007,Bergen INP,2023-03-08T19:13:22.541Z,27751079-9b29-4f78-9dbe-a634cfd4ee9c,INP,Norway,no,102765264871900,Bergen INP,Facebook
 10be64ae-4d8e-474c-81e6-f27e80e787ea,Human-Etisk Forbund,2023-03-18T10:54:02.458Z,4f83cb9e-cc05-485d-aaf3-29762bbc110a,ZZZ,Norway,no,153710294662597,Human-Etisk Forbund,Facebook
@@ -1075,19 +1087,22 @@ fbe96654-4ae4-4965-b3a5-eeadd76f4bac,I Love Dogs.no,2023-05-05T06:53:25.076Z,638
 69ea54bb-36b0-40ad-baae-3ddd757a3652,Mkeli custom clothing,2023-08-05T05:08:18.362Z,feaaf2b7-55ec-450f-a8a0-18a44548c2b0,ZZZ,Norway,no,104939085904916,Mkeli custom clothing,Facebook
 64d8d201-cb73-453e-9df7-69f665f5fd47,Karmøy kommune,2023-06-16T09:33:46.556Z,a226599d-9e76-4b7a-927b-e1708c5e5eef,ZZZ,Norway,no,337998691128,Karmøy kommune,Facebook
 e37d7657-47e8-4cb5-90f3-37c2727dbe87,Pfizer Norge,2023-03-08T17:26:31.684Z,e1dfe59b-ba87-48df-8401-b4b006bbc5eb,ZZZ,Norway,no,472902029552798,Pfizer Norge,Facebook
-02df976b-f7a5-4955-b790-095de807773c,Kistefos Museum,2023-04-22T06:04:25.275Z,3e27e270-09c7-4556-95e9-62c8c8d4318e,ZZZ,Norway,no,164289149190,Kistefos Museum,Facebook
-8f649564-4dcb-4e8b-8218-78c5b1798d8b,Actis - Rusfeltets Samarbeidsorgan,2024-01-15T05:07:35.201Z,b7123227-f2a1-484d-aace-9f8a345f3fbf,ZZZ,Norway,no,125087157526451,Actis - Rusfeltets Samarbeidsorgan,Facebook
-d04e7cab-e678-44f4-90e5-39f1a5d4ff7d,Sem & Johnsen,2023-05-21T06:53:49.135Z,69e6352e-7f34-4e79-b51e-19c17e6b0ac8,ZZZ,Norway,no,362805497256161,Sem & Johnsen,Facebook
-d75a2381-0aeb-4884-bfb4-0bf6c9cbb1da,Åpen folkekirke i Hamar bispedømme,2023-08-25T05:07:12.901Z,8ff6e78e-7de7-426a-9fc4-39da697396ac,ZZZ,Norway,no,1521296124828016,Åpen folkekirke i Hamar bispedømme,Facebook
-a5d4b3bc-77c5-47ed-a87d-820303d3d231,Akari Numedal,2023-09-02T05:07:23.451Z,962721b9-c578-455d-b67a-034a7b4ab084,ZZZ,Norway,no,102544682571216,Akari Numedal,Facebook
-fa3342cd-931d-4f50-90f8-7653e48c2981,Smarte Hoder AS,2023-03-12T10:54:12.988Z,7a98d363-715f-4207-a1e1-4ee7c08ce69d,ZZZ,Norway,no,108574284891648,Smarte Hoder AS,Facebook
-a9197359-a868-4ac7-bb4e-a22c97ab962f,Gubberock,2023-12-08T06:09:12.782Z,f40e7d2a-56d5-4795-be61-46f70181fd5e,ZZZ,Norway,no,111456931028973,Gubberock,Facebook
-cab50c3a-2a9a-4a28-b639-145b45d70487,Backstage,2023-03-25T10:53:47.567Z,92105b36-e753-45b3-a73e-c5b052cdde09,ZZZ,Norway,no,182355701779528,Backstage,Facebook
-42d3c6a2-7b26-4f29-b234-8eec24718642,Eva Weel Skram,2023-11-18T05:07:31.343Z,20073498-28de-4e56-bf78-b79833da9a1f,ZZZ,Norway,no,46364297805,Eva Weel Skram,Facebook
-def868d0-0f8f-4417-b2d6-a4b386e9fece,Vaksdal INP,2023-09-02T05:07:23.422Z,0ca942f4-07ba-4d70-92f8-a8853731a822,INP,Norway,no,109582628765042,Vaksdal INP,Facebook
-0637fc24-f829-4a29-8425-3d6e261e78ef,Ålesund INP,2023-08-03T05:08:00.821Z,45c7a97e-8a0e-4e43-829a-86aa80cd58a7,INP,Norway,no,115781087007118,Ålesund INP,Facebook
-fa9848ba-c585-4dac-b9d1-2122c2bf7169,Jobbnorge,2023-03-26T10:53:54.187Z,9f712357-2086-4e87-9d69-9877205d59f4,ZZZ,Norway,no,119404284750436,Jobbnorge,Facebook
-d56946bd-8767-4a31-8f78-cb91d3a04dc6,Reform - ressurssenter for menn,2023-06-12T06:53:28.156Z,a477f3a2-a019-4e92-bc06-722cd1a5bc62,ZZZ,Norway,no,199001866832385,Reform - ressurssenter for menn,Facebook
+882e3a98-e35f-4829-9b38-e823f5206848,Hippegården,2023-09-03T05:07:18.831Z,ed2c8c09-cd59-4e5d-bf50-f4235ea84672,ZZZ,Norway,no,101870765324147,Hippegården,Facebook
+4a9de0b0-6340-4549-8d56-7c7597a783e4,Oslo Dokumentarkino (The Oslo Documentary Cinema),2023-04-04T10:54:14.064Z,d14b3ac6-dd98-4caa-9811-363ab7ab4d66,ZZZ,Norway,no,129925163706887,Oslo Dokumentarkino (The Oslo Documentary Cinema),Facebook
+980978ae-f283-46ad-8f95-61434fdcd371,Universitetsplassen - UiO,2023-03-19T10:54:01.149Z,943caa57-c764-46fd-be9d-45f05fe4dfc8,ZZZ,Norway,no,100682016119457,Universitetsplassen - UiO,Facebook
+2abe5566-f60a-4693-b159-9d92487d2a03,UTSYN - Forum for utenriks og sikkerhet,2023-03-08T16:55:10.729Z,72ec1305-03de-4c8d-a313-423219037b8e,ZZZ,Norway,no,200966497322512,UTSYN - Forum for utenriks og sikkerhet,Facebook
+aa5144c7-e650-4f7e-a4da-5d2e240b1272,Statsbygg,2023-08-28T05:07:13.473Z,f343ef18-3c0d-4078-85c3-946a8426aec3,ZZZ,Norway,no,164083961278,Statsbygg,Facebook
+f823a7e7-9ac7-4598-9719-d1b36cbc539a,AT Skog SA,2023-04-10T10:53:33.150Z,6298f589-6c8b-4d69-9bb0-e9dcbfd0ad62,ZZZ,Norway,no,872327842805800,AT Skog SA,Facebook
+f0965207-925e-4253-b99e-786d9475761e,Akademiet Privatistskole og Nettstudier,2023-12-31T05:07:21.866Z,c1586ef9-1adc-4e7f-a726-9119608e341f,ZZZ,Norway,no,327422613939565,Akademiet Privatistskole og Nettstudier,Facebook
+76824b74-1a75-4efb-b9a7-6c8cf015d04b,Black Box teater,2023-04-21T06:54:11.238Z,7c38123b-a481-41f7-ade9-8d9ffc425b36,ZZZ,Norway,no,111478629369,Black Box teater,Facebook
+d34a13c6-dd63-4515-80fa-37be5a0ba1a4,Desibelles,2023-10-20T05:07:33.883Z,54b3adb5-f6fc-47c2-a8d7-f83c8c519f10,ZZZ,Norway,no,1547463055390314,Desibelles,Facebook
+1a7251a2-818b-4eb9-bf3b-663011b4b04f,Avisa Gaula,2023-12-23T05:07:00.575Z,6d397e9b-20f7-4535-9234-e5cb2523c4f8,ZZZ,Norway,no,598278500204912,Avisa Gaula,Facebook
+272f3259-e7e2-4ef7-93c1-8a350883e140,Nordpolen Industrier AS,2023-07-03T06:16:26.719Z,608cf063-2ad8-49f5-b48c-5c925f76362e,ZZZ,Norway,no,278942535468400,Nordpolen Industrier AS,Facebook
+813a2cfa-ae51-4792-b8d3-49e283bc1ce3,Valdres Natur- og Kulturpark,2024-01-02T05:07:03.764Z,a2b15a71-b139-43d3-bc53-99f89872a755,ZZZ,Norway,no,207280692160,Valdres Natur- og Kulturpark,Facebook
+0e0a0a82-f3a1-40c8-bb7b-5d8993165c68,GramArt,2023-11-20T05:07:46.345Z,c8fa6b8b-676d-4272-8169-a220f5ccaa30,ZZZ,Norway,no,178768655487965,GramArt,Facebook
+ad2cec15-5f4b-4780-86b4-14564d05e3a9,Psynapse,2023-08-27T05:07:24.635Z,6297fdef-6276-4da6-bf23-8e14087af99f,ZZZ,Norway,no,617263878402661,Psynapse,Facebook
+77a090bb-a2f9-407a-8c1d-db672012190c,Hvit jul,2023-12-05T05:07:26.759Z,71c3a322-9e36-4887-985a-3add10716852,ZZZ,Norway,no,148832675139363,Hvit jul,Facebook
+8a02f4f8-866e-471c-a22e-0099c88abb9b,Eurojuris Nord,2023-05-21T06:53:49.152Z,f1b68421-1972-4d23-a9e0-307c5d03b742,ZZZ,Norway,no,544621952317384,Eurojuris Nord,Facebook
 34c2341f-99e1-4fc6-8252-2a6e3517d23d,deadpoetpainter,2023-12-19T05:07:02.897Z,7258f4d2-c83d-4f36-a953-80f9fb1b9872,ZZZ,Norway,no,182088344985337,deadpoetpainter,Facebook
 da0d6a4d-3f53-4437-a183-ae9aeefe341d,Storytel,2023-03-08T15:04:30.668Z,403d2804-ed35-4622-8061-ac61110a10e5,ZZZ,Norway,no,1411266592462879,Storytel,Facebook
 08cdd13b-3954-444c-8ae9-38e15adc53ee,teashi.k,2023-07-21T05:08:29.802Z,a9ced3be-9e64-48d4-a330-611a0c84c3ac,ZZZ,Norway,no,104198914637744,teashi.k,Facebook
@@ -1111,14 +1126,7 @@ eaec94fe-a5ea-4402-bcc6-5e5faa3b98b2,bernd.bierbaum,2024-01-19T05:07:27.830Z,833
 4493bf35-095c-468a-af89-8ef79bd634ba,Delta - en arbeidstakerorganisasjon i YS,2023-09-03T05:07:18.189Z,ac54b2e3-18b3-43bf-8069-f8b66f22da6c,ZZZ,Norway,no,369553031480,Delta - en arbeidstakerorganisasjon i YS,Facebook
 72636dd4-de2c-4b6a-8d40-ca496e73b5ef,Torbjørn Espelien,2023-04-06T10:54:31.373Z,a84bb133-988d-4ef4-bf92-23b0277e7dbb,Frp,Norway,no,2028490037385381,Torbjørn Espelien,Facebook
 252c918c-c3c0-4dd9-83be-6c0cfcc7c01f,Agenda Magasin,2023-08-29T05:07:18.053Z,188bff1b-0021-4ebf-b222-9bfaf11f3b4f,ZZZ,Norway,no,428193907379911,Agenda Magasin,Facebook
-d5eb934f-8dad-49a2-ab6a-0aa435566f00,Slottsfjellsmuseet,2024-02-19T08:15:33.116Z,b4fb4fda-325a-40f7-be4f-6f1153108931,ZZZ,Norway,no,165454066836107,Slottsfjellsmuseet,Facebook
-639dcad7-51fe-48f0-bea2-80719b8de5e9,Tullin,2023-07-19T06:07:48.542Z,d54693be-90b1-4d59-ba04-17d6e77ebc60,ZZZ,Norway,no,108067591099556,Tullin,Facebook
-d10ed0e0-9102-4782-913f-6672cebc0aff,Bistandsaktuelt,2023-05-09T06:53:42.070Z,32ecf227-e852-4d38-a6be-5b55cd917689,ZZZ,Norway,no,151845336496,Bistandsaktuelt,Facebook
-e03aaff1-0a5a-4bda-8d34-2e1c36cd2c2b,Idrettspolitikk.no,2023-03-21T10:53:53.060Z,bfade466-5f2b-4fd8-9936-173cb40e923e,ZZZ,Norway,no,2005604209471460,Idrettspolitikk.no,Facebook
-ec15fe12-1dab-4878-80b2-26434e5f32cb,Børre St. Børresen - samfunnsengasjert,2023-03-08T20:17:21.432Z,a6016b57-58be-40a3-81eb-5b20c1ce16c5,ZZZ,Norway,no,103642311168469,Børre St. Børresen - samfunnsengasjert,Facebook
-d7cdd31a-1e82-43fb-bd89-703008ce4a09,Sola INP,2023-08-04T05:08:09.557Z,7c00bd74-04a6-4bc5-b329-779a397d5f48,INP,Norway,no,101773061901523,Sola INP,Facebook
-03c0ac15-4d94-4048-996f-682340f08fc2,Re-Imagine Europe,2023-12-02T17:14:09.141Z,7bec91f9-3711-4142-bb48-0469363d39ff,ZZZ,Norway,no,480741685616387,Re-Imagine Europe,Facebook
-a950dd23-df0d-45da-8a5c-ce05c6f42d6c,4H Rogaland,2023-05-09T06:53:41.990Z,6d5dba39-fb92-4e0d-8936-3d65f7d75a64,ZZZ,Norway,no,147287065325074,4H Rogaland,Facebook
+d56946bd-8767-4a31-8f78-cb91d3a04dc6,Reform - ressurssenter for menn,2023-06-12T06:53:28.156Z,a477f3a2-a019-4e92-bc06-722cd1a5bc62,ZZZ,Norway,no,199001866832385,Reform - ressurssenter for menn,Facebook
 f6aa216d-d837-4301-855e-66122303f11e,Galleri lille Martine,2023-06-11T06:53:34.426Z,1a1bd829-f04f-4026-ada4-621d34ce5a5f,ZZZ,Norway,no,339489442785744,Galleri lille Martine,Facebook
 eae63746-5ef0-4bdf-8fc9-cf80f9d1f639,Til læreren - Fra Røde Kors,2023-11-27T07:57:33.722Z,c0087586-c56b-4f4d-a259-21d714375787,ZZZ,Norway,no,111478711759496,Til læreren - Fra Røde Kors,Facebook
 862a71d1-1510-4a48-8f4c-6bd84caa0f66,Lederne,2023-05-04T06:53:28.260Z,97b86c44-2a06-41e5-b64e-0dbab4061646,ZZZ,Norway,no,60540214886,Lederne,Facebook
@@ -1133,78 +1141,70 @@ a90d07c6-a53e-40c3-b3ca-fc8ca402245c,FI Norge,2023-04-30T06:53:35.183Z,09802782-
 2275cc44-8463-4c2e-a6f5-d12a0e22573c,Advokatveiledning,2023-09-22T04:06:58.860Z,80b9a0c5-39f7-4d12-8854-48074471f13e,ZZZ,Norway,no,495965600508243,Advokatveiledning,Facebook
 c2de8517-f0b7-4ad3-998c-75ba01873673,Bodø Arbeiderparti,2023-12-22T05:07:14.662Z,cd051c73-31d8-4983-9b19-ccaa50631017,Ap,Norway,no,112867972123661,Bodø Arbeiderparti,Facebook
 db933f3b-b53c-4548-8493-3d4efbca1b62,Lånke Arbeiderlag,2023-05-06T06:53:44.579Z,32acf17c-fa91-45a8-b04a-473c3d59ff55,ZZZ,Norway,no,1629110813846272,Lånke Arbeiderlag,Facebook
-882e3a98-e35f-4829-9b38-e823f5206848,Hippegården,2023-09-03T05:07:18.831Z,ed2c8c09-cd59-4e5d-bf50-f4235ea84672,ZZZ,Norway,no,101870765324147,Hippegården,Facebook
 799e9c66-73cf-477c-ac5b-d246989c3601,Askøy SV,2023-12-20T05:07:20.938Z,29e326e9-d594-4d51-8111-5bf5c76e2ca6,SV,Norway,no,123967571041055,Askøy SV,Facebook
-4a9de0b0-6340-4549-8d56-7c7597a783e4,Oslo Dokumentarkino (The Oslo Documentary Cinema),2023-04-04T10:54:14.064Z,d14b3ac6-dd98-4caa-9811-363ab7ab4d66,ZZZ,Norway,no,129925163706887,Oslo Dokumentarkino (The Oslo Documentary Cinema),Facebook
 3938d0d9-3016-4990-890e-453975f02eb2,Vestby Industri -og Næringsparti,2023-05-17T06:53:21.977Z,d6d2a35b-05b6-46c4-8839-ca4ee5b64bd3,ZZZ,Norway,no,563775530695520,Vestby Industri -og Næringsparti,Facebook
-980978ae-f283-46ad-8f95-61434fdcd371,Universitetsplassen - UiO,2023-03-19T10:54:01.149Z,943caa57-c764-46fd-be9d-45f05fe4dfc8,ZZZ,Norway,no,100682016119457,Universitetsplassen - UiO,Facebook
 6efce388-b970-4e79-816b-e5ef4446b70a,GMO-nettverket,2023-04-17T08:06:06.479Z,41f8648b-2001-4175-8a9f-c3beb6d16884,ZZZ,Norway,no,261593093898876,GMO-nettverket,Facebook
 af0523a5-f353-4743-acb3-9374559a05bb,Livsstilsguide,2023-10-14T05:07:27.350Z,ed9a1e55-0f42-4eb3-8114-63d3a091fca3,ZZZ,Norway,no,114994803374985,Livsstilsguide,Facebook
-2abe5566-f60a-4693-b159-9d92487d2a03,UTSYN - Forum for utenriks og sikkerhet,2023-03-08T16:55:10.729Z,72ec1305-03de-4c8d-a313-423219037b8e,ZZZ,Norway,no,200966497322512,UTSYN - Forum for utenriks og sikkerhet,Facebook
 eae119ba-c232-479e-842d-6ece1f9871b6,Kvänum Kitchen,2023-03-28T10:54:02.300Z,d4e2cd8b-4831-4889-b19a-5b0123749a30,ZZZ,Norway,no,143402829064015,Kvänum Kitchen,Facebook
-aa5144c7-e650-4f7e-a4da-5d2e240b1272,Statsbygg,2023-08-28T05:07:13.473Z,f343ef18-3c0d-4078-85c3-946a8426aec3,ZZZ,Norway,no,164083961278,Statsbygg,Facebook
 00990043-2324-4e52-8771-13265677023b,PlantsPond,2023-11-17T05:07:21.900Z,020eeb0e-5707-4474-9e4a-9bd0566e14dc,ZZZ,Norway,no,136732312860607,PlantsPond,Facebook
-f823a7e7-9ac7-4598-9719-d1b36cbc539a,AT Skog SA,2023-04-10T10:53:33.150Z,6298f589-6c8b-4d69-9bb0-e9dcbfd0ad62,ZZZ,Norway,no,872327842805800,AT Skog SA,Facebook
 bd46f2ca-628d-4660-abe5-5b20f4876c88,Offshore Norge,2023-03-12T10:54:12.945Z,a866eba8-7bca-468b-b38c-9dd55399ce86,ZZZ,Norway,no,111036919049229,Offshore Norge,Facebook
-f0965207-925e-4253-b99e-786d9475761e,Akademiet Privatistskole og Nettstudier,2023-12-31T05:07:21.866Z,c1586ef9-1adc-4e7f-a726-9119608e341f,ZZZ,Norway,no,327422613939565,Akademiet Privatistskole og Nettstudier,Facebook
-76824b74-1a75-4efb-b9a7-6c8cf015d04b,Black Box teater,2023-04-21T06:54:11.238Z,7c38123b-a481-41f7-ade9-8d9ffc425b36,ZZZ,Norway,no,111478629369,Black Box teater,Facebook
-d34a13c6-dd63-4515-80fa-37be5a0ba1a4,Desibelles,2023-10-20T05:07:33.883Z,54b3adb5-f6fc-47c2-a8d7-f83c8c519f10,ZZZ,Norway,no,1547463055390314,Desibelles,Facebook
-1a7251a2-818b-4eb9-bf3b-663011b4b04f,Avisa Gaula,2023-12-23T05:07:00.575Z,6d397e9b-20f7-4535-9234-e5cb2523c4f8,ZZZ,Norway,no,598278500204912,Avisa Gaula,Facebook
-272f3259-e7e2-4ef7-93c1-8a350883e140,Nordpolen Industrier AS,2023-07-03T06:16:26.719Z,608cf063-2ad8-49f5-b48c-5c925f76362e,ZZZ,Norway,no,278942535468400,Nordpolen Industrier AS,Facebook
 5774cbea-1eab-4a2d-84b9-8ee50ac7856b,Senterpartiet,2023-03-08T19:02:45.820Z,9b02c5f4-4eef-4081-acdc-562c4a349007,Sp,Norway,no,11526489541,Senterpartiet,Facebook
-813a2cfa-ae51-4792-b8d3-49e283bc1ce3,Valdres Natur- og Kulturpark,2024-01-02T05:07:03.764Z,a2b15a71-b139-43d3-bc53-99f89872a755,ZZZ,Norway,no,207280692160,Valdres Natur- og Kulturpark,Facebook
 c42daebd-443d-488b-a209-b48be6a584ad,Alver INP,2023-06-06T06:53:31.470Z,10ff8055-3de3-4852-bb09-e66461bf69b0,INP,Norway,no,110620471777584,Alver INP,Facebook
-0e0a0a82-f3a1-40c8-bb7b-5d8993165c68,GramArt,2023-11-20T05:07:46.345Z,c8fa6b8b-676d-4272-8169-a220f5ccaa30,ZZZ,Norway,no,178768655487965,GramArt,Facebook
-ad2cec15-5f4b-4780-86b4-14564d05e3a9,Psynapse,2023-08-27T05:07:24.635Z,6297fdef-6276-4da6-bf23-8e14087af99f,ZZZ,Norway,no,617263878402661,Psynapse,Facebook
 77388103-4cc2-44c5-8d31-3b3b76b3b6d1,Victoriafestivalen Kviteseid,2023-04-20T06:53:55.509Z,abd65395-d420-4fdb-84c4-54fefc9481b2,ZZZ,Norway,no,853089684811986,Victoriafestivalen Kviteseid,Facebook
 9b376a74-4c9b-4b0f-a23c-33c5ff8c6fdf,Litteraturhuset,2023-04-08T10:54:08.598Z,65891685-0c45-4655-9e62-a14c28182e31,ZZZ,Norway,no,169468006414718,Litteraturhuset,Facebook
-77a090bb-a2f9-407a-8c1d-db672012190c,Hvit jul,2023-12-05T05:07:26.759Z,71c3a322-9e36-4887-985a-3add10716852,ZZZ,Norway,no,148832675139363,Hvit jul,Facebook
 e376188c-b26f-4936-be0c-b34237def2ea,Agder Sparebank,2023-04-06T10:54:31.375Z,1dd3b6f0-5546-407a-abbd-efbd49ba747d,ZZZ,Norway,no,188661004494191,Agder Sparebank,Facebook
-8a02f4f8-866e-471c-a22e-0099c88abb9b,Eurojuris Nord,2023-05-21T06:53:49.152Z,f1b68421-1972-4d23-a9e0-307c5d03b742,ZZZ,Norway,no,544621952317384,Eurojuris Nord,Facebook
 3108c195-8f03-440d-bda6-44df8cd6371f,Pride Art / Skeive Kunstnere Norway,2023-04-05T10:53:59.401Z,ab45e224-a562-4d12-be2d-b68422ace392,ZZZ,Norway,no,110846065598676,Pride Art / Skeive Kunstnere Norway,Facebook
-44dd612c-669d-4326-b400-87830f1829b2,Nyss.no,2023-11-19T05:07:17.413Z,bc50874c-956d-410f-8f31-5aeb2c103ede,ZZZ,Norway,no,102640394986313,Nyss.no,Facebook
 891d606e-fbc9-49a2-a8c8-62297a953c42,Attack konferansen,2023-04-04T10:54:14.085Z,38d39c9b-84dc-41e5-bd1c-14f5f7550ba3,ZZZ,Norway,no,113006005045036,Attack konferansen,Facebook
-af4aa578-5ff1-44b4-96f7-97a00e4f99b0,Kilden Gender Research News,2023-04-21T06:54:11.253Z,45775ff1-c7e8-43d5-9a7b-b70e7cd91e1e,ZZZ,Norway,no,1048898825130888,Kilden Gender Research News,Facebook
 5d4335f3-3b08-46dc-baaf-df46c6fff7d4,Narkotikapolitikk.no,2023-03-31T10:54:14.624Z,e2bc1995-ba70-417f-98d2-a738f4faf78d,ZZZ,Norway,no,238018029731440,Narkotikapolitikk.no,Facebook
-4e4a51f9-7f8a-4799-b257-bcbdf8249365,Samarbeidsrådet for tros- og livssynssamfunn,2023-11-03T05:07:39.489Z,f6938920-4edd-4273-ae54-ae1de9448b11,ZZZ,Norway,no,130260323761912,Samarbeidsrådet for tros- og livssynssamfunn,Facebook
 d5d1a481-8c08-4866-87e2-1b56989d06c0,HK Norge,2023-03-15T10:54:22.867Z,d410bf23-5a14-422d-b28e-01674f7b3835,ZZZ,Norway,no,178897738805857,HK Norge,Facebook
 c166120d-86c3-4bf4-aec9-04b6f8ceed43,Edmond Yang Art,2023-03-13T10:53:58.745Z,91090c1f-a2cb-47a3-8a84-8cca0d33e953,ZZZ,Norway,no,109373621755955,Edmond Yang Art,Facebook
-7ca1b360-b620-4608-ad38-595a1bd032fa,Agrojobb,2023-03-08T16:34:22.040Z,e1a0b3e7-dde7-459f-8353-b0dab5b2f84f,ZZZ,Norway,no,1850147601904639,Agrojobb,Facebook
 3dc69769-e9ad-441e-b70a-6ce5007444f2,Viaplay,2023-03-08T17:26:31.713Z,65c6759a-7d83-4891-b851-e4d18610a5f8,ZZZ,Norway,no,156054334451951,Viaplay,Facebook
-1631d3e8-6b5b-4fea-86a5-3cc33aaf78dd,Studentersamfundet i Trondhjem,2023-03-08T16:55:10.756Z,b6df0e6d-e6bd-42b5-a364-de226c58e866,ZZZ,Norway,no,11782406887,Studentersamfundet i Trondhjem,Facebook
 d1e8a931-cb7d-4380-a481-e23a63acc740,Harstad Kulturhus,2023-03-08T19:24:03.392Z,c2994dc7-8f23-4f79-a567-77a8af413ad1,ZZZ,Norway,no,221558464537330,Harstad Kulturhus,Facebook
-df9da04a-7429-4fae-9312-3e583436a8ea,Rolf Olsen Consulting,2024-01-09T05:07:31.268Z,9fec3bc7-2c6e-457a-9c47-8bf2f20674f7,ZZZ,Norway,no,142634462432352,Rolf Olsen Consulting,Facebook
 e0f3b735-7941-4928-a401-5f2df88841cd,SweetMood.no,2023-04-25T06:53:47.902Z,9e3e686f-fb96-4373-9b0d-7d6989d9af29,ZZZ,Norway,no,100819182204863,SweetMood.no,Facebook
-7f552d31-575a-47ed-91d8-d287808d4169,DNB Eiendom,2023-06-30T05:08:14.621Z,34075f08-8535-4b0a-8452-02fc3dcfa664,ZZZ,Norway,no,102013743204327,DNB Eiendom,Facebook
 ddf27241-2958-4bb7-992d-6c9f178588ff,KLP,2023-06-23T05:17:18.622Z,48006b6b-463d-4019-b9ce-f42cb8126e7a,ZZZ,Norway,no,189935113070,KLP,Facebook
-d0993ca9-2fe4-47ad-bda5-4282c2d021e2,Business Lite,2023-05-27T06:53:27.645Z,1bbadad5-19e2-4ef6-aacc-9e01685065c3,ZZZ,Norway,no,123288564086337,Business Lite,Facebook
 88304051-190c-410f-af14-ff6e3665a0f9,Hustadvika kommune,2023-06-27T06:57:42.866Z,01d2a4c5-9bf2-40bb-80b3-0a70cb37f2bb,ZZZ,Norway,no,200168040392101,Hustadvika kommune,Facebook
+44dd612c-669d-4326-b400-87830f1829b2,Nyss.no,2023-11-19T05:07:17.413Z,bc50874c-956d-410f-8f31-5aeb2c103ede,ZZZ,Norway,no,102640394986313,Nyss.no,Facebook
+af4aa578-5ff1-44b4-96f7-97a00e4f99b0,Kilden Gender Research News,2023-04-21T06:54:11.253Z,45775ff1-c7e8-43d5-9a7b-b70e7cd91e1e,ZZZ,Norway,no,1048898825130888,Kilden Gender Research News,Facebook
+4e4a51f9-7f8a-4799-b257-bcbdf8249365,Samarbeidsrådet for tros- og livssynssamfunn,2023-11-03T05:07:39.489Z,f6938920-4edd-4273-ae54-ae1de9448b11,ZZZ,Norway,no,130260323761912,Samarbeidsrådet for tros- og livssynssamfunn,Facebook
+7ca1b360-b620-4608-ad38-595a1bd032fa,Agrojobb,2023-03-08T16:34:22.040Z,e1a0b3e7-dde7-459f-8353-b0dab5b2f84f,ZZZ,Norway,no,1850147601904639,Agrojobb,Facebook
+1631d3e8-6b5b-4fea-86a5-3cc33aaf78dd,Studentersamfundet i Trondhjem,2023-03-08T16:55:10.756Z,b6df0e6d-e6bd-42b5-a364-de226c58e866,ZZZ,Norway,no,11782406887,Studentersamfundet i Trondhjem,Facebook
+df9da04a-7429-4fae-9312-3e583436a8ea,Rolf Olsen Consulting,2024-01-09T05:07:31.268Z,9fec3bc7-2c6e-457a-9c47-8bf2f20674f7,ZZZ,Norway,no,142634462432352,Rolf Olsen Consulting,Facebook
+7f552d31-575a-47ed-91d8-d287808d4169,DNB Eiendom,2023-06-30T05:08:14.621Z,34075f08-8535-4b0a-8452-02fc3dcfa664,ZZZ,Norway,no,102013743204327,DNB Eiendom,Facebook
+d0993ca9-2fe4-47ad-bda5-4282c2d021e2,Business Lite,2023-05-27T06:53:27.645Z,1bbadad5-19e2-4ef6-aacc-9e01685065c3,ZZZ,Norway,no,123288564086337,Business Lite,Facebook
 4e7f729f-4413-4519-af6a-1c6e5ff87647,Utdanningsforbundet,2023-09-01T05:07:22.564Z,be768f83-7972-4126-939b-0d5679f285ae,ZZZ,Norway,no,175310537979,Utdanningsforbundet,Facebook
-a64630ac-2a41-4520-8f7a-be9d7f846c49,K2 utdanning,2023-04-07T10:54:05.750Z,4318e5fe-fbef-48e6-9be8-f37534b71bd5,ZZZ,Norway,no,203154906998260,K2 utdanning,Facebook
 ac5dee9d-463a-4bbc-a7c8-8c244162cc58,Sex og samfunn,2023-12-17T05:07:20.854Z,158294fe-9d31-47c0-80c2-9a5b23535c02,ZZZ,Norway,no,110883082283136,Sex og samfunn,Facebook
-f865611b-f3c5-4e1b-87e7-65f351d68367,Norsk Arbeidsmandsforbund Avdeling 8 Midt-Norge,2023-09-01T05:07:23.457Z,909b6650-c6f2-432f-bf15-102fefb92f89,ZZZ,Norway,no,144878182312507,Norsk Arbeidsmandsforbund Avdeling 8 Midt-Norge,Facebook
 2f3c1dd0-cedd-44b3-a0b1-b40eb40a12a2,SLUG - Nettverk for rettferdig gjeldspolitikk,2023-03-08T14:44:40.972Z,ff7eab20-211c-4e45-a6e0-0a983c9c1f45,ZZZ,Norway,no,168480760010,SLUG - Nettverk for rettferdig gjeldspolitikk,Facebook
-066ca621-35e5-4ea9-b458-d25d02cdefdd,Badenoch + Clark Norge,2023-07-05T06:07:51.700Z,837ae7dd-b5ef-4c5b-8d77-3bf631bcedc6,ZZZ,Norway,no,1000348650125373,Badenoch + Clark Norge,Facebook
 6c36ce39-57ee-4311-9000-9be368856b57,Northern Strategy,2024-01-17T05:07:15.166Z,a395c8e9-3198-4305-8ead-a82a6f82e80d,ZZZ,Norway,no,207205410011508,Northern Strategy,Facebook
+263e24c6-2d3f-4a7c-b885-fc78edf8959f,IKAJ Norge,2023-12-24T05:07:20.642Z,8ccabd7f-ac14-4754-a3b0-6e91f6181032,ZZZ,Norway,no,412466965476140,IKAJ Norge,Facebook
+214aa884-9240-4473-ac40-cbd1057aa709,Senior Norge Asker og Bærum,2023-03-30T10:53:57.684Z,15749e72-6156-4365-9176-c2d8616628f5,ZZZ,Norway,no,346116816548563,Senior Norge Asker og Bærum,Facebook
+239d5393-ee06-4153-bb36-f9864cd13f4c,Porsgrunns Dagblad,2023-03-08T19:24:03.432Z,5bffc69f-e21d-493c-adad-eff5a189f39c,ZZZ,Norway,no,446773845399934,Porsgrunns Dagblad,Facebook
+3859d450-de72-4f5a-9cc9-8127c3e579ca,Burgerheim,2023-06-15T06:53:41.497Z,7e491cb5-11e8-45ae-b1ce-bb38f3a36b32,ZZZ,Norway,no,101429938877183,Burgerheim,Facebook
+a64630ac-2a41-4520-8f7a-be9d7f846c49,K2 utdanning,2023-04-07T10:54:05.750Z,4318e5fe-fbef-48e6-9be8-f37534b71bd5,ZZZ,Norway,no,203154906998260,K2 utdanning,Facebook
+f865611b-f3c5-4e1b-87e7-65f351d68367,Norsk Arbeidsmandsforbund Avdeling 8 Midt-Norge,2023-09-01T05:07:23.457Z,909b6650-c6f2-432f-bf15-102fefb92f89,ZZZ,Norway,no,144878182312507,Norsk Arbeidsmandsforbund Avdeling 8 Midt-Norge,Facebook
+066ca621-35e5-4ea9-b458-d25d02cdefdd,Badenoch + Clark Norge,2023-07-05T06:07:51.700Z,837ae7dd-b5ef-4c5b-8d77-3bf631bcedc6,ZZZ,Norway,no,1000348650125373,Badenoch + Clark Norge,Facebook
 f4ce72b0-5d3d-4816-b988-019759e66175,Oslo Pride,2023-04-16T15:06:15.631Z,fe57b6a9-ee81-40c9-8263-5741ff4e64fd,ZZZ,Norway,no,644507742275769,Oslo Pride,Facebook
 74769fb7-4e1d-4e56-ab94-6c31e638b8b7,Overlo Fashion,2023-11-18T05:07:31.403Z,b84a336c-0260-4911-92e9-2f5bda803be5,ZZZ,Norway,no,110672924859701,Overlo Fashion,Facebook
-263e24c6-2d3f-4a7c-b885-fc78edf8959f,IKAJ Norge,2023-12-24T05:07:20.642Z,8ccabd7f-ac14-4754-a3b0-6e91f6181032,ZZZ,Norway,no,412466965476140,IKAJ Norge,Facebook
 6c2ae574-84c5-4a84-8fc5-18279d076631,Maritime CleanTech,2023-08-13T05:08:24.391Z,1ceeabe8-25c2-46d1-aa32-3004d120e2e7,ZZZ,Norway,no,282918951887489,Maritime CleanTech,Facebook
-214aa884-9240-4473-ac40-cbd1057aa709,Senior Norge Asker og Bærum,2023-03-30T10:53:57.684Z,15749e72-6156-4365-9176-c2d8616628f5,ZZZ,Norway,no,346116816548563,Senior Norge Asker og Bærum,Facebook
 80538b24-7f78-474e-b8aa-e5dc64de7e7f,Sex og Politikk,2023-04-17T08:06:06.454Z,3485dc45-6cb2-422b-a343-b1608ada9842,ZZZ,Norway,no,182709078487500,Sex og Politikk,Facebook
-239d5393-ee06-4153-bb36-f9864cd13f4c,Porsgrunns Dagblad,2023-03-08T19:24:03.432Z,5bffc69f-e21d-493c-adad-eff5a189f39c,ZZZ,Norway,no,446773845399934,Porsgrunns Dagblad,Facebook
 b75c7909-23d9-4764-a9e2-3f0f1d3cbf80,Stopp tuberkulosen - LHL Internasjonal,2023-03-28T10:54:02.333Z,7d013a08-2796-439d-ae5a-b77c23834afd,ZZZ,Norway,no,400605216720324,Stopp tuberkulosen - LHL Internasjonal,Facebook
-3859d450-de72-4f5a-9cc9-8127c3e579ca,Burgerheim,2023-06-15T06:53:41.497Z,7e491cb5-11e8-45ae-b1ce-bb38f3a36b32,ZZZ,Norway,no,101429938877183,Burgerheim,Facebook
 7aa67a73-0863-4921-927a-14581872629b,ALPHA - Finn Din Indre Konge,2023-03-08T20:27:56.218Z,2aa8aeb9-684e-4041-9429-d9efeba95b0a,ZZZ,Norway,no,100436426136467,ALPHA - Finn Din Indre Konge,Facebook
 beab2fd8-4353-4db2-ae70-27eeefdfe7b7,Justify,2023-06-07T06:53:23.310Z,c6b7ac23-535d-4bf8-b08a-7855503d7014,ZZZ,Norway,no,616691668454408,Justify,Facebook
-d91fc994-4ba1-4186-8e6b-3a940fa3a837,Bymuseet i Bergen,2024-03-22T05:23:25.449Z,b257bd3f-75d8-4107-bda3-4788bd94ba53,ZZZ,Norway,no,122768891117097,Bymuseet i Bergen,Facebook
+d5eb934f-8dad-49a2-ab6a-0aa435566f00,Slottsfjellsmuseet,2024-02-19T08:15:33.116Z,b4fb4fda-325a-40f7-be4f-6f1153108931,ZZZ,Norway,no,165454066836107,Slottsfjellsmuseet,Facebook
+639dcad7-51fe-48f0-bea2-80719b8de5e9,Tullin,2023-07-19T06:07:48.542Z,d54693be-90b1-4d59-ba04-17d6e77ebc60,ZZZ,Norway,no,108067591099556,Tullin,Facebook
+d10ed0e0-9102-4782-913f-6672cebc0aff,Bistandsaktuelt,2023-05-09T06:53:42.070Z,32ecf227-e852-4d38-a6be-5b55cd917689,ZZZ,Norway,no,151845336496,Bistandsaktuelt,Facebook
+e03aaff1-0a5a-4bda-8d34-2e1c36cd2c2b,Idrettspolitikk.no,2023-03-21T10:53:53.060Z,bfade466-5f2b-4fd8-9936-173cb40e923e,ZZZ,Norway,no,2005604209471460,Idrettspolitikk.no,Facebook
+ec15fe12-1dab-4878-80b2-26434e5f32cb,Børre St. Børresen - samfunnsengasjert,2023-03-08T20:17:21.432Z,a6016b57-58be-40a3-81eb-5b20c1ce16c5,ZZZ,Norway,no,103642311168469,Børre St. Børresen - samfunnsengasjert,Facebook
+d7cdd31a-1e82-43fb-bd89-703008ce4a09,Sola INP,2023-08-04T05:08:09.557Z,7c00bd74-04a6-4bc5-b329-779a397d5f48,INP,Norway,no,101773061901523,Sola INP,Facebook
+03c0ac15-4d94-4048-996f-682340f08fc2,Re-Imagine Europe,2023-12-02T17:14:09.141Z,7bec91f9-3711-4142-bb48-0469363d39ff,ZZZ,Norway,no,480741685616387,Re-Imagine Europe,Facebook
+a950dd23-df0d-45da-8a5c-ce05c6f42d6c,4H Rogaland,2023-05-09T06:53:41.990Z,6d5dba39-fb92-4e0d-8936-3d65f7d75a64,ZZZ,Norway,no,147287065325074,4H Rogaland,Facebook
 3532915e-a0b4-46ca-a5c9-09804c2d3bca,pstnorway,2024-03-23T06:18:57.054Z,68c010b0-e0f7-4814-85f7-bad9a825a26d,ZZZ,Norway,no,100520582962037,pstnorway,Facebook
-7f703b3b-a7a8-4a5a-b33d-a2364e13bc29,Oslo Museum,2024-03-22T05:23:25.426Z,ba99453c-4f57-4dca-bbdd-8a9d8964ce9c,ZZZ,Norway,no,183343891697105,Oslo Museum,Facebook
+d91fc994-4ba1-4186-8e6b-3a940fa3a837,Bymuseet i Bergen,2024-03-22T05:23:25.449Z,b257bd3f-75d8-4107-bda3-4788bd94ba53,ZZZ,Norway,no,122768891117097,Bymuseet i Bergen,Facebook
 9aebc8c0-10f5-4daa-849c-18445142474b,Aleris - sykehus & medisinske sentre,2024-03-17T05:23:39.285Z,8b1c5e80-8108-4928-a0ad-514b245aa894,ZZZ,Norway,no,179901258708928,Aleris - sykehus & medisinske sentre,Facebook
+7f703b3b-a7a8-4a5a-b33d-a2364e13bc29,Oslo Museum,2024-03-22T05:23:25.426Z,ba99453c-4f57-4dca-bbdd-8a9d8964ce9c,ZZZ,Norway,no,183343891697105,Oslo Museum,Facebook
 0f0d4b96-052d-4d40-a5f7-c06e1eaf069e,etjenesten,2024-03-19T05:22:55.004Z,e8c5979f-80d5-4e45-bd9c-823705cd084a,ZZZ,Norway,no,109292432260258,etjenesten,Facebook
-a33905bb-0fa3-4ae3-9c44-506eb715eca2,Norsk Biologforening (BIO),2024-03-10T07:38:00.807Z,55c70899-66f9-4847-945d-91e99807d399,ZZZ,Norway,no,274111979289248,Norsk Biologforening (BIO),Facebook
 bd8eb85a-986d-44a6-a811-d6bc0091bf10,Danieljoachim.org,2024-03-26T05:22:57.889Z,e5c2d7d6-ddde-4d49-8e5b-fb2b8329af6e,ZZZ,Norway,no,811803038868436,Danieljoachim.org,Facebook
-4e2f1705-27bc-4a29-a68c-639b5666f4b0,abdsamir.16,2024-03-09T18:57:08.999Z,ddfdda40-fdc4-4e3b-abc7-7d2604aea6e1,ZZZ,Norway,no,101466938576137,abdsamir.16,Facebook
+a33905bb-0fa3-4ae3-9c44-506eb715eca2,Norsk Biologforening (BIO),2024-03-10T07:38:00.807Z,55c70899-66f9-4847-945d-91e99807d399,ZZZ,Norway,no,274111979289248,Norsk Biologforening (BIO),Facebook
 4424370a-b644-47f5-b0db-4aa24275b109,Sobra scene,2024-03-10T07:38:00.781Z,bb91325a-9404-4879-aea1-a2536a0b296c,ZZZ,Norway,no,473881913041608,Sobra scene,Facebook
-ea22c5f9-ca6f-4edf-aaa8-50416781b043,Lærdal Senterparti,2024-02-28T07:56:02.991Z,5059e93b-d838-476d-8933-75d37a5f375f,Sp,Norway,no,1485063561804211,Lærdal Senterparti,Facebook
+4e2f1705-27bc-4a29-a68c-639b5666f4b0,abdsamir.16,2024-03-09T18:57:08.999Z,ddfdda40-fdc4-4e3b-abc7-7d2604aea6e1,ZZZ,Norway,no,101466938576137,abdsamir.16,Facebook
 f9b63349-238b-47c0-aa22-686c57b96fa2,Scala Bad Design,2024-03-26T05:22:57.887Z,d9e5fbf2-a425-404f-bae5-b58b89c7ec54,ZZZ,Norway,no,192210951620303,Scala Bad Design,Facebook
+ea22c5f9-ca6f-4edf-aaa8-50416781b043,Lærdal Senterparti,2024-02-28T07:56:02.991Z,5059e93b-d838-476d-8933-75d37a5f375f,Sp,Norway,no,1485063561804211,Lærdal Senterparti,Facebook
